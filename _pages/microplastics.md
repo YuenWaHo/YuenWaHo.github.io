@@ -13,7 +13,7 @@ One area of my research focuses on comprehending the pervasive issue of micropla
 
 My research also explores the environmental dynamics of microplastics, investigating their distribution in remote areas such as the **Tibetan Plateau** and their presence in **natural rivers** and **urban stormwater runoff** in Hong Kong. Through these studies, I have sought to underscore the widespread nature of microplastic pollution, its potential health risks to humans, and its impacts on marine and freshwater ecosystems. My ongoing projects continue to focus on these critical issues, with the objective of advancing our understanding of microplastic pollution and informing strategies for mitigating its effects.
 
-======
+---
 
 # Projects:
 
@@ -31,9 +31,8 @@ My research also explores the environmental dynamics of microplastics, investiga
 
 - Project: Nano-bubble assisted flotation of microplastics removal
   - Collaboration with Prof Alicia An's group, The City University of Hong Kong
-  -
 
-======
+---
 
 # Microplastics Ingestion in Humpback dolphins
 
