@@ -24,7 +24,7 @@ author:
   avatar: "Portrait_HoYuenWa_scholar.jpeg"
   name: "Yuen-Wa Ho (Derek)"
   pronouns: # example: "she/her"
-  bio: "Researcher at Cetacea Research Institute, Hong Kong | Postdoctoral Fellow at Marine Ecology and Aquaculture Lab, Hong Kong Polytechnic University"
+  bio: "@ Cetacea Research Institut @ Marine Eco & Aqua Lab"
   location: "Hong Kong"
   employer: "Hong Kong Polytechnic University"
   uri: # URL
@@ -37,7 +37,7 @@ author:
   orcid: "http://orcid.org/0000-0003-1523-112X"
   semantic: # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate: # URL
+  researchgate: "https://www.researchgate.net/profile/Yuen-Wa-Ho"
   scopus: # URL
 
   # Repositories and software development
@@ -56,9 +56,9 @@ author:
   goodreads: # Username
   google_plus: # Username
   keybase: # Username
-  instagram: # Username
+  instagram: "yuenwaho"
   lastfm: # Username
-  linkedin: # Username
+  linkedin: "yuen-wa-ho-9089b1136"
   mastodon: # URL
   medium: # URL
   pinterest: # Username
