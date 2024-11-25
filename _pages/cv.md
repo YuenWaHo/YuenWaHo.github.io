@@ -22,19 +22,9 @@ redirect_from:
 
 # Work experience
 
-- Spring 2024: Academic Pages Collaborator
-  - Github University
-  - Duties includes: Updates and improvements to template
-  - Supervisor: The Users
-
-# Skills
-
-- Skill 1
-- Skill 2
-  - Sub-skill 2.1
-  - Sub-skill 2.2
-  - Sub-skill 2.3
-- Skill 3
+- 2021 - _present_: Postdoctoral Fellow
+  - Hong Kong Polytechnic University
+  - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
 
 # Publications
 
