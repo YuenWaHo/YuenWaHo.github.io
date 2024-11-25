@@ -11,7 +11,7 @@ redirect_from:
 
 # Bayesian Weaning Age Analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 
-<img src="https://github.com/YuenWaHo/EEP-Sousa-WeaningAge/blob/main/Figure.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
+<img src="/images/Bayesian-weaning.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
 
 Published in _Ecological and Evolutionary Physiology_
 
@@ -25,7 +25,7 @@ Manuscript in Preparation
 
 The longitudinal isotopic records archived in dolphin teeth and analysed in this study demonstrate that fine-scale dentine isotopic values vary between sexes and regions, signifying the intra-specific foraging patterns. The results indate that male humpback dolphins occupied a larger isotopic niche area and consumed prey items from a more depleted carbon sources. Isotopic niche area were shown to decrease towards the western side of the PRD region, with a considerable overlap in niche space between adjacent regions. The isotopic niche area were shown to decrease as the total fishery production increase, likely suggesting the effect of anthropogenic pressure on resource consumption pattern of humpback dolphins throughout the study period.
 
-# Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
+# Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
 
 Published in _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
 
