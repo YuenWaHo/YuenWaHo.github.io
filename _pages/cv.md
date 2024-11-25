@@ -30,7 +30,8 @@ redirect_from:
 # Publications
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view)
-<sup>#</sup> Equal contribution <sup>\*</sup> Corresponding author
+
+<sup>#</sup> Equal contribution \* Corresponding author
 
 [14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2024, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
 
@@ -50,7 +51,7 @@ redirect_from:
 
 [6] **Ho, Y.-W.**, Lin, T.-H., Akamatsu, T., & Karczmarski, L. (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. _Ecological Indicators_ 158, 111228
 
-[5] Chan, S.C.Y., Karczmarski, L., Lin, W., Zheng, R., **Ho, Y.-W.**, Guo, L., Mo, Y., Lee, A.T.L., Or, C.K.M., & Wu, Y. (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (Sousa chinensis) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23
+[5] Chan, S.C.Y., Karczmarski, L., Lin, W., Zheng, R., **Ho, Y.-W.**, Guo, L., Mo, Y., Lee, A.T.L., Or, C.K.M., & Wu, Y. (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (_Sousa chinensis_) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23
 
 [4] **Ho, Y.-W.**, Lim, J.Y., Yeoh, Y.K., Chiou, J.-C., Zhu, Y., Lai, K.P., Li, L., Chan, P.K.S., & Fang, J.K.H. (2022) Preliminary findings of the high quantity of microplastics in faeces of Hong Kong residents. _Toxics_ 10, 414.
 
