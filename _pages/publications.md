@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: archive
-title: "Publications"
-permalink: /Publications/
+title: "Publications & CV"
+permalink: /CV/
 author_profile: true
 redirect_from:
   - /resume
----
+--- -->
