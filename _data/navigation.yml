@@ -23,14 +23,14 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Microplastics"
-    url: /microplastics/
-
   - title: "Marine Mammal Ecology"
     url: /cetacean-ecology/
 
   - title: "Soundscape and bioacoustics"
     url: /acoustics/
+
+  - title: "Microplastics"
+    url: /microplastics/
 
   - title: "Blog Posts"
     url: /year-archive/

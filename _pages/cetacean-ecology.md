@@ -11,6 +11,8 @@ redirect_from:
 
 # Bayesian Weaning Age Analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 
+<img src="[/images/acoustics-pam-longterm.png](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge/blob/main/Figure.png)" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
+
 This part of my research focus on the ontogenetic dietary shift of humpback dolphins (_Sousa chinensis_) in the Pearl River Delta (PRD) region. This research aims to provide valuable insights into the life history and ecology of this humpback dolphins, as well as highlight the conservation implications for their future. By examining the dentine nitrogen isotopic values in the teeth of stranded humpback dolphins, we were able to trace the ontogenetic dietary shifts in these animals, revealing important information about their weaning age and feeding habits.
 
 This study focused on tooth samples collected from 95 humpback dolphin carcasses that stranded ashore between 2007 and 2018 in the PRD region. This area encompasses the estuarine system of the Pearl River (Pearl River Estuary, PRE) and adjacent coastal habitats from Hong Kong in the east to Jiangmen in the west. By using the high-precision micro-milling technique, we extracted dentine samples from the teeth and analyzed them for stable isotopes. We then employed a Bayesian framework with a two-stage linear switch-point model to estimate the age at which the ontogenetic dietary shift occurred, as well as the pre- and post-weaning slopes.
