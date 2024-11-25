@@ -20,11 +20,17 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
-
   # - title: "Guide"
   #   url: /markdown/
 
   - title: "Microplastics"
     url: /microplastics/
+
+  - title: "Marine Mammal Ecology"
+    url: /cetacean-ecology/
+
+  - title: "Soundscape and bioacoustics"
+    url: /acoustics/
+
+  - title: "Blog Posts"
+    url: /year-archive/
