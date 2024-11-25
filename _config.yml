@@ -21,12 +21,12 @@ repository: "YuenWaHo/YuenWaHo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
-  name: "Your Sidebar Name"
+  avatar: "Portrait_HoYuenWa_scholar.jpeg"
+  name: "Yuen-Wa Ho (Derek)"
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: "Researcher at Cetacea Research Institute, Hong Kong | Postdoctoral Fellow at Marine Ecology and Aquaculture Lab, Hong Kong Polytechnic University"
   location: "Hong Kong"
-  employer: "The Hong Kong Polytechnic University"
+  employer: "Hong Kong Polytechnic University"
   uri: # URL
   email: "hoyuenwaderek@gmail.com"
 
