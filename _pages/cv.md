@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836)](mailto:hoyuenwaderek@gmail.com)
 [![Github](https://img.shields.io/badge/Github-badge?style=for-the-badge&logo=Github&color=black)](https://github.com/YuenWaHo)
@@ -20,11 +20,12 @@ redirect_from:
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
 - B.S. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
-# Work experience
+# Professional Affiliations
 
-- 2021 - _present_: Postdoctoral Fellow
-  - Hong Kong Polytechnic University
+- 2021 - _present_: Postdoctoral Fellow @ Hong Kong Polytechnic University
   - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
+- 2015 - _present_: Research Scientist @ Cetacea Research Institute, Hong kong
+  - Marine mammal studies using photo-ID, stable isotopes, acoustics
 
 # Publications
 
