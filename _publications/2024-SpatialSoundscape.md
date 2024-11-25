@@ -3,7 +3,7 @@ title: "Fine-scale spatial variability of marine acoustic environment correspond
 collection: publications
 category: manuscripts
 permalink: /publication/2024-SpatialSoundscape
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: #""
 date: 2024-01-30
 venue: "Ecological Indicators"
 slidesurl: #"http://academicpages.github.io/files/slides1.pdf"

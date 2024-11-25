@@ -17,8 +17,8 @@ redirect_from:
 
 # Education
 
-- Ph.D in Marine Mammal Ecology, The University of Hong Kong, 2021
-- B.S. in Ecology and biodiversity, The University of Hong Kong, 2013
+- Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
+- B.S. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
 # Work experience
 

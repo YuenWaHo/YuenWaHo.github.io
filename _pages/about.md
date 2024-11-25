@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836)](mailto:hoyuenwaderek@gmail.com)
+[![Github](https://img.shields.io/badge/Github-badge?style=for-the-badge&logo=Github&color=black)](https://github.com/YuenWaHo)
+[![ORCID](https://img.shields.io/badge/ORCID-badge?style=for-the-badge&logo=ORCID&logoColor=white&color=Black)](https://orcid.org/0000-0003-1523-112X)
+[![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
+[![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
+
 I received my B.Sc. in Ecology and Biodiversity in 2013 and my Ph.D. in Cetacean Ecology from the University of Hong Kong in 2021. My doctoral research focused on the foraging ecology of Indo-Pacific humpback dolphins in Hong Kong, employing a multifaceted approach, with specialised research area in cetacean ecology, underwater soundscape ecology, and microplastic analysis using advanced spectroscopic techniques.
 
 My work on foraging ecology is based on stable isotope analysis through incremental sampling of growth layer groups. My enthusiasm for acoustic research began with an interest in understanding how dolphins communicate, which further developed into a comprehensive exploration of acoustic research techniques, including point-based recording, long-duration passive acoustic recording, and acoustic line-transect studies. My interest also extends to applying analytical skills in big data analysis and Bayesian belief networks.
