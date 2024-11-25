@@ -4,7 +4,7 @@ title: "Microplastics and its impacts"
 permalink: /microplastics/
 author_profile: true
 redirect_from:
-  - /microplastics
+  # - /microplastics
 ---
 
 ![Microplastics](/images/microplastics-header.png)
