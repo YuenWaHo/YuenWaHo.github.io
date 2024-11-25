@@ -9,7 +9,8 @@ redirect_from:
 
 ---
 
-![Microplastics](/images/microplastics-header.png)
+<!-- ![Microplastics](/images/microplastics-header.png) -->
+<img src="/images/microplastics-header.png" alt="acoustics" style="float: center; width: 500px;" />
 
 One area of my research focuses on comprehending the pervasive issue of microplastic pollution, particularly within aquatic ecosystems. Over the years, my work has encompassed various aspects of microplastics, from their detection and characterization to their ecological impacts. For instance, I have investigated the presence of microplastics in **human feaces**, elucidating their potential health risks. My investigations have also extended to numerous marine organisms, such as the **Indo-Pacific humpback dolphins**, **green-lipped mussels**, and **edible oysters**, where I have employed advanced techniques like Raman microspectroscopy and optical photothermal infrared to identify and assess microplastic ingestion. Furthermore, I have contributed to the development of innovative methodologies for microplastic detection, including high-throughput polarization holographic imaging.
 
