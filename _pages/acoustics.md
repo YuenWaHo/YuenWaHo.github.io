@@ -9,7 +9,8 @@ redirect_from:
 
 # Passive Acoustic Monitoring
 
-![acoustics](/images/acoustics-pam-longterm.png)
+![acoustics](/images/acoustics-pam-longterm.png) {float: right;}
+
 Our project involved the collection of underwater recordings from 8 strategically positioned stations in the western and southern waters of Hong Kong. Spanning from March 2019 to August 2023, these recordings were made using the high-performance SoundTrap 300HF recorder and captured the rich soundscape of the marine environment. With the help of professional scuba divers, the hydrophones were deployed and retrieved monthly for data download and maintenance, ensuring a continuous stream of valuable information. Through in-depth analysis, we examined the spectral variations within the recorded data, focusing on frequencies between 20 Hz and 144 kHz. By unraveling the intricate underwater acoustics, our project aims to enhance our understanding of marine ecosystems and contribute to the conservation of marine life.
 
 # Night-time Acoustic Line Transect Study
