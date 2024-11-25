@@ -9,40 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&color=D14836)](mailto:hoyuenwaderek@gmail.com)
+[![Github](https://img.shields.io/badge/Github-badge?style=for-the-badge&logo=Github&color=black)](https://github.com/YuenWaHo)
+[![ORCID](https://img.shields.io/badge/ORCID-badge?style=for-the-badge&logo=ORCID&logoColor=white&color=Black)](https://orcid.org/0000-0003-1523-112X)
+[![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
+[![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Ph.D in Marine Mammal Ecology, The University of Hong Kong, 2021
+- B.S. in Ecology and biodiversity, The University of Hong Kong, 2013
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Work experience
 
-Publications
-======
+- Spring 2024: Academic Pages Collaborator
+  - Github University
+  - Duties includes: Updates and improvements to template
+  - Supervisor: The Users
+
+# Skills
+
+- Skill 1
+- Skill 2
+  - Sub-skill 2.1
+  - Sub-skill 2.2
+  - Sub-skill 2.3
+- Skill 3
+
+# Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
