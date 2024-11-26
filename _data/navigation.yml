@@ -23,10 +23,10 @@ main:
   # - title: "Guide"
   #   url: /markdown/
 
-  - title: "Marine Mammal Ecology"
+  - title: "Cetacean Ecology"
     url: /cetacean-ecology/
 
-  - title: "Soundscape and bioacoustics"
+  - title: "Soundscape & bioacoustics"
     url: /acoustics/
 
   - title: "Microplastics"

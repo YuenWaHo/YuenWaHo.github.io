@@ -31,7 +31,11 @@ redirect_from:
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
 
+---
+
 ## 2024
+
+---
 
 [14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2024, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
 
@@ -51,7 +55,11 @@ redirect_from:
 
 [6] **Ho, Y.-W.**, Lin, T.-H., Akamatsu, T., & Karczmarski, L. (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. _Ecological Indicators_ 158, 111228
 
+---
+
 ## Prior to 2024
+
+---
 
 [5] Chan, S.C.Y., Karczmarski, L., Lin, W., Zheng, R., **Ho, Y.-W.**, Guo, L., Mo, Y., Lee, A.T.L., Or, C.K.M., & Wu, Y. (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (_Sousa chinensis_) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23
 
@@ -63,7 +71,11 @@ redirect_from:
 
 [1] Karczmarski, L., Huang, S.-L., Or, C.K.M., Gui, D., Chan, S.C.Y., Lin, W., Porter, L., Wong, W. H., Zheng, R., **Ho, Y.-W.**, Chui, S.Y.S., Tiongson, A.J.C., Mo, Y., Chang, W.L., Kwok, J.H.W., Tang, R.W.K., Lee, A.T.L., Yiu, S.-W., Keith, M., Gailey G., & Wu, Y. (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64.
 
+---
+
 ## Manuscripts in submission
+
+---
 
 [19] **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (in prep.) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
 

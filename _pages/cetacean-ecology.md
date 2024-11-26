@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Marine Mammal Ecology"
+title: "Cetacean Ecology"
 permalink: /cetacean-ecology/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ redirect_from:
 <img src="/images/Bayesian-weaning.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
 
 Published in _Ecological and Evolutionary Physiology_
+
 This part of my research focus on the ontogenetic dietary shift of humpback dolphins (_Sousa chinensis_) in the Pearl River Delta (PRD) region. This research aims to provide valuable insights into the life history and ecology of this humpback dolphins, as well as highlight the conservation implications for their future. By examining the dentine nitrogen isotopic values in the teeth of stranded humpback dolphins, we were able to trace the ontogenetic dietary shifts in these animals, revealing important information about their weaning age and feeding habits.
 
 The results revealed individual heterogeneity in the age of ontogenetic dietary shift, with the population mean weaning age estimated at 2.39 years. This finding contributes to the growing body of knowledge on the life history traits and dietary ecology of humpback dolphins in the PRD region, which is essential for effective conservation and management strategies. Furthermore, by examining spatial patterns and differences, we were able to gain a better understanding of the population structure and potential threats faced by these dolphins in their respective habitats.
