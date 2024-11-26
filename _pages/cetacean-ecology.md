@@ -23,6 +23,7 @@ The results revealed individual heterogeneity in the age of ontogenetic dietary 
 ## Resources Partitioning (SIBER)
 
 _Manuscript in Preparation_
+
 The longitudinal isotopic records archived in dolphin teeth and analysed in this study demonstrate that fine-scale dentine isotopic values vary between sexes and regions, signifying the intra-specific foraging patterns. The results indate that male humpback dolphins occupied a larger isotopic niche area and consumed prey items from a more depleted carbon sources. Isotopic niche area were shown to decrease towards the western side of the PRD region, with a considerable overlap in niche space between adjacent regions. The isotopic niche area were shown to decrease as the total fishery production increase, likely suggesting the effect of anthropogenic pressure on resource consumption pattern of humpback dolphins throughout the study period.
 
 ---
