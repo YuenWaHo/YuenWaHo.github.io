@@ -18,14 +18,14 @@ redirect_from:
 # Education
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
-- B.S. in Ecology and Biodiversity, The University of Hong Kong, 2013
+- B.Sc. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
 # Professional Affiliations
 
+- 2015 - _present_: Research Scientist @ Cetacea Research Institute, Hong kong
+  - Marine mammal studies using photo-ID, stable isotopes, acoustics (PAM, Acoustic line-transect)
 - 2021 - _present_: Postdoctoral Fellow @ Hong Kong Polytechnic University
   - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
-- 2015 - _present_: Research Scientist @ Cetacea Research Institute, Hong kong
-  - Marine mammal studies using photo-ID, stable isotopes, acoustics
 
 # Publications
 
