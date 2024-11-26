@@ -9,7 +9,7 @@ redirect_from:
 
 ---
 
-## Bayesian Weaning Age Analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
+## Hierarchical Bayesian ontogenetic dietary shift analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 
 <img src="/images/Bayesian-weaning.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
 

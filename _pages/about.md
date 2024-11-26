@@ -13,11 +13,9 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-I received my B.Sc. in Ecology and Biodiversity in 2013 and my Ph.D. in Cetacean Ecology from the University of Hong Kong in 2021. My doctoral research focused on the foraging ecology of Indo-Pacific humpback dolphins in Hong Kong, employing a multifaceted approach, with specialised research area in cetacean ecology, underwater soundscape ecology, and microplastic analysis using advanced spectroscopic techniques.
+I hold a Bachelor of Science in Ecology and Biodiversity (2013) and a Doctor of Philosophy in Cetacean Ecology (2021) from the University of Hong Kong. My doctoral research investigated the foraging ecology of Indo-Pacific humpback dolphins in Hong Kong, employing a comprehensive approach with specialized expertise in cetacean ecology, underwater soundscape ecology, and microplastic analysis utilizing advanced spectroscopic techniques. Currently, I’m a Post-Doctoral Fellow at the Hong Kong Polytechnic University, where I’ve honed my microplastic analysis skills since 2021. Before that, I worked as a Research Scientist at the Cetacea Research Institute in Hong Kong from 2015 to the present.
 
-My work on foraging ecology is based on stable isotope analysis through incremental sampling of growth layer groups. My interest for acoustic research began with an interest in understanding how dolphins communicate, which further developed into a comprehensive exploration of acoustic research techniques, including point-based recording, long-duration passive acoustic recording, and acoustic line-transect studies. My interest also extends to applying analytical skills in big data analysis and Bayesian belief networks.
-
-Currently serving as a Post-Doctoral Fellow at the Hong Kong Polytechnic University, I further developed my skills in microplastic analysis since 2021. I also held the position of Researcher at the Cetacea Research Institute in Hong Kong since 2015.
+My work on foraging ecology is based on stable isotope analysis through incremental sampling of growth layer groups. My interest in acoustic research began with an interest in understanding how dolphins communicate, which further developed into a comprehensive exploration of acoustic research techniques, including point-based recording, long-duration passive acoustic recording, and acoustic line-transect studies. My interest also extends to applying analytical skills in big data analysis and Bayesian belief networks.
 
 # Research Interests
 
@@ -36,9 +34,8 @@ Currently serving as a Post-Doctoral Fellow at the Hong Kong Polytechnic Univers
 
 - [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/): Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
 
-  [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541) [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
-
-  Studied animals and environemnts include: Indo-Pacific humpback dolphins; Green-lipped mussel; Oysters; Human faeces; Jellyfish; Sponge in Deep Artic; Brine shrimp in Tibet plateau; Hong Kong's river and marine water; Hong Kong's road runoff
+  Studied animals and environemnts include: Indo-Pacific humpback dolphins (in submission); Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
+  Oysters (_In prep_); Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414); Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959); Jellyfish; Sponge in Deep Artic; Hong Kong's river and streams (_In prep_), marine water, and water from road runoff.
 
   Other microplastic related projects:
 
@@ -46,4 +43,4 @@ Currently serving as a Post-Doctoral Fellow at the Hong Kong Polytechnic Univers
 
   - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
-  - Microbiome community on microplastic particles in river water (In submission)
+  - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
