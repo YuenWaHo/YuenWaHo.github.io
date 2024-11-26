@@ -24,12 +24,15 @@ My research also explores the environmental dynamics of microplastics, investiga
 - Contract Study: China's Third Marine Pollution Baseline Survey - Environmental Protection Department, Hong Kong SAR.
 
 - [Optical and Computational Technologies To Combat Microplastics and Nanoplastics Pollution](<(https://www.eee.hku.hk/combatmp/)>)
+
   with Prof Edmond Lam's group, The University of Hong Kong (RIF R7003-21), RGC-HK, 2022-2027
 
 - Ecological roles of the plasticsphere on microplastics in urban rivers of Hong Kong
+
   with Prof Patrick Lee's group, The City University of Hong Kong
 
 - Nano-bubble assisted flotation of microplastics removal
+
   with Prof Alicia An's group, The City University of Hong Kong
 
 ---
