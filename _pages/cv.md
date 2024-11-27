@@ -77,11 +77,13 @@ redirect_from:
 
 ---
 
+<!---
 [22] **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 
 [21] Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
 
 [20] **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
+--->
 
 [19] **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
 
@@ -93,7 +95,7 @@ redirect_from:
 
 [15] Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
 
----
+## <!---
 
 ## Repository
 
@@ -102,3 +104,4 @@ redirect_from:
 [R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Computer software]
 
 [R01] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M. C. Y., Wu, Y., & Baker, D. M. (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Computer software]
+--->
