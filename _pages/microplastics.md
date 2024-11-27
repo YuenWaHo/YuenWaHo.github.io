@@ -24,9 +24,9 @@ My research also explores the environmental dynamics of microplastics, investiga
 3. [Optical and Computational Technologies To Combat Microplastics and Nanoplastics Pollution](<(https://www.eee.hku.hk/combatmp/)>)
    - with Prof Edmond Lam's group, The University of Hong Kong (RIF R7003-21), RGC-HK, 2022-2027
 4. Ecological roles of the plasticsphere on microplastics in urban rivers of Hong Kong
-   - with Prof Patrick Lee's group, The City University of Hong Kong
+   - with [Prof Patrick Lee](https://www.cityu.edu.hk/see_mer/personal/Patrick_Lee/index.html)'s group, The City University of Hong Kong
 5. Nano-bubble assisted flotation of microplastics removal
-   - with Prof Alicia An's group, The City University of Hong Kong
+   - with [Prof Alicia An](https://www.aliciakjan.com/)'s group, The City University of Hong Kong
 
 ---
 
