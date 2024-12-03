@@ -24,7 +24,12 @@ redirect_from:
 
 - 2015 - _present_: Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong kong
   - Marine mammal studies using photo-ID, stable isotopes, acoustics (PAM, Acoustic line-transect)
-- 2021 - _present_: Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), The Hong Kong Polytechnic University
+
+<!---
+- 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
+--->
+
+- 2021 Dec - 2025 Apr: Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), The Hong Kong Polytechnic University
   - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
 
 # Publications
