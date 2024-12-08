@@ -47,10 +47,10 @@ My work on foraging ecology is based on stable isotope analysis through incremen
 
 <footer>
     <div class="footer-logos">
-        <img src="/images/sdg_logos/sdg4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
-        <img src="/images/sdg_logos/sdg13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
-        <img src="/images/sdg_logos/sdg14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
-        <img src="/images/sdg_logos/sdg15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
-        <img src="/images/sdg_logos/sdg17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg_logos/goal4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg_logos/goal15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
     </div>
 </footer>
