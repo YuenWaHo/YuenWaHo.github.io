@@ -44,3 +44,13 @@ My work on foraging ecology is based on stable isotope analysis through incremen
   - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
   - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
+
+<footer>
+    <div class="footer-logos">
+        <img src="/images/sdg4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+        <img src="/images/sdg17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 50px;">
+    </div>
+</footer>
