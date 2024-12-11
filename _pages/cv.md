@@ -105,7 +105,7 @@ redirect_from:
 
 ---
 
-[R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Computer software]
+[R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software]
 
-[R01] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M. C. Y., Wu, Y., & Baker, D. M. (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Computer software]
+[R01] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M. C. Y., Wu, Y., & Baker, D. M. (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software]
 --->
