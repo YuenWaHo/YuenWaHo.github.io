@@ -46,8 +46,6 @@ redirect_from:
 
 [13] Jia, M., Farid, M.U., **Ho, Y.-W.**, Ma, X., Wong, P.W., Nah, T., He, Y., Boey, M.W., Gang, L., Fang, J.K.H., Fan, J., & An., A.K. (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
-%2F
-
 [12] Lin, Y., Wang, Y., **Ho, Y.-W.**, Fang, J.K.H., & Li, Y. (2024) Characterization and ecological risks of microplastics in urban road runoff. _Science of the Total Environment_ 176590 [![DOI](https://img.shields.io/badge/10.1016/j.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590)
 
 [11] Zhu, Y., Li, Y., Huang, J., Zhang, Y., **Ho, Y.-W.**, Fang, J.K.H., & Lam, E.Y. (2024) Advanced optical imaging technologies for microplastics identification: Progress and Challenges. _Advanced Photonics Research_ 2400038 [![DOI](https://img.shields.io/badge/10.1002/adpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
@@ -60,7 +58,7 @@ redirect_from:
 
 [7] Lin, W., Karczmarski, L., Chan, S.C.Y., Zheng, R., **Ho, Y.-W.**, & Mo, Y. (2024) Population parameters and heterogeneity in survival rates of Indo-Pacific humpback dolphins in a heavily urbanized coastal region of southeast China: Implications for conservation. _Frontiers in Marine Science_ 11:1252661 [![DOI](https://img.shields.io/badge/10.3389/fmars.2024.1252661-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3389/fmars.2024.1252661)
 
-## [6] **Ho, Y.-W.**, Lin, T.-H., Akamatsu, T., & Karczmarski, L. (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. _Ecological Indicators_ 158, 111228 [![DOI](https://img.shields.io/badge/10.1016/j.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
+[6] **Ho, Y.-W.**, Lin, T.-H., Akamatsu, T., & Karczmarski, L. (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. _Ecological Indicators_ 158, 111228 [![DOI](https://img.shields.io/badge/10.1016/j.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
 
 ## Prior to 2024
 
