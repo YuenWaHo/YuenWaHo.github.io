@@ -42,7 +42,7 @@ redirect_from:
 
 ---
 
-[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_
+[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 [13] Jia, M., Farid, M.U., **Ho, Y.-W.**, Ma, X., Wong, P.W., Nah, T., He, Y., Boey, M.W., Gang, L., Fang, J.K.H., Fan, J., & An., A.K. (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
