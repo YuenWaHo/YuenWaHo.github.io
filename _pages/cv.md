@@ -42,7 +42,8 @@ redirect_from:
 
 ---
 
-[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
+[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 [13] Jia, M., Farid, M.U., **Ho, Y.-W.**, Ma, X., Wong, P.W., Nah, T., He, Y., Boey, M.W., Gang, L., Fang, J.K.H., Fan, J., & An., A.K. (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
@@ -94,7 +95,7 @@ redirect_from:
 
 [17] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 
-[16] Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (in submission) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+[16] Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
 
 [15] Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
 
