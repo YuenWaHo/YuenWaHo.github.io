@@ -38,7 +38,31 @@ redirect_from:
 
 ---
 
-## 2025
+## Manuscripts under review / in submission:
+
+<!---
+[22] **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+
+[21] Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
+
+[20] **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
+--->
+
+[20] **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
+
+[19] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
+
+[18] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
+
+[17] Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., **Ho, Y.-W.**, Fang, J.F.K., Castro, P.M.L., Gonçalves, D. (under review) Biodegradation of Polyethylene terephthalate (PET) in mangrove soil and its intermediate (Bis(2-hydroxyethyl) Terephthalate) and monomers (Monoethylene glycol and Terephthalic acid) by bacterial consortia. _Biodegradation_
+
+[16] Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+
+[15] Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
+
+## Published journal articles:
+
+## 2025 / in press
 
 [14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
@@ -72,28 +96,6 @@ redirect_from:
 [2] Leung, M.M.L., **Ho, Y.-W.**, Lee, C.-H., Wang, Y., Hu, M., Kwok, K.W.H., Chua, S.-L., & Fang, J.K.H. (2021) Improved Raman spectroscopy-based approach to assess microplastics in seafood. _Environmental Pollution_ 117648. [![DOI](https://img.shields.io/badge/10.1016/j.envpol.2021.117648-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.envpol.2021.117648)
 
 [1] Karczmarski, L., Huang, S.-L., Or, C.K.M., Gui, D., Chan, S.C.Y., Lin, W., Porter, L., Wong, W. H., Zheng, R., **Ho, Y.-W.**, Chui, S.Y.S., Tiongson, A.J.C., Mo, Y., Chang, W.L., Kwok, J.H.W., Tang, R.W.K., Lee, A.T.L., Yiu, S.-W., Keith, M., Gailey G., & Wu, Y. (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64. [![DOI](https://img.shields.io/badge/10.1016/bs.amb.2015.09.003-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/bs.amb.2015.09.003)
-
-## Manuscripts In Submission / Under Review / In Preparation
-
-<!---
-[22] **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
-
-[21] Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
-
-[20] **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
---->
-
-[20] Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., Ho, **Y.-W.**, Fang, J.F.K., Castro, P.M.L., Gonçalves, D. (in submission) Biodegradation of Polyethylene terephthalate (PET) in mangrove soil and its intermediate (Bis(2-hydroxyethyl) Terephthalate) and monomers (Monoethylene glycol and Terephthalic acid) by bacterial consortia. _Biodegradation_
-
-[19] **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
-
-[18] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
-
-[17] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-
-[16] Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
-
-[15] Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
 
 ## Repository
 
