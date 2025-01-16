@@ -36,14 +36,12 @@ redirect_from:
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
 
----
-
-## 2024
-
----
+## 2025
 
 [14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
+
+## 2024
 
 [13] Jia, M., Farid, M.U., **Ho, Y.-W.**, Ma, X., Wong, P.W., Nah, T., He, Y., Boey, M.W., Gang, L., Fang, J.K.H., Fan, J., & An., A.K. (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
@@ -88,6 +86,8 @@ redirect_from:
 
 [20] **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
 --->
+
+[20] Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., Ho, **Y.-W.**, Fang, J.F.K., Castro, P.M.L., Gonçalves, D. (in submission) Biodegradation of Polyethylene terephthalate (PET) in mangrove soil and its intermediate (Bis(2-hydroxyethyl) Terephthalate) and monomers (Monoethylene glycol and Terephthalic acid) by bacterial consortia. _Biodegradation_
 
 [19] **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
 
