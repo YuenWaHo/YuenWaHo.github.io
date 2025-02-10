@@ -38,12 +38,47 @@ redirect_from:
 
 ---
 
+<<<<<<< HEAD
 ## 2025
 
 [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 ## 2024
+=======
+## Manuscripts under review / in submission:
+
+<!---
+- **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+
+- Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
+
+- **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
+--->
+
+- **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
+
+- **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
+
+- **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
+
+- Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., **Ho, Y.-W.**, Fang, J.F.K., Castro, P.M.L., Gonçalves, D. (under review) Biodegradation of Polyethylene terephthalate (PET) in mangrove soil and its intermediate (Bis(2-hydroxyethyl) Terephthalate) and monomers (Monoethylene glycol and Terephthalic acid) by bacterial consortia. _Biodegradation_
+
+- Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+
+- Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
+
+## Published journal articles:
+
+## 2025 / in press
+
+[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
+
+## 2024
+
+[13] Jia, M., Farid, M.U., **Ho, Y.-W.**, Ma, X., Wong, P.W., Nah, T., He, Y., Boey, M.W., Gang, L., Fang, J.K.H., Fan, J., & An., A.K. (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+>>>>>>> 7e733ec78cf56aee63293fbd4ff38244377fa9af
 
 [13] Jia M, Farid MU, **Ho Y-W**, Ma X, Wong PW, Nah T, He Y, Boey MW, Gang L, Fang JKH, Fan J, & An AK (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
@@ -63,9 +98,13 @@ redirect_from:
 
 ## Prior to 2024
 
+<<<<<<< HEAD
 [5] Chan SCY, Karczmarski L, Lin W, Zheng R, **Ho Y-W**, Guo L, Mo Y, Lee ATL, Or CKM, & Wu Y (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (_Sousa chinensis_) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23 [![DOI](https://img.shields.io/badge/10.1007/s42991.022.00335.2-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1007/s42991-022-00335-2)
 
 [4] **Ho Y-W**, Lim JY, Yeoh YK, Chiou JC, Zhu Y, Lai KP, Li L, Chan PKS, & Fang JKH (2022) Preliminary findings of the high quantity of microplastics in faeces of Hong Kong residents. _Toxics_ 10, 414. [![DOI](https://img.shields.io/badge/10.3390/toxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414)
+=======
+[5] Chan, S.C.Y., Karczmarski, L., Lin, W., Zheng, R., **Ho, Y.-W.**, Guo, L., Mo, Y., Lee, A.T.L., Or, C.K.M., & Wu, Y. (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (_Sousa chinensis_) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23 [![DOI](https://img.shields.io/badge/10.1007/s42991.022.00335.2-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1007/s42991-022-00335-2)
+>>>>>>> 7e733ec78cf56aee63293fbd4ff38244377fa9af
 
 [3] Leung MML, **Ho Y-W**, Maboloc EA, Lee CH, Wang Y, Hu M, Cheung SG, & Fang JKH (2021). Determination of microplastics in the edible green-lipped mussel Perna viridis using an automated mapping technique of Raman microspectroscopy. _Journal of Hazardous Materials_ 126541. [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541)
 
@@ -73,6 +112,7 @@ redirect_from:
 
 [1] Karczmarski L, Huang SL, Or CKM, Gui D, Chan SCY, Lin W, Porter L, Wong WH, Zheng R, **Ho Y-W**, Chui SYS, Tiongson AJC, Mo Y, Chang WL, Kwok JHW, Tang RWK, Lee ATL, Yiu SW, Keith M, Gailey G, & Wu Y (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64. [![DOI](https://img.shields.io/badge/10.1016/bs.amb.2015.09.003-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/bs.amb.2015.09.003)
 
+<<<<<<< HEAD
 ---
 
 ## Manuscripts Under Review / In Submission
@@ -99,6 +139,10 @@ redirect_from:
 ## Repository
 
 
+=======
+## Repository
+
+>>>>>>> 7e733ec78cf56aee63293fbd4ff38244377fa9af
 <!-- [R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 
 [R01] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M. C. Y., Wu, Y., & Baker, D. M. (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
