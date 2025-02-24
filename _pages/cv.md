@@ -74,11 +74,11 @@ redirect_from:
 ## Manuscripts Under Review / In Submission
 
 <!---
-[22] **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+[22] **Ho YW** & Karczmarski L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 
-[21] Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
+[21] Lin Y, Wang Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
 
-[20] **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
+[20] **Ho YW**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
 --->
 
 [19] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
@@ -94,6 +94,6 @@ redirect_from:
 ## Repository
 
 
-<!-- [R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
+<!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 
 [R01] **Ho, YW**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
