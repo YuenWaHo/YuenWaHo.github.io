@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & CV"
+title: "Publication Records"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,26 +15,34 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-# Education
+# Current Positions
+
+- Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
+<!---
+- 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
+  --->
+- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
+
+# Academic Record
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
 - B.Sc. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
-# Professional Affiliations
+# Previous Positions
 
-- 2015 - _present_: Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong kong
-  - Marine mammal studies using photo-ID, stable isotopes, acoustics (PAM, Acoustic line-transect)
+<!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 Dec - 2024 Apr -->
 
-<!---
-- 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
---->
-
-- 2021 Dec - 2025 Apr: Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), The Hong Kong Polytechnic University
-  - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
+- Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
+- Research Assistant, Cetacean Ecology Lab. The University of Hong Kong. 2013 - 2015
 
 # Publications
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
+
+---
+
+Google Scholar Citations: 328 \n
+H-index: 7
 
 ---
 
@@ -53,8 +61,6 @@ redirect_from:
 - **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 
 - **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-
-- Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., **Ho, Y.-W.**, Fang, J.F.K., Castro, P.M.L., Gonçalves, D. (under review) Biodegradation of Polyethylene terephthalate (PET) in mangrove soil and its intermediate (Bis(2-hydroxyethyl) Terephthalate) and monomers (Monoethylene glycol and Terephthalic acid) by bacterial consortia. _Biodegradation_
 
 - Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
 
