@@ -17,13 +17,13 @@ redirect_from:
 
 # Current Positions
 
+- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
+
 - Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
 
 <!---
 - 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
 --->
-
-- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
 
 # Academic Record
 
@@ -35,7 +35,7 @@ redirect_from:
 <!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 Dec - 2024 Apr -->
 
 - Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
-- Research Assistant, Cetacean Ecology Lab. The University of Hong Kong. 2013 - 2015
+- Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
 
 # Publications
 
@@ -43,8 +43,8 @@ redirect_from:
 
 ---
 
-Google Scholar Citations: 328 <br>
-H-index: 7
+Google Scholar Citations: 353 <br>
+H-index: 9
 
 ---
 
@@ -53,26 +53,28 @@ H-index: 7
 <!---
 - **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 
-- Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
-
 - **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
 --->
 
 - **Ho, Y.-W.**, Cheng, M.C.Y., Thoe, W., & Fang, J.K.H. (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
 
-- **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
-
 - **Ho, Y.-W.**, Karczmarski, L., Lin, W., Leung, M.M.L., & Fang, J.K.H. (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 
-- Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+- **Ho, Y.-W.**, Karczmarski, L., Lin, W., Wu, Y., & Baker, D.M. (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 
-- Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
+- Lin, Y., Wang, Y., **Ho, Y.-W.**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
+
+- Saidu, M.B., Moreira, I.S., Amorim, C.L., Wu, R., **Ho, Y.-W.**, Fang, J.K.H., Castro, P.M.L., Gonçalves, D. (Under Review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
+
+- Liu, X., Yao, S., Xiong, A., Zhang, L., Zhang, X., Li, C., Ruan, Y., Yan., M., **Ho, Y.-W.**, Fang, J.K.H., Wang, B., Leusch, F., Schlenk, D., Liu, W., Leung, K.M.Y., & Jin, L. (Major Revision) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+
+- Bao, Y., **Ho, Y.-W.**, Shen, Z., Fang, J.K.H., Leung, K.M.Y., & Lee, P.K.H. (Major Revision) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
 ## 2025 / in press
 
-[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025, In Press). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+[14] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M.C.Y., Wu, Y., & Baker, D.M. (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 ## 2024

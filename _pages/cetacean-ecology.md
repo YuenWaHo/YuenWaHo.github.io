@@ -13,11 +13,11 @@ redirect_from:
 
 <img src="/images/Bayesian-weaning.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
 
-Published in _Ecological and Evolutionary Physiology_
+Published in _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 
-This part of my research focus on the ontogenetic dietary shift of humpback dolphins (_Sousa chinensis_) in the Pearl River Delta (PRD) region. This research aims to provide valuable insights into the life history and ecology of this humpback dolphins, as well as highlight the conservation implications for their future. By examining the dentine nitrogen isotopic values in the teeth of stranded humpback dolphins, we were able to trace the ontogenetic dietary shifts in these animals, revealing important information about their weaning age and feeding habits.
+This study investigates ontogenetic dietary shifts in Indo-Pacific humpback dolphins (_Sousa chinensis_) from the Pearl River Delta. By analyzing nitrogen isotope ratios in dentine growth-layer groups from stranded individuals, the analysis traces weaning age and subsequent feeding patterns. Hierarchical Bayesian modeling was applied to quantify individual variation and estimate the population-level mean weaning age.
 
-The results revealed individual heterogeneity in the age of ontogenetic dietary shift, with the population mean weaning age estimated at 2.39 years. This finding contributes to the growing body of knowledge on the life history traits and dietary ecology of humpback dolphins in the PRD region, which is essential for effective conservation and management strategies. Furthermore, by examining spatial patterns and differences, we were able to gain a better understanding of the population structure and potential threats faced by these dolphins in their respective habitats.
+Results demonstrate considerable heterogeneity among individuals, with a population mean weaning age of 2.39 years. These findings refine knowledge of humpback dolphin life-history traits and dietary ecology in the PRD region, informing targeted conservation and management measures. Spatial analyses further reveal subpopulation structure and highlight habitat-specific threats, underscoring the importance of regionally tailored protection strategies.
 
 ---
 
