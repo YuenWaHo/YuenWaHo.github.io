@@ -19,19 +19,15 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
 
 - [Marine Mammal Ecology](https://yuenwaho.github.io/cetacean-ecology/):
 
-  - Employs hierarchical Bayesian models to infer weaning age and ontogenetic dietary shifts in Indo-Pacific humpback dolphins;
-  - Combines stomach-content and stable-isotope analyses to investigate diet composition and resource partitioning among subpopulations;
-  - Investigates reproductive dynamics—patterns, gestation periods and evaluates how environmental variables, social structures, and anthropogenic pressures affect reproductive rates and population viability;
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
-  - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
-  - Conducts necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications.
   - Toxin effect on cetacean fibroblast cell (major revision)
+  - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
+  - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications.
 
 - [Underwater Soundscapes](https://yuenwaho.github.io/acoustics/):
 
   - Investigates acoustic environments in marine systems on how organisms use sound for communication, navigation, and foraging, quantifying anthropogenic noise impacts, and developing mitigation strategies to preserve acoustic habitats.
-
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
   - Passive acoustic monitoring in western and southern Hong Kong waters
   - Night-time acoustic line transect for dolphin and porpoise detection and localization
@@ -39,17 +35,16 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
 - [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/): He
 
   - Distribution, transport pathways, and ecological risks of microplastics across marine biota and environments, assessing ingestion, trophic transfer, and sub-lethal effects.
-
   - Studied animals and environemnts include:
     - Indo-Pacific humpback dolphins (in submission);
     - Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
-    - Oysters (_In prep_);
     - Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414);
     - Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959);
+    - Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590);
+    - Hong Kong's river and streams (Manuscript _In prep_) and marine water
+    - Oysters (_In prep_);
     - Jellyfish;
     - Sponge in Deep Artic;
-    - Hong Kong's river and streams (Manuscript _In prep_), marine water
-    - Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590);
 
   Other microplastic related projects:
 
