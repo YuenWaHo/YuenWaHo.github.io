@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publication Records"
+title: "Records"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,7 +21,7 @@ redirect_from:
 - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
 
 <!---
-- 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
+- 2024 Jun - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
 --->
 
 # Academic Record
@@ -31,7 +31,7 @@ redirect_from:
 
 # Previous Positions
 
-<!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 Dec - 2024 Apr -->
+<!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
 
 - Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
 - Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
