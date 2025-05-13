@@ -11,9 +11,9 @@ redirect_from:
 
 <img src="/images/microplastics-header.png" alt="acoustics" style="float: center; width: 900px;" />
 
-He investigates the pervasive issue of microplastic pollution in aquatic ecosystems, encompassing detection, characterization, and ecological risk assessment. His work has spanned diverse systems—from **human faecal** samples, where he elucidated potential health risks, to marine organisms such as **Indo-Pacific humpback dolphins**, **green-lipped mussels**, and edible **oysters**, employing advanced techniques (e.g., Raman microspectroscopy and optical photothermal infrared) to quantify ingestion. He has also pioneered high-throughput polarization holographic imaging for rapid microplastic identification.
+I investigates the pervasive issue of microplastic pollution in aquatic ecosystems, encompassing detection, characterization, and ecological risk assessment. His work has spanned diverse systems—from human faecal samples, where he elucidated potential health risks, to marine organisms such as Indo-Pacific humpback dolphins, green-lipped mussels, and edible oysters, employing advanced techniques (e.g., Raman microspectroscopy and optical photothermal infrared) to quantify ingestion. He has also pioneered high-throughput polarization holographic imaging for rapid microplastic identification.
 
-His research further examines the environmental dynamics of microplastics, mapping their distribution in remote regions (e.g., the **Tibetan Plateau**) and in **urban waterways**, including rivers and stormwater runoff in Hong Kong. These studies underscore the ubiquity of microplastic contamination, its implications for human and ecosystem health, and inform mitigation strategies. Current projects continue to advance detection methodologies and deepen understanding of microplastic pathways and impacts.
+His research further examines the environmental dynamics of microplastics, mapping their distribution in remote regions (e.g., the Tibetan Plateau) and in urban waterways, including rivers and stormwater runoff in Hong Kong. These studies underscore the ubiquity of microplastic contamination, its implications for human and ecosystem health, and inform mitigation strategies. Current projects continue to advance detection methodologies and deepen understanding of microplastic pathways and impacts.
 
 ---
 
@@ -27,10 +27,12 @@ His research further examines the environmental dynamics of microplastics, mappi
    - with [Prof Patrick Lee](https://www.cityu.edu.hk/see_mer/personal/Patrick_Lee/index.html)'s group, The City University of Hong Kong
 5. Nano-bubble assisted flotation of microplastics removal
    - with [Prof Alicia An](https://www.aliciakjan.com/)'s group, The City University of Hong Kong
+6. Plasticsphere and toxicity level of microplastics in the coastal marine waters in Hong Kong
+   - with [Prof Ling Jin](<(https://www.polyu.edu.hk/hti/people/academic-staff/dr-jin-ling/?sc_lang=en)>)'s group, The Hong Kong Polytechnic University
 
 ---
 
-## Microplastics Ingestion in Humpback dolphins
+## Microplastics Ingestion in humpback dolphins
 
 <img src="/images/microplastics-mapping.png" alt="mapping" style="float: center; width: 500px;" />
 
