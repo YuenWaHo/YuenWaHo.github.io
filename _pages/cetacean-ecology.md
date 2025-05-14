@@ -7,6 +7,13 @@ redirect_from:
 #   - /cetacean-ecology
 ---
 
+<div style="display: flex; gap: 5px;">
+  <img src="/images/manuscript_covers/2016 Karczmarski et al. Humpback Dolphins in Hong Kong and the Pearl River Delta Status, Threats and Conservation Challenges.jpg" alt="mapping" style="width: 300px;">
+  <img src="/images/manuscript_covers/2024 Chan-Ho-Karczmarski-BioCon.jpg" alt="mapping" style="width: 300px;">
+  <img src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg" alt="mapping" style="width: 300px;">
+  <img src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg" alt="mapping" style="width: 300px;">
+</div>
+
 ---
 
 ## Hierarchical Bayesian ontogenetic dietary shift analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
@@ -44,10 +51,3 @@ In this study, we utilized cell lines derived from sentinel species indicative o
 ## Necropsy and post-mortem analysis of strandings in Hong Kong waters - patterns, hotspots, conservation implications
 
 ---
-
-<div style="display: flex; gap: 10px;">
-  <img src="images/manuscript_covers/2016 Karczmarski et al. Humpback Dolphins in Hong Kong and the Pearl River Delta Status, Threats and Conservation Challenges.jpg" alt="mapping" style="width: 400px;">
-  <img src="/images/manuscript_covers/2024 Chan-Ho-Karczmarski-BioCon.jpg" alt="mapping" style="width: 400px;">
-  <img src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg" alt="mapping" style="width: 400px;">
-  <img src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg" alt="mapping" style="width: 400px;">
-</div>
