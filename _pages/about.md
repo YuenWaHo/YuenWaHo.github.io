@@ -13,37 +13,49 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-I hold a Bachelor of Science in Ecology and Biodiversity (2013) and a Doctor of Philosophy in Cetacean Ecology (2021) from the University of Hong Kong. My doctoral research investigated the foraging ecology of Indo-Pacific humpback dolphins in Hong Kong, employing a multifaceted approach in cetacean ecology, underwater soundscape ecology, and microplastic analysis. Currently, I’m a Post-Doctoral Fellow at the Hong Kong Polytechnic University, where I further develop my microplastic analysis skills since 2021. I am also a Research Scientist at the Cetacea Research Institute in Hong Kong from 2015 to the present.
-
-My work on foraging ecology is based on stable isotope analysis through incremental sampling of growth layer groups. My interest in acoustic research began with an interest in understanding how dolphins communicate, which further developed into a comprehensive exploration of acoustic research techniques, including point-based recording, long-duration passive acoustic recording, and acoustic line-transect studies. My interest also extends to applying analytical skills in big data analysis and Bayesian belief networks.
+Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Research Scientist at the Cetacea Research Institute. He holds a BSc in Ecology and Biodiversity (2013) and a PhD in Cetacean Ecology (2021) from the University of Hong Kong. His doctoral thesis investigated the foraging ecology of Indo-Pacific humpback dolphins on stable-isotope analysis, microplastics ingestion and spatial soundscape. His current research focuses on microplastic quantification in aquatic environments, underwater soundscape ecology, and the application of big-data approaches—such as Bayesian belief networks—to address marine conservation challenges.
 
 # Research Interests
 
-- [Marine Mammal Ecology](https://yuenwaho.github.io/cetacean-ecology/): Employing hierarchical Bayesian analysis for weaning age to decipher developmental dietary shifts. Analysis of stomach contents and stable isotope techniques to unravel diet composition and resource partitioning among subpopulations; Reproductive processes such as reproductive patterns, gestation periods; how effects of environmental variables, social structures, and anthropogenic pressures on reproductive rates and population viability.
+- [Marine Mammal Ecology](https://yuenwaho.github.io/cetacean-ecology/):
 
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
-  - Stable isotope metrics to identify diet composition and resource partitioning among subpopulations
-  - Necropsy and post-mortem analysis of strandings in Hong Kong waters - patterns, hotspots, conservation implications
+  - Toxin effect on cetacean fibroblast cell (major revision)
+  - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
+  - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications.
 
-- [Underwater Soundscapes](https://yuenwaho.github.io/acoustics/): Significance of sound in aquatic environments covers marine organisms' use of sound for communication, navigation, and foraging, as well as the impacts of human-induced noise pollution. Efforts focus on mitigating adverse effects and preserving marine acoustic habitats.
+- [Underwater Soundscapes](https://yuenwaho.github.io/acoustics/):
 
+  - Investigates acoustic environments in marine systems on how organisms use sound for communication, navigation, and foraging, quantifying anthropogenic noise impacts, and developing mitigation strategies to preserve acoustic habitats.
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
   - Passive acoustic monitoring in western and southern Hong Kong waters
   - Night-time acoustic line transect for dolphin and porpoise detection and localization
 
-- [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/): Distribution and impact processes of microplastic particles in marine environments and organisms. It highlights how these particles are ingested by marine life, leading to ecological risks such as potential harm to marine species and disruptions to food webs.
+- [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/):
 
-  Studied animals and environemnts include: Indo-Pacific humpback dolphins (in submission); Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
-  Oysters (_In prep_); Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414); Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959); Jellyfish; Sponge in Deep Artic; Hong Kong's river and streams (_In prep_), marine water, and water from road runoff.
+  - Distribution, transport pathways, and ecological risks of microplastics across marine biota and environments, assessing ingestion, trophic transfer, and sub-lethal effects.
+  - Studied animals and environemnts include:
 
-  Other microplastic related projects:
+    - Indo-Pacific humpback dolphins (in submission);
+    - Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
+    - Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414);
+    - Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959);
+    - Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590);
+    - Hong Kong's river and streams (Manuscript _In prep_) and marine water
+    - Oysters (_In prep_);
+    - Jellyfish;
+    - Sponge in Deep Artic;
 
-  - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
+  - Other microplastic related projects:
 
-  - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+    - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
-  - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
+    - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+
+    - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
+
+    - Microbiome community on microplastic particles in marine water (major revision)
 
 <footer>
     <div class="footer-logos">

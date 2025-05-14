@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & CV"
+title: "Records"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,22 +15,26 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-# Education
+# Current Positions
+
+- Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
+- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
+
+<!---
+- 2024 Jun - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
+--->
+
+# Academic Record
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
 - B.Sc. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
-# Professional Affiliations
+# Previous Positions
 
-- 2015 - _present_: Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong kong
-  - Marine mammal studies using photo-ID, stable isotopes, acoustics (PAM, Acoustic line-transect)
+<!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
 
-<!---
-- 2024 Apr - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
---->
-
-- 2021 Dec - 2025 Apr: Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), The Hong Kong Polytechnic University
-  - Microplastic analysis using Raman, FT-IR and Optical Photothermal–IR spectroscopies
+- Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
+- Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
 
 # Publications
 
@@ -38,7 +42,40 @@ redirect_from:
 
 ## 2025
 
-[14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
+
+---
+
+## Manuscripts under review / in submission:
+
+<!---
+- **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+- **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
+- Zhang L, Li C, Ho Y-W,...Fang JKH, Jin L (major revision) Microbiome on marine microplastics
+- Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
+- Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
+-
+--->
+
+- **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
+
+- **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
+
+- **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
+
+- Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
+
+- Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
+
+- Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+
+- Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
+
+## Published journal articles:
+
+## 2025 / in press
+
+[14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 ## 2024
@@ -52,6 +89,9 @@ redirect_from:
 [10] Liang T<sup>#</sup>, **Ho Y-W** <sup>#</sup>, Wang Q, Wang P, Sun S, Fang JKH, & Liu X (2024) Distribution and risk assessment of microplastics in water, sediment and brine shrimps in a remote salt lake on the Tibetan Plateau, China. _Journal of Hazardous Materials_ 476, 134959 [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
 
 [9] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup>(2024) Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ 297, 110690 [![DOI](https://img.shields.io/badge/10.1016/j.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
+[10] Liang T<sup>#</sup>, **Ho Y-W**<sup>#</sup>, Wang Q, Wang P, Sun S, Fang JKH, & Liu X (2024) Distribution and risk assessment of microplastics in water, sediment and brine shrimps in a remote salt lake on the Tibetan Plateau, China. _Journal of Hazardous Materials_ 476, 134959 [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
+
+[9] Chan SCY <sup>#</sup>, **Ho Y-W**<sup>#</sup>, & Karczmarski L.<sup>#</sup> (2024) Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ 297, 110690 [![DOI](https://img.shields.io/badge/10.1016/j.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
 
 [8] Li Y, Zhu Y, Huang J, **Ho Y-W**, Fang JKH, & Lam EY (2024) High-throughout microplastic assessment based on polarization holographic imaging. _Scientific Reports_ 14, 2355 [![DOI](https://img.shields.io/badge/10.1038/s41598.024.52762.5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5)
 
@@ -70,26 +110,6 @@ redirect_from:
 [2] Leung MML, **Ho Y-W**, Lee CH, Wang Y, Hu M, Kwok KWH, Chua SL, & Fang JKH (2021) Improved Raman spectroscopy-based approach to assess microplastics in seafood. _Environmental Pollution_ 117648. [![DOI](https://img.shields.io/badge/10.1016/j.envpol.2021.117648-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.envpol.2021.117648)
 
 [1] Karczmarski L, Huang SL, Or CKM, Gui D, Chan SCY, Lin W, Porter L, Wong WH, Zheng R, **Ho Y-W**, Chui SYS, Tiongson AJC, Mo Y, Chang WL, Kwok JHW, Tang RWK, Lee ATL, Yiu SW, Keith M, Gailey G, & Wu Y (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64. [![DOI](https://img.shields.io/badge/10.1016/bs.amb.2015.09.003-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/bs.amb.2015.09.003)
-
-## Manuscripts Under Review / In Submission
-
-<!---
-[22] **Ho YW** & Karczmarski L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
-
-[21] Lin Y, Wang Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff
-
-[20] **Ho YW**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
---->
-
-[19] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
-
-[18] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
-
-[17] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (in submission) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-
-[16] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (Under Review) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
-
-[15] Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (Under Review) Ecological roles and microbial exchange capabilities of microbiomes associated with microplastics are distinct from those associated with natural particles in urban rivers. _Environmental Science & Technology_
 
 ## Repository
 
