@@ -54,7 +54,7 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 - Zhang L, Li C, Ho Y-W,...Fang JKH, Jin L (major revision) Microbiome on marine microplastics
 - Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
--
+- Li Zhang, Ziqian Xu, Changchao Li1, Xi Pan, Yijing Wang, Xiaohua Zhang, Xintong Liu, Anqi Xiong, Yuen-Wa Ho, Yan Wang, Xinru Zhang, Yongkang Zhao, Shuping Ji, Jian Liu, Meng Yan, James Kar Hei Fang, Ling N. Jin
 --->
 
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
@@ -64,6 +64,8 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
+
+- Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. Water Research X
 
 - Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
 
