@@ -32,10 +32,11 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
   - Passive acoustic monitoring in western and southern Hong Kong waters
   - Night-time acoustic line transect for dolphin and porpoise detection and localization
 
-- [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/): He
+- [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/):
 
   - Distribution, transport pathways, and ecological risks of microplastics across marine biota and environments, assessing ingestion, trophic transfer, and sub-lethal effects.
   - Studied animals and environemnts include:
+
     - Indo-Pacific humpback dolphins (in submission);
     - Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
     - Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414);
@@ -46,15 +47,15 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
     - Jellyfish;
     - Sponge in Deep Artic;
 
-  Other microplastic related projects:
+  - Other microplastic related projects:
 
-  - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
+    - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
-  - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+    - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
-  - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
+    - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
 
-  - Microbiome community on microplastic particles in marine water (major revision)
+    - Microbiome community on microplastic particles in marine water (major revision)
 
 <footer>
     <div class="footer-logos">

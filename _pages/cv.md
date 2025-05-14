@@ -42,8 +42,7 @@ redirect_from:
 
 ---
 
-Google Scholar Citations: 353 <br>
-H-index: 9
+Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 
 ---
 
