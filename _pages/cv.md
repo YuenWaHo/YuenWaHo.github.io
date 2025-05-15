@@ -40,7 +40,7 @@ redirect_from:
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
 
----
+## 2025
 
 Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 
@@ -54,7 +54,7 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 - Zhang L, Li C, Ho Y-W,...Fang JKH, Jin L (major revision) Microbiome on marine microplastics
 - Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
--
+- Li Zhang, Ziqian Xu, Changchao Li1, Xi Pan, Yijing Wang, Xiaohua Zhang, Xintong Liu, Anqi Xiong, Yuen-Wa Ho, Yan Wang, Xinru Zhang, Yongkang Zhao, Shuping Ji, Jian Liu, Meng Yan, James Kar Hei Fang, Ling N. Jin
 --->
 
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
@@ -64,6 +64,8 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
+
+- Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. Water Research X
 
 - Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
 
@@ -86,6 +88,9 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 
 [11] Zhu Y, Li Y, Huang J, Zhang Y, **Ho Y-W**, Fang JKH, & Lam EY (2024) Advanced optical imaging technologies for microplastics identification: Progress and Challenges. _Advanced Photonics Research_ 2400038 [![DOI](https://img.shields.io/badge/10.1002/adpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
+[10] Liang T<sup>#</sup>, **Ho Y-W** <sup>#</sup>, Wang Q, Wang P, Sun S, Fang JKH, & Liu X (2024) Distribution and risk assessment of microplastics in water, sediment and brine shrimps in a remote salt lake on the Tibetan Plateau, China. _Journal of Hazardous Materials_ 476, 134959 [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
+
+[9] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup>(2024) Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ 297, 110690 [![DOI](https://img.shields.io/badge/10.1016/j.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
 [10] Liang T<sup>#</sup>, **Ho Y-W**<sup>#</sup>, Wang Q, Wang P, Sun S, Fang JKH, & Liu X (2024) Distribution and risk assessment of microplastics in water, sediment and brine shrimps in a remote salt lake on the Tibetan Plateau, China. _Journal of Hazardous Materials_ 476, 134959 [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959)
 
 [9] Chan SCY <sup>#</sup>, **Ho Y-W**<sup>#</sup>, & Karczmarski L.<sup>#</sup> (2024) Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ 297, 110690 [![DOI](https://img.shields.io/badge/10.1016/j.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
@@ -110,6 +115,7 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 
 ## Repository
 
-<!-- [R02] Chan, S. C., **Ho, Y.-W.**, & Karczmarski, L. (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 
-[R01] **Ho, Y.-W.**, Karczmarski, L., Lin, W., Lo, M. C. Y., Wu, Y., & Baker, D. M. (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
+<!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
+
+[R01] **Ho, YW**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
