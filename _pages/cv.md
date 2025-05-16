@@ -65,13 +65,13 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 
-- Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. Water Research X
+- [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. Water Research X
 
-- Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
+- [17] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
 
-- Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+- [16] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
 
-- Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
+- [15] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
@@ -114,7 +114,6 @@ Google Scholar Citations: 353 | h-index: 9 | i10-index: 7
 [1] Karczmarski L, Huang SL, Or CKM, Gui D, Chan SCY, Lin W, Porter L, Wong WH, Zheng R, **Ho Y-W**, Chui SYS, Tiongson AJC, Mo Y, Chang WL, Kwok JHW, Tang RWK, Lee ATL, Yiu SW, Keith M, Gailey G, & Wu Y (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64. [![DOI](https://img.shields.io/badge/10.1016/bs.amb.2015.09.003-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/bs.amb.2015.09.003)
 
 ## Repository
-
 
 <!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 
