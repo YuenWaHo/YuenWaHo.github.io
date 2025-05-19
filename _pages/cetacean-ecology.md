@@ -12,28 +12,28 @@ redirect_from:
     <img
       src="/images/manuscript_covers/2016 Karczmarski et al. Humpback Dolphins in Hong Kong and the Pearl River Delta Status, Threats and Conservation Challenges.jpg"
       alt="Karczmarski et al. 2016 cover"
-      style="height: 200px; width: auto;"
+      style="height: 300px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1016/j.biocon.2024.110690" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Chan-Ho-Karczmarski-BioCon.jpg"
       alt="Chan-Ho-Karczmarski et al. 2024 cover"
-      style="height: 200px; width: auto;"
+      style="height: 300px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.3389/fmars.2024.1252661" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg"
       alt="Lin et al. 2024 cover"
-      style="height: 200px; width: auto;"
+      style="height: 300px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1086/734631" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg"
       alt="Ho, Karczmarski et al. 2025 cover"
-      style="height: 200px; width: auto;"
+      style="height: 300px; width: auto;"
     >
   </a>
 </div>
