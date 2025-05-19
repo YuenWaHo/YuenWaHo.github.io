@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 <div style="display: flex; gap: 5px;">
-  <img src="/images/manuscript_covers/2016 Karczmarski et al. Humpback Dolphins in Hong Kong and the Pearl River Delta Status, Threats and Conservation Challenges.jpg" alt="mapping" style="width: 300px;">
-  <img src="/images/manuscript_covers/2024 Chan-Ho-Karczmarski-BioCon.jpg" alt="mapping" style="width: 300px;">
-  <img src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg" alt="mapping" style="width: 300px;">
-  <img src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg" alt="mapping" style="width: 300px;">
+  <img src="/images/manuscript_covers/2016 Karczmarski et al. Humpback Dolphins in Hong Kong and the Pearl River Delta Status, Threats and Conservation Challenges.jpg" alt="mapping" style="width: 200px;">
+  <img src="/images/manuscript_covers/2024 Chan-Ho-Karczmarski-BioCon.jpg" alt="mapping" style="width: 200px;">
+  <img src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg" alt="mapping" style="width: 200px;">
+  <img src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg" alt="mapping" style="width: 200px;">
 </div>
 
 ---

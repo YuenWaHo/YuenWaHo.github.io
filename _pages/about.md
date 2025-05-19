@@ -13,7 +13,13 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Research Scientist at the Cetacea Research Institute. He holds a BSc in Ecology and Biodiversity (2013) and a PhD in Cetacean Ecology (2021) from the University of Hong Kong. His doctoral thesis investigated the foraging ecology of Indo-Pacific humpback dolphins on stable-isotope analysis, microplastics ingestion and spatial soundscape. His current research focuses on microplastic quantification in aquatic environments, underwater soundscape ecology, and the application of big-data approaches—such as Bayesian belief networks—to address marine conservation challenges.
+<!-- Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Research Scientist at the Cetacea Research Institute. He holds a BSc in Ecology and Biodiversity (2013) and a PhD in Cetacean Ecology (2021) from the University of Hong Kong. His doctoral thesis investigated the foraging ecology of Indo-Pacific humpback dolphins on stable-isotope analysis, microplastics ingestion and spatial soundscape. His current research focuses on microplastic quantification in aquatic environments, underwater soundscape ecology, and the application of big-data approaches—such as Bayesian belief networks—to address marine conservation challenges. -->
+
+Derek is an ecologist and conservation scientist whose work integrates field observation, laboratory analysis, and advanced statistical modelling to address pressing questions in marine ecosystem health. With a BSc in Ecology and Biodiversity (2013) and a PhD in Cetacean Ecology (2021) from the University of Hong Kong, he has developed a multidisciplinary approach—combining stable‐isotope biogeochemistry, microplastic pollution assessment, and acoustic habitat mapping—to uncover how environmental stressors shape the behaviour, physiology, and population dynamics of coastal cetaceans.
+
+His doctoral research on Indo‐Pacific humpback dolphins employed stable‐isotope ratios in dentine to reconstruct ontogenetic dietary shifts, while simultaneously quantifying microplastic ingestion and characterizing fine‐scale underwater soundscapes. Building on these methods, Derek’s current projects extend from quantifying microplastic distributions and their microbial colonizers across riverine and marine systems, to deploying passive acoustic monitoring arrays that reveal diurnal and spatial patterns of dolphin and porpoise vocal activity. He also develops and implements machine-learning models for automatic classification of sound sources within complex underwater acoustic datasets. Finally, he applies Bayesian hierarchical models and belief networks to synthesize big datasets, predict ecosystem responses to anthropogenic change, and guide evidence-based conservation strategies.
+
+Across these themes, Derek emphasizes methodological innovation and rigor—implementing robust field-sampling designs, high-throughput microplastic quantification workflows, Bayesian modelling frameworks, and open-source code and data repositories—while fostering collaborations that bridge ecology, toxicology, and data science. His work has been published in leading journals (e.g., _Natural Communications_, _Biological Conservation_, _Ecological and Evolutionary Physiology_, _Journal of Hazardous Materials_) and informs management efforts in Hong Kong’s marine protected areas and beyond.
 
 # Research Interests
 
@@ -25,16 +31,19 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
   - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
   - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications.
 
-- [Underwater Soundscapes](https://yuenwaho.github.io/acoustics/):
+- [Underwater Soundscape Ecology](https://yuenwaho.github.io/acoustics/):
 
-  - Investigates acoustic environments in marine systems on how organisms use sound for communication, navigation, and foraging, quantifying anthropogenic noise impacts, and developing mitigation strategies to preserve acoustic habitats.
+  - Passive acoustic monitoring and nocturnal line-transect surveys for dolphin and porpoise detection and localization
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
-  - Passive acoustic monitoring in western and southern Hong Kong waters
-  - Night-time acoustic line transect for dolphin and porpoise detection and localization
+  - Assessment of anthropogenic noise impacts and development of mitigation strategies
+  - Machine-learning models for automated classification of sound sources
 
-- [Microplastics and its impacts](https://yuenwaho.github.io/microplastics/):
+- [Microplastic Pollution & Microbial Ecology](https://yuenwaho.github.io/microplastics/):
 
-  - Distribution, transport pathways, and ecological risks of microplastics across marine biota and environments, assessing ingestion, trophic transfer, and sub-lethal effects.
+  - High-throughput quantification of microplastics in freshwater and marine systems using advanced spectroscopy
+  - Ecological risk assessment of microplastic loads
+  - Characterization of microplastic- and natural particle-associated microbiomes versus free-living microbial communities
+
   - Studied animals and environemnts include:
 
     - Indo-Pacific humpback dolphins (in submission);
@@ -52,10 +61,6 @@ Derek is a Postdoctoral Fellow at the Hong Kong Polytechnic University and a Res
     - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
     - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
-
-    - Microbiome community on microplastic particles in river water (under review) _Environmental Science & Technology_
-
-    - Microbiome community on microplastic particles in marine water (major revision)
 
 <footer>
     <div class="footer-logos">
