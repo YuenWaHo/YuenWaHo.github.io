@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Microplastics and its impacts"
+title: "Microplastic Distribution & Risk Assessments"
 permalink: /microplastics/
 author_profile: true
 redirect_from:
@@ -46,7 +46,7 @@ His research further examines the environmental dynamics of microplastics, mappi
   </a>
 </div>
 
-<div style="display: flex; gap: 5px; align-items: flex-start;">
+<div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
   <a href="https://doi.org/10.1038/s41598-024-52762-5" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Li et al Holographic Imaging.jpg"
@@ -70,7 +70,7 @@ His research further examines the environmental dynamics of microplastics, mappi
   </a>
   <a href="https://doi.org/10.1002/adpr.202400038" target="_blank" rel="noopener">
     <img
-      src="/images/manuscript_covers/2024 Zhu et al - Advanced Optical Imaging Technologies for Microplastics Identification  Progress.jpg"
+      src="/images/manuscript_covers/2024 Zhu et al - Advanced Photonics.jpg"
       alt="Zhu et al. 2024 – Advanced optical imaging technologies for MP ID"
       style="height: 300px; width: auto;"
     >
