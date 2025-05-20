@@ -49,7 +49,6 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 <!---
 - **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
-- Zhang L, Li C, Ho Y-W,...Fang JKH, Jin L (major revision) Microbiome on marine microplastics
 - Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
 - Li Zhang, Ziqian Xu, Changchao Li1, Xi Pan, Yijing Wang, Xiaohua Zhang, Xintong Liu, Anqi Xiong, Yuen-Wa Ho, Yan Wang, Xinru Zhang, Yongkang Zhao, Shuping Ji, Jian Liu, Meng Yan, James Kar Hei Fang, Ling N. Jin
@@ -67,7 +66,7 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 
 - [17] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
 
-- [16] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Contribution of natural toxins and anthropogenic contaminants to species-specific seawater cytotoxicity. _Environmental Science & Technology_
+- Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
 
 - [15] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
