@@ -62,11 +62,11 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 
-- [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. Water Research X
+- [18] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
 
-- [17] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
+- [17] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
-- Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
+- [16] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
 
 - [15] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
@@ -111,4 +111,4 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 
 <!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 
-[R01] **Ho, YW**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
+[R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
