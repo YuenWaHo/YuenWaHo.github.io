@@ -7,6 +7,15 @@ redirect_from:
 #   - /acoustics
 ---
 
+<div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
+  <a href="https://doi.org/10.1016/j.ecolind.2023.111228" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2024 Ho et al Spatial Soundscape.jpg"
+      alt="Ho et al. 2024 – Spatial Soundscape"
+      style="height: 300px; width: auto;"
+    >
+  </a>
+</div>
 ---
 
 ## Fine-scale spatial variability of marine acoustic environment corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters

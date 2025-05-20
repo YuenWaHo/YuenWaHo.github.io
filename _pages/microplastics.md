@@ -71,7 +71,7 @@ His research further examines the environmental dynamics of microplastics, mappi
   <a href="https://doi.org/10.1002/adpr.202400038" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Zhu et al - Advanced Photonics.jpg"
-      alt="Zhu et al. 2024 – Advanced optical imaging technologies for MP ID"
+      alt="Zhu et al. 2024 – Advanced optical imaging technologies for MP"
       style="height: 300px; width: auto;"
     >
   </a>

@@ -38,7 +38,7 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
   - Assessment of anthropogenic noise impacts and development of mitigation strategies
   - Machine-learning models for automated classification of sound sources
 
-- [Microplastic Pollution & Microbial Ecology](https://yuenwaho.github.io/microplastics/):
+- [Microplastic Distribution & Risk Assessments](https://yuenwaho.github.io/microplastics/):
 
   - High-throughput quantification of microplastics in freshwater and marine systems using advanced spectroscopy
   - Ecological risk assessment of microplastic loads
