@@ -66,13 +66,13 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 
 - [17] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
-- [16] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (major revision) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
-
-- [15] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
+- [16] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
 ## 2025 / in press
+
+[15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
 
 [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
