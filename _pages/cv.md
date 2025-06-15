@@ -51,7 +51,6 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 - **Ho, Y.-W.**, et al. (_in prep._) Half-century of marine mammal strandings in Hong Kong: Patterns, hotspots, and conservation implications
 - Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
-- Li Zhang, Ziqian Xu, Changchao Li1, Xi Pan, Yijing Wang, Xiaohua Zhang, Xintong Liu, Anqi Xiong, Yuen-Wa Ho, Yan Wang, Xinru Zhang, Yongkang Zhao, Shuping Ji, Jian Liu, Meng Yan, James Kar Hei Fang, Ling N. Jin
 --->
 
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) From fragments to fibres: A comprehensive study on microplastic pollution in Hong Kong's freshwater ecosystems.
@@ -62,17 +61,17 @@ Google Scholar Citations: <strong>358</strong> / h-index: <strong>9</strong> / i
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 
-- [18] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (under review) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_
+- [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
-- [17] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
-
-- [16] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (under review) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
+- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (major revision) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
 ## 2025 / in press
 
-[15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_
+[16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, in press [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
+
+[15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_, in press
 
 [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
