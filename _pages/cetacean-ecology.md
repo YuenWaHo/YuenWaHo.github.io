@@ -47,6 +47,14 @@ redirect_from:
       style="height: 300px; width: auto;"
     >
   </a>
+  
+  <a href="https://doi.org/10.1021/acs.est.4c14481" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2025 liu-et-al dissecting-the-role-of-natural-toxins-and-anthropogenic-contaminants-in-mixture-effects-of-seawater.jpg"
+      alt="Lin et al. 2024 cover"
+      style="height: 300px; width: auto;"
+    >
+  </a>
 </div>
 
 ---
@@ -80,10 +88,11 @@ The longitudinal isotopic records archived in dolphin teeth and analysed in this
 
 ---
 
-## Interplay of Natural Toxins and Anthropogenic Contaminants in Species-Specific Seawater Cytotoxicity: Insights from Cetacean Skin Fibroblasts
+## Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts
 
-_Manuscript in Major Revision_, Submitted to _Environmental Science & Technology_
-In this study, we utilized cell lines derived from sentinel species indicative of marine ecosystem health – the Indo-Pacific finless porpoise and the humpback dolphin – as _in vitro_ models to evaluate species-specific effects of coastal seawater of Hong Kong, a representative area for cetacean health and marine pollution. While distinct cytotoxic susceptibilities to seawater extracts and the tested chemicals occurred in species-specific cell lines, pectenotoxin-2, despite its low chemical load, emerged as the predominant contributor to cytotoxicity in identified chemical mixtures, surpassing the effects of the studied anthropogenic contaminants across both cetacean cell lines.
+Published in _Environmental Science & Technology_
+
+Marine mammal skin, in contact with seawater containing diverse chemicals, reflects species health and environ- mental quality. The contributions of natural toxins and anthropogenic contaminants to the effects of such chemical mixtures remain poorly quantified. Using skin fibroblast cells from the Indo-Pacific finless porpoise and humpback dolphin, we assessed the toxic potential of seawater extracts, focusing on cytotoxicity and intracellular reactive oxygen species (ROS) formation. Among the 38 studied chemicals prevalent in seawater, four algal toxins were 1−6 orders of magnitude more potent than 30 anthropogenic chemicals, including antibiotics, ultraviolet filters, per- and polyfluoroalkyl substances (PFASs), and polyaromatic hydrocarbons. Pectenotoxin-2 accounted for 92% of the cytotox- icity triggered by the mixture of all studied chemicals, which collectively explained 34% of seawater-induced cytotoxicity in porpoise cells. For ROS induction, although all studied chemicals collectively explained a small fraction (<1%) of the effects elicited by seawater extracts in both cell lines, okadaic acid and gymnodimine accounted for∼80% of the mixture effects of all chemicals, with additional contributions from PFASs. Extending the approach to other coastal habitats where concentration data are available revealed algal toxins as dominant contributors among the known contaminant mixtures eliciting dermal toxic potential. This study provides novel insights to guide the identification of toxicity contributors across dermal health end points, with a balanced perspective on natural toxins and anthropogenic contaminants in addressing their mixture effects on sentinel species health.
 
 ---
 

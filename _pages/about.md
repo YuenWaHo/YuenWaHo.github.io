@@ -27,9 +27,9 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
-  - Toxin effect on cetacean fibroblast cell (major revision)
+  - Toxin effect on cetacean fibroblast cell [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
   - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
-  - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications.
+  - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications
 
 - [Underwater Soundscape Ecology](https://yuenwaho.github.io/acoustics/):
 
@@ -58,17 +58,17 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
   - Other microplastic related projects:
 
-    - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
-
     - Development of nano-bubble for removal of sub-10 micron microplastics in waste water [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+
+    - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
 <footer>
     <div class="footer-logos">
         <!-- <img src="/images/sdg_logos/goal4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 150px;"> -->
-        <img src="/images/sdg_logos/goal6a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
-        <img src="/images/sdg_logos/goal13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
-        <img src="/images/sdg_logos/goal14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
-        <img src="/images/sdg_logos/goal15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
-        <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
+        <img src="/images/sdg_logos/goal6a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/sdg_logos/goal15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
     </div>
 </footer>
