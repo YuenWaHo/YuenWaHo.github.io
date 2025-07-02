@@ -65,9 +65,10 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 <footer>
     <div class="footer-logos">
         <!-- <img src="/images/sdg_logos/goal4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 150px;"> -->
+        <img src="/images/sdg_logos/goal6a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
         <img src="/images/sdg_logos/goal13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
         <img src="/images/sdg_logos/goal14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
         <img src="/images/sdg_logos/goal15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
-        <!-- <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 150px;"> -->
+        <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 150px;">
     </div>
 </footer>
