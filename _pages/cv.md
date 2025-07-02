@@ -40,7 +40,7 @@ redirect_from:
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
 
-Google Scholar Citations: <strong>383</strong> / h-index: <strong>10</strong> / i10-index: <strong>7</strong>
+Google Scholar Citations: <strong>385</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
 ---
 
