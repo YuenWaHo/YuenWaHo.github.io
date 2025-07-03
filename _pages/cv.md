@@ -50,9 +50,10 @@ Google Scholar Citations: <strong>385</strong> / h-index: <strong>10</strong> / 
 - **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
-- Li Y, ..., Ho Y-W, Fang JKH, & Lam EY (in prep.) Computational 4D Imaging of Nanoplastic Pollution Impacts in Marine Rotifers for Aquatic Health Monitoring
 - Zhu Y, ..., Ho Y-W, Fang JKH, & Lam EY (in prep.) Seawater MP with holography?
 --->
+
+- Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D Imaging of Nanoplastic Pollution Impacts in Marine Rotifers for Aquatic Health Monitoring
 
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 
