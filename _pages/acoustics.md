@@ -41,3 +41,13 @@ In this study, we collected high-temporal underwater recordings from 8 stations 
 By deploying stereo acoustic data-loggers in a linear array behind the research vessel, Acoustic Line Transect Studies (ALTS) capture high-frequency echolocation clicks from dolphins and porpoises. This method has proven effective across the nocturnal waters of Hong Kong, covering significant distances and yielding massive datasets. Through meticulous analysis, including acoustic signal processing and triangulation, we can distinguish cetacean click trains from ambient noise, track vocalizing individuals, and estimate their numbers and spatial distributions. These studies offer invaluable insights into the nocturnal activities of marine mammals, highlighting the importance of specific habitats and providing a foundation for conservation efforts. As the technology and methodologies continue to evolve, ALTS stand at the forefront of marine biology, offering a non-invasive window into the underwater world of cetaceans.
 
 <img src="/images/acoustics-ALTS-trace.png" alt="acoustics" style="float: center; width: 500px;" />
+
+<footer style="margin-top: 20px;">
+    <div class="footer-logos" style="display: flex; gap: 20px;">
+        <img src="/images/sdg_logos/goal9a.png" alt="Logo 2" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal11a.png" alt="Logo 3" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 4" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 5" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal15a.png" alt="Logo 6" style="width: auto; height: 140px;">
+    </div>
+</footer>

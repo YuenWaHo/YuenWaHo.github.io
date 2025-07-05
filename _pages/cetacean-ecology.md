@@ -107,3 +107,12 @@ Marine mammal skin, in contact with seawater containing diverse chemicals, refle
 </iframe>
 
 ---
+
+<footer style="margin-top: 20px;">
+    <div class="footer-logos" style="display: flex; gap: 20px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 2" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 3" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal12a.png" alt="Logo 4" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal6a.png" alt="Logo 5" style="width: auto; height: 140px;">
+    </div>
+</footer>
