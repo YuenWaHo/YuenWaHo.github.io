@@ -108,3 +108,14 @@ Among the various polymers detected, low-density materials such as polystyrene (
   <img src="/images/microplastics-sampling-3.png" alt="mapping" style="width: 250px;">
   <img src="/images/microplastics-sampling-4.png" alt="mapping" style="width: 250px;">
 </div>
+
+<footer style="margin-top: 20px;">
+    <div class="footer-logos" style="display: flex; gap: 20px;">
+        <img src="/images/sdg_logos/goal3a.png" alt="Logo 1" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal6a.png" alt="Logo 2" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal12a.png" alt="Logo 3" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 4" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 5" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal15a.png" alt="Logo 6" style="width: auto; height: 140px;">
+    </div>
+</footer>
