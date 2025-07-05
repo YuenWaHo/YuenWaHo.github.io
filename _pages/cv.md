@@ -40,7 +40,7 @@ redirect_from:
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
 
-Google Scholar Citations: <strong>385</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
+Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
 ---
 
@@ -62,6 +62,8 @@ Google Scholar Citations: <strong>385</strong> / h-index: <strong>10</strong> / 
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 
 - **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
+
+- Wang Y, Li C, Zhou ASK, Pan X, Zhang X, Chen T, Xiong A, **Ho Y-W**, Wu L, Zhou Z, Liu J, Adyel TM, Fang JKH, Bank MS, Rilling MC, Jin LN (in submission) Unravelling archaeal community ecology and evolution in the expanding coastal plastisphere
 
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
