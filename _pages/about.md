@@ -21,7 +21,8 @@ His doctoral research on Indo‐Pacific humpback dolphins employed stable‐isot
 
 Across these themes, Derek emphasizes methodological innovation and rigor—implementing robust field-sampling designs, high-throughput microplastic quantification workflows, Bayesian modelling frameworks, and open-source code and data repositories—while fostering collaborations that bridge ecology, toxicology, and data science. His work has been published in leading journals (e.g., _Natural Communications_, _Biological Conservation_, _Ecological and Evolutionary Physiology_, _Journal of Hazardous Materials_) and informs management efforts in Hong Kong’s marine protected areas and beyond.
 
-# Research Areas
+<p style="text-align:center; font-weight:bold; font-size:28px"> Research Topics</p>
+
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
