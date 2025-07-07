@@ -61,7 +61,11 @@ redirect_from:
 
 ## Hierarchical Bayesian ontogenetic dietary shift analysis [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 
-<img src="/images/Bayesian-weaning.png" alt="bayesian-weaning" style="float: right; margin-left: 10px; width: 300px;" />
+<div style="display: flex; gap: 10px;">
+    <img src="/images/Bayesian-weaning.png" alt="Bayesian Weaning" style="width: 300px;">
+    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG">
+</div>
+
 
 Published in _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 
