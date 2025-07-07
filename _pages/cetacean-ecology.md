@@ -63,7 +63,7 @@ redirect_from:
 
 <div style="display: flex; gap: 10px;">
     <img src="/images/Bayesian-weaning.png" alt="Bayesian Weaning" style="width: 300px;">
-    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG">
+    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 150px;>
 </div>
 
 
