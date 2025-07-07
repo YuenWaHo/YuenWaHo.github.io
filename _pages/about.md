@@ -25,6 +25,8 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
+<img src="/images/DH 505_3468.jpg" alt="acoustics" style="float: center; width: 700px;" />
+
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
   - Toxin effect on cetacean fibroblast cell [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
@@ -33,6 +35,8 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/acoustics/">Underwater Soundscape</a> </p>
 
+<img src="/images/DH 505_3664.jpg" alt="acoustics" style="float: center; width: 700px;" />
+
   - Passive acoustic monitoring and nocturnal line-transect surveys for dolphin and porpoise detection and localization
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
   - Assessment of anthropogenic noise impacts and development of mitigation strategies
@@ -40,21 +44,15 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/microplastics/">Microplastic Distribution & Risk Assessments</a> </p>
 
+<img src="/images/microplastics-mapping-header.png" alt="acoustics" style="float: center; width: 700px;" />
+
   - High-throughput quantification of microplastics in freshwater and marine systems using advanced spectroscopy
   - Ecological risk assessment of microplastic loads
   - Characterization of microplastic- and natural particle-associated microbiomes versus free-living microbial communities
 
   - Studied animals and environemnts include:
 
-    - Indo-Pacific humpback dolphins (in submission);
-    - Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541);
-    - Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414);
-    - Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959);
-    - Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590);
-    - Hong Kong's river and streams (Manuscript _In prep_) and marine water
-    - Oysters (_In prep_);
-    - Jellyfish;
-    - Sponge in Deep Artic;
+    - Indo-Pacific humpback dolphins (in submission); Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541); Human faeces [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414); Brine shrimp in Tibet plateau [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959); Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590); Hong Kong's river and streams (_Manuscript in prep._) and marine water; Oysters (_In prep._); Jellyfish; Sponge in Deep Artic;
 
   - Other microplastic related projects:
 
