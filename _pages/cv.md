@@ -46,9 +46,8 @@ Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / 
 
 ## Manuscripts under review / in submission:
 
-<!---$$
-- **Ho, Y.-W.** & Karczmarski, L (_in prep._). Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
-- Xiong A, Ho Y-W,..., Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
+<!---
+- Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (in prep.) Toxins extraction in microplastics along the shoreline
 - Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long microbiome from river microplastics
 - Zhu Y, ..., Ho Y-W, Fang JKH, & Lam EY (in prep.) Seawater MP with holography?
 --->
