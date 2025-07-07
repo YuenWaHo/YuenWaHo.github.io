@@ -73,7 +73,7 @@ Published in _Ecological and Evolutionary Physiology_ [![DOI](https://img.shield
 </div>
 
 <div style="display: flex; gap: 10px;">
-    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 150px;">
+    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 350px;">
 </div>
 
 ---
