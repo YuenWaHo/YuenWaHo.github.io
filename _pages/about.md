@@ -30,7 +30,7 @@ Currently, Derek investigates microplastic distributions and their microbial col
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
-<img src="/images/DH 505_3468.jpg" alt="acoustics" style="float: center; height: 300px;" />
+<img src="/images/DH 505_3468.jpg" alt="acoustics" style="float: center; width: 900px;" />
 
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
@@ -40,7 +40,7 @@ Currently, Derek investigates microplastic distributions and their microbial col
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/acoustics/">Underwater Soundscape</a> </p>
 
-<img src="/images/DH 505_3664.jpg" alt="acoustics" style="float: center; height: 300px;" />
+<img src="/images/DH 505_3664.jpg" alt="acoustics" style="float: center; width: 900px;" />
 
   - Passive acoustic monitoring and nocturnal line-transect surveys for dolphin and porpoise detection and localization
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
@@ -49,7 +49,7 @@ Currently, Derek investigates microplastic distributions and their microbial col
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/microplastics/">Microplastic Distribution & Risk Assessments</a> </p>
 
-<img src="/images/microplastics-mapping-header.png" alt="acoustics" style="float: center; height: 300px;" />
+<img src="/images/microplastics-mapping-header.png" alt="acoustics" style="float: center; width: 900px;" />
 
   - High-throughput quantification of microplastics in freshwater and marine systems using advanced spectroscopy
   - Ecological risk assessment of microplastic loads

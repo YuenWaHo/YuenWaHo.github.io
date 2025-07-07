@@ -63,7 +63,6 @@ redirect_from:
 
 <div style="display: flex; gap: 10px;">
     <img src="/images/Bayesian-weaning.png" alt="Bayesian Weaning" style="width: 300px;">
-    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 150px;>
 </div>
 
 
@@ -72,6 +71,11 @@ Published in _Ecological and Evolutionary Physiology_ [![DOI](https://img.shield
 <div class="abstract" markdown="1" style="font-size:0.8em; line-height:1.4;">
 **Abstract**: Weaning represents a pivotal ontogenetic process for mammals, marking the transition from parental provisioning to independent foraging. In monophyodont species, distinct growth layer groups that are deposited in their teeth as the animals age represent a permanent chronological archive of physiological events across the animals’ lifetimes. Thus, biochemical analysis of annual dentine increments provides a means to explore animal physiological history. We examined the age-specific pattern, individuallevel variations, and sex-related differences in dentine nitrogen isotopic values in the Indo-Pacific humpback dolphin (_Sousa chinensis_) using tooth samples collected from 38 carcasses that stranded ashore in the Pearl River Delta region, southeast China, between 2007 and 2018. The longitudinal isotopic records archived in dolphin teeth offered insights into their foraging ecology and individual ontogenetic dietary life history. The overall pattern of d15N isotopic values in the incremental layers, analyzed under a hierarchical Bayesian framework, indicates that humpback dolphins typically undergo an ontogenetic dietary shift (i.e., wean) before reaching the age of 3 yr (mean: 2.394 ± 0.143 yr), albeit there is considerable individual heterogeneity (range: 1.548 – 4.180 yr), with males consistently weaning ~3.5 mo earlier than females. Our study underscores the importance of quantifying ontogenetic parameters at the individual level, as overlooking individual variations in life history events (such as the age of weaning) may introduce biases in the broader population-level life history metrics. The application of hierarchical Bayesian modeling proved effective in quantifying individual heterogeneity and factoring it into the estimates of ontogenetic dietary shifts—an important component in analyses of broader population-level processes.
 </div>
+
+<div style="display: flex; gap: 10px;">
+    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 150px;">
+</div>
+
 ---
 
 ## Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
