@@ -21,9 +21,8 @@ His doctoral research on Indo‐Pacific humpback dolphins employed stable‐isot
 
 Across these themes, Derek emphasizes methodological innovation and rigor—implementing robust field-sampling designs, high-throughput microplastic quantification workflows, Bayesian modelling frameworks, and open-source code and data repositories—while fostering collaborations that bridge ecology, toxicology, and data science. His work has been published in leading journals (e.g., _Natural Communications_, _Biological Conservation_, _Ecological and Evolutionary Physiology_, _Journal of Hazardous Materials_) and informs management efforts in Hong Kong’s marine protected areas and beyond.
 
-# Research Interests
-
-- [Marine Mammal Ecology](https://yuenwaho.github.io/cetacean-ecology/):
+# Research Areas
+<p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
   - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
   - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
@@ -31,14 +30,14 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
   - Stable-isotope metrics to resolve diet composition and resource partitioning among dolphin subpopulations
   - Necropsy and post-mortem analyses of strandings to identify spatial–temporal patterns, hotspots, and conservation implications
 
-- [Underwater Soundscape Ecology](https://yuenwaho.github.io/acoustics/):
+<p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/acoustics/">Underwater Soundscape</a> </p>
 
   - Passive acoustic monitoring and nocturnal line-transect surveys for dolphin and porpoise detection and localization
   - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
   - Assessment of anthropogenic noise impacts and development of mitigation strategies
   - Machine-learning models for automated classification of sound sources
 
-- [Microplastic Distribution & Risk Assessments](https://yuenwaho.github.io/microplastics/):
+<p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/microplastics/">Microplastic Distribution & Risk Assessments</a> </p>
 
   - High-throughput quantification of microplastics in freshwater and marine systems using advanced spectroscopy
   - Ecological risk assessment of microplastic loads
@@ -64,11 +63,18 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
 <footer>
     <div class="footer-logos">
-        <!-- <img src="/images/sdg_logos/goal4a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 150px;"> -->
-        <img src="/images/sdg_logos/goal6a.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/sdg_logos/goal13a.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/sdg_logos/goal14a.png" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/sdg_logos/goal15a.png" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/sdg_logos/goal17a.png" alt="Logo 5" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/microplastics-sampling-4.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/acoustics-diver.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/porpoise_earbone.gif" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/Sousa_earbone.gif" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+    </div>
+</footer>
+
+<footer>
+    <div class="footer-logos" style="display: flex; gap: 10px; justify-content: center;">
+        <img src="/iimages/microplastics-sampling-2.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/DH 7D2_0499.jpg" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/DH 412_0025.JPG" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
+        <img src="/images/DH 505_3468.jpg" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
     </div>
 </footer>
