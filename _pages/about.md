@@ -61,7 +61,7 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
 
     - Holographic imaging technique for _in-situ_ microplastic identification [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41598--024--52762--5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fadpr.202400038-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1002/adpr.202400038)
 
-<footer>
+<!-- <footer>
     <div class="footer-logos">
         <img src="/images/microplastics-sampling-4.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
         <img src="/images/acoustics-diver.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
@@ -77,4 +77,4 @@ Across these themes, Derek emphasizes methodological innovation and rigor—impl
         <img src="/images/DH 412_0025.JPG" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
         <img src="/images/DH 505_3468.jpg" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
     </div>
-</footer>
+</footer> -->
