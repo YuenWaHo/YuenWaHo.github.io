@@ -313,3 +313,8 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* Custom styles for bibliography */
+.biblio-small {
+  font-size: 0.9em; /* Adjust as needed, e.g., 0.85em for smaller */
+}
