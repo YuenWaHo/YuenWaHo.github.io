@@ -11,7 +11,7 @@ redirect_from:
 
 I investigates the pervasive issue of microplastic pollution in aquatic ecosystems, encompassing detection, characterization, and ecological risk assessment. His work has spanned diverse systems—from human faecal samples, where he elucidated potential health risks, to marine organisms such as Indo-Pacific humpback dolphins, green-lipped mussels, and edible oysters, employing advanced techniques (e.g., Raman microspectroscopy and optical photothermal infrared) to quantify ingestion. He has also pioneered high-throughput polarization holographic imaging for rapid microplastic identification.
 
-His research further examines the environmental dynamics of microplastics, mapping their distribution in remote regions (e.g., the Tibetan Plateau) and in urban waterways, including rivers and stormwater runoff in Hong Kong. These studies underscore the ubiquity of microplastic contamination, its implications for human and ecosystem health, and inform mitigation strategies. Current projects continue to advance detection methodologies and deepen understanding of microplastic pathways and impacts.
+My research further examines the environmental dynamics of microplastics, mapping their distribution in remote regions (e.g., the Tibetan Plateau) and in urban waterways, including rivers and stormwater runoff in Hong Kong. These studies underscore the ubiquity of microplastic contamination, its implications for human and ecosystem health, and inform mitigation strategies. Current projects continue to advance detection methodologies and deepen understanding of microplastic pathways and impacts.
 
 ---
 
@@ -98,7 +98,7 @@ His research further examines the environmental dynamics of microplastics, mappi
 
 <img src="/images/microplastics-mapping.png" alt="mapping" style="float: center; width: 500px;" />
 
-This study investigates the critical issue of microplastic ingestion in coastal cetaceans, specifically focusing on humpback dolphins stranded in Hong Kong between 2014 and 2023. By analyzing the stomach contents, we sought to comprehensively understand the extent of small-sized plastic particle ingestion. Utilizing μ-Raman spectroscopy with automated mapping analysis, we characterized the size and quantity of microplastics discovered. This approach significantly enhances our knowledge of microplastic ingestion in coastal cetaceans.
+This study investigates the issue of microplastic ingestion in coastal cetaceans, focusing on humpback dolphins stranded in Hong Kong between 2014 and 2023. By analyzing the stomach contents, we sought to understand the extent of small-sized plastic particle ingestion. Utilizing μ-Raman spectroscopy with automated mapping analysis, we characterized the size and quantity of microplastics discovered.
 
 Among the various polymers detected, low-density materials such as polystyrene (PS), polypropylene (PP), and polyethylene (PE) accounted for 92.1% of all identified plastics. Our analysis, employing a hierarchical Bayesian model, revealed that the number of microplastic particles with a size smaller than 113.6μm may have been substantially underestimated in previous studies. Although significant variations were observed among individuals, our study’s advanced methodologies and application of Bayesian modeling techniques provide compelling evidence that previous estimates of microplastic ingestion in coastal cetaceans worldwide are likely to have been considerably underestimated.
 
