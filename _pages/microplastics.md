@@ -20,59 +20,59 @@ His research further examines the environmental dynamics of microplastics, mappi
     <img
       src="/images/manuscript_covers/2021 Leung et al Digestion and raman.jpg"
       alt="Leung et al. 2021 – Improved Raman spectroscopy-based approach"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1016/j.jhazmat.2021.126541" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2021 Leung et al Hazardous.jpg"
       alt="Leung et al. 2021 – Determination of microplastics in Perna viridis"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.3390/toxics10080414" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2022 Ho et al human faecal microplastics.jpg"
       alt="Ho et al. 2022 – Faecal microplastics in Hong Kong residents"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1038/s41467-024-53304-3" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Jia, Farid, Ho et al - nanobubble.jpg"
       alt="Jia, Farid, Ho et al. 2024 – Nanobubble flotation for MP removal"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
+    >
+  </a>
+    <a href="https://doi.org/10.1038/s41598-024-52762-5" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2024 Li et al Holographic Imaging.jpg"
+      alt="Li et al. 2024 – Polarization holographic imaging of MPs"
+      style="height: 250px; width: auto;"
     >
   </a>
 </div>
 
 <div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
-  <a href="https://doi.org/10.1038/s41598-024-52762-5" target="_blank" rel="noopener">
-    <img
-      src="/images/manuscript_covers/2024 Li et al Holographic Imaging.jpg"
-      alt="Li et al. 2024 – Polarization holographic imaging of MPs"
-      style="height: 300px; width: auto;"
-    >
-  </a>
   <a href="https://doi.org/10.1016/j.jhazmat.2024.134959" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Liang et al Tibet brine shrimp.jpg"
       alt="Liang et al. 2024 – MPs in Tibetan Plateau brine shrimp"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1016/j.scitotenv.2024.176590" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Lin et al-RoadRunoff.jpg"
       alt="Lin et al. 2024 – Microplastics in urban road runoff"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
   <a href="https://doi.org/10.1002/adpr.202400038" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Zhu et al - Advanced Photonics.jpg"
       alt="Zhu et al. 2024 – Advanced optical imaging technologies for MP"
-      style="height: 300px; width: auto;"
+      style="height: 250px; width: auto;"
     >
   </a>
 </div>
