@@ -84,6 +84,5 @@ redirect_from:
 - [1] Karczmarski L, Huang SL, Or CKM, Gui D, Chan SCY, Lin W, Porter L, Wong WH, Zheng R, **Ho Y-W**, Chui SYS, Tiongson AJC, Mo Y, Chang WL, Kwok JHW, Tang RWK, Lee ATL, Yiu SW, Keith M, Gailey G, & Wu Y (2016). Humpback dolphins in Hong Kong and the Pearl River Delta: Status, threats and conservation challenges. _Advances in Marine Biology_ 73, 27–64. [![DOI](https://img.shields.io/badge/10.1016/bs.amb.2015.09.003-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/bs.amb.2015.09.003)
 
 ## Repository
-!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
+<!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [Software] -->
 - [R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
-</ul>
