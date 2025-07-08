@@ -40,8 +40,10 @@ redirect_from:
 ## Publications
 
 [Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view)  Google Scholar Citations: <strong>391</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
-
+<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
+</div>
+
 ---
 
 ## Manuscripts under review / in submission:
