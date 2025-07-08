@@ -171,6 +171,10 @@ li ul,
 li ol {
   margin-top: 0.5em;
 }
+/* Custom styles for bibliography */
+.biblio-small {
+  font-size: 0.9em; /* Adjust as needed, e.g., 0.85em for smaller */
+}
 
 /*
    Media and embeds
@@ -314,7 +318,3 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-/* Custom styles for bibliography */
-.biblio-small {
-  font-size: 0.9em; /* Adjust as needed, e.g., 0.85em for smaller */
-}
