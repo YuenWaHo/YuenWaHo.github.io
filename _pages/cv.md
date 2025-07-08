@@ -44,11 +44,19 @@ redirect_from:
 <sup>#</sup> Equal contribution \* Corresponding author
 
 ---
+<!-- 
+- Ho Y-W, Karczmarski L, Lin W, Wu Y, Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary
+- Ho Y-W & Karczmarski L (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+- Ushio - DNA methylation
+- Hawaii spatial use
+- Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Ng WC, Ho AYT, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics 
+
+-->
 
 ## Manuscripts under review / in submission:
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
 - Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
-- Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, Lee PKH (_in prep._) Year-long ecological roles of microbes in plasticsphere and natural particle in urban rivesr.
+- Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, Lee PKH (_in prep._) Seasonal ecological roles of microbes in plasticsphere and natural particle in urban rivers.
 - Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D imaging of nanoplastic pollution impacts in marine rotifers for aquatic health monitoring.
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
