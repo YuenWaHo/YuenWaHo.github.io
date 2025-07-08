@@ -15,7 +15,7 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-# Current Positions
+## Current Positions
 
 - Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
 - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
@@ -24,24 +24,24 @@ redirect_from:
 - 2024 Jun - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
 --->
 
-# Academic Record
+## Academic Record
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
 - B.Sc. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
-# Previous Positions
+## Previous Positions
 
 <!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
+- Visiting Researcher, Biodiversity Research Center, Academia Sinica.   2023
+- Lab Manager, Marine Ecology & Aquaculture Lab, Hong Kong Polytechnic University.    2021 – 2025
+- Research Assistant, Hong Kong Polytechnic University.   2019 - 2021
+- Research Assistant, Cetacean Ecology Lab., The University of Hong Kong.   2013 - 2015
 
-- Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
-- Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
+## Publications
 
-# Publications
+[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view)  Google Scholar Citations: <strong>391</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
-[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) <sup>#</sup> Equal contribution \* Corresponding author
-
-Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
-
+<sup>#</sup> Equal contribution \* Corresponding author
 ---
 
 ## Manuscripts under review / in submission:
@@ -70,7 +70,7 @@ Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / 
 
 ## Published journal articles:
 
-## 2025 / in press
+### 2025 / in press
 
 [16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, in press [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
 
@@ -79,7 +79,7 @@ Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / 
 [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
-## 2024
+### 2024
 
 [13] Jia M, Farid MU, **Ho Y-W**, Ma X, Wong PW, Nah T, He Y, Boey MW, Gang L, Fang JKH, Fan J, & An AK (2024) Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ 15, 9079 [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 
@@ -97,7 +97,7 @@ Google Scholar Citations: <strong>390</strong> / h-index: <strong>10</strong> / 
 
 [6] **Ho Y-W**, Lin TH, Akamatsu T, & Karczmarski L (2024). Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins in Hong Kong waters. _Ecological Indicators_ 158, 111228 [![DOI](https://img.shields.io/badge/10.1016/j.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
 
-## Prior to 2024
+### Prior to 2024
 
 [5] Chan SCY, Karczmarski L, Lin W, Zheng R, **Ho Y-W**, Guo L, Mo Y, Lee ATL, Or CKM, & Wu Y (2022). An unknown component of a well-known population: socio-demographic parameters of Indo-Pacific humpback dolphins (_Sousa chinensis_) at the western reaches of the Pearl River Delta region. _Mammalian Biology_ 1-23 [![DOI](https://img.shields.io/badge/10.1007/s42991.022.00335.2-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1007/s42991-022-00335-2)
 
