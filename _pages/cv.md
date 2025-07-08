@@ -48,9 +48,9 @@ redirect_from:
 
 ## Manuscripts under review / in submission:
 
-- Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (in prep.) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
-- Zhu Y, ..., Ho Y-W, Fang JKH, & Lam EY (in prep.) Holographic identification of high density PMMA in seawater.
-- Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, Lee PKH (in prep.) Year-long ecological roles of microbes in plasticsphere and natural particle in urban rivesr.
+- Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
+- Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
+- Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, Lee PKH (_in prep._) Year-long ecological roles of microbes in plasticsphere and natural particle in urban rivesr.
 - Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D imaging of nanoplastic pollution impacts in marine rotifers for aquatic health monitoring.
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
