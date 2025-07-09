@@ -114,20 +114,6 @@ redirect_from:
 | 2.  | Deputy PI   | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications                                                                                       | Ocean Park Conservation Foundation Hong Kon                                  | MM04.1920; $387,800 HKD   |
 | 1.  | Co-PI       | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong                                 | MM02.1718; $683,770 HKD   |
 
-10. Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
-11. Leung MML, Ho Y-W, et al. (2021) Determination of microplastics in the edible green-lipped mussel Perna viridis using an automated mapping technique of Raman microspectroscopy. In: BECoME 2022, Hong Kong, China
-12. Karczmarski L, Chan SCY, Ho YW, Lin W, Or CKM, Guo L, & Wu Y (2019) Oral presentation. Socio-spatial dynamics of a coastal delphinid in a heavily anthropogenically impacted estuarine seascape. In: 2nd World Marine Mammal Conference, Barcelona, Spain
-13. Ho Y-W, Baker DM, Wu Y, Lin W, & Karczmarski L (2019) Advantages of applying Bayesian framework in the analyses of ontogenetic dietary shifts in a coastal delphinid. Oral presentation. In: 2nd World Marine Mammal Conference, Barcelona, Spain
-14. Ho Y-W, Lin TH, Akamatsu T, & Karczmarski L (2018) Unsupervised classification of marine soundscape with non-negative matrix factorization. Poster presentation. In: Big Data Challenges for Predictive Modeling of Complex Systems. Hong Kong, China
-15. Ho Y-W, Lin TH, Akamatsu T, & Karczmarski L (2018) Spatial variation of marine soundscape within the habitat of Indo-Pacific humpback dolphins (Sousa chinensis) in Hong Kong. Oral presentation
-
-- Best Presentation Award. In: 2nd Oceanoise Asia Conference. Hakodate, Japan
-
-4. Lin W, Karczmarski L, Zheng R, Guo L, Mo Y, Chan SCY, Ho Y-W, Or CKM, Chui SYS, & Wu Y (2017) The extinction risk has been seriously underestimated for the Indo-Pacific humpback dolphins in the Pearl River Estuary. Poster presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
-5. Ho Y-W, Baker DM, Wu Y, Lin W, & Karczmarski L (2017) Ontogenetic dietary shifts in the Indo-Pacific humpback dolphin (Sousa chinensis). Oral presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
-6. Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, Ho Y-W, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
-7. Ho Y-W, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (Sousa chinensis) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
-
 ## Conferences
 
 - [10] Bao Y, Ho Y-W, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
@@ -135,9 +121,9 @@ redirect_from:
 - [8] Karczmarski L, Chan SCY, Ho YW, Lin W, Or CKM, Guo L, & Wu Y (2019) Oral presentation. Socio-spatial dynamics of a coastal delphinid in a heavily anthropogenically impacted estuarine seascape. In: 2nd World Marine Mammal Conference, Barcelona, Spain
 - [7] Ho Y-W, Baker DM, Wu Y, Lin W, & Karczmarski L (2019) Advantages of applying Bayesian framework in the analyses of ontogenetic dietary shifts in a coastal delphinid. Oral presentation. In: 2nd World Marine Mammal Conference, Barcelona, Spain
 - [6] Ho Y-W, Lin TH, Akamatsu T, & Karczmarski L (2018) Unsupervised classification of marine soundscape with non-negative matrix factorization. Poster presentation. In: Big Data Challenges for Predictive Modeling of Complex Systems. Hong Kong, China
-- [5] Ho Y-W, Lin TH, Akamatsu T, & Karczmarski L (2018) Spatial variation of marine soundscape within the habitat of Indo-Pacific humpback dolphins (Sousa chinensis) in Hong Kong. Oral presentation
+- [5] Ho Y-W, Lin TH, Akamatsu T, & Karczmarski L (2018) Spatial variation of marine soundscape within the habitat of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Oral presentation
   **Best Presentation Award. In: 2nd Oceanoise Asia Conference. Hakodate, Japan**
 - [4] Lin W, Karczmarski L, Zheng R, Guo L, Mo Y, Chan SCY, Ho Y-W, Or CKM, Chui SYS, & Wu Y (2017) The extinction risk has been seriously underestimated for the Indo-Pacific humpback dolphins in the Pearl River Estuary. Poster presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
-- [3] Ho Y-W, Baker DM, Wu Y, Lin W, & Karczmarski L (2017) Ontogenetic dietary shifts in the Indo-Pacific humpback dolphin (Sousa chinensis). Oral presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
+- [3] Ho Y-W, Baker DM, Wu Y, Lin W, & Karczmarski L (2017) Ontogenetic dietary shifts in the Indo-Pacific humpback dolphin (_Sousa chinensis_). Oral presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, Ho Y-W, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
-- [1] Ho Y-W, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (Sousa chinensis) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
+- [1] Ho Y-W, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
