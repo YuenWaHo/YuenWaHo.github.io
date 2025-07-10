@@ -179,6 +179,11 @@ li ol {
 table {
   font-size: 0.9em; /* or use $type-size-5 for consistency with your theme */
 }
+
+table td, table th {
+  font-size: 0.9em; /* Ensure cells and headers are explicitly set */
+}
+
 /*
    Media and embeds
    ========================================================================== */
