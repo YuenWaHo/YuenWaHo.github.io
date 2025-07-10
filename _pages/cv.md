@@ -106,7 +106,6 @@ redirect_from:
 
 </div>
 
-<div class="authorship" markdown="1" style="font-size:1.2em; line-height:1.4;">
 ## Grants
 
 | No. | P-I/Co-I | Topic | Funding Organisation | Amount (HK$)|
@@ -116,7 +115,6 @@ redirect_from:
 | 3.  | TeamMember  | Assessment of primary anthropogenic stressors to Chinese White Dolphins in heavily urbanized estuary | Ocean Park Conservation Foundation Hong Kong | $201,500 (4030001570) |
 | 2.  | Deputy PI   | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications | Ocean Park Conservation Foundation Hong Kong | $387,800 (MM04.1920)   |
 | 1.  | Co-PI       | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters | Ocean Park Conservation Foundation Hong Kong | $683,770 (MM02.1718)  |
-</div>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Conferences
