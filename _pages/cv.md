@@ -44,7 +44,7 @@ redirect_from:
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
-
+</div>
 ---
 
 <!--
@@ -55,7 +55,7 @@ redirect_from:
 - Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Ng WC, Ho AYT, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 
 -->
-
+<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.0;">
 ## Manuscripts under review / in submission:
 
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
@@ -127,3 +127,5 @@ redirect_from:
 - [3] **Ho Y-W**, Baker DM, Wu Y, Lin W, & Karczmarski L (2017) Ontogenetic dietary shifts in the Indo-Pacific humpback dolphin (_Sousa chinensis_). Oral presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
+
+</div>
