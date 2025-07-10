@@ -55,7 +55,7 @@ redirect_from:
 - Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Ng WC, Ho AYT, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 
 -->
-<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.0;">
+<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Manuscripts under review / in submission:
 
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
@@ -104,6 +104,9 @@ redirect_from:
 
 - [R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [Software] [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
 
+</div>
+
+<div class="authorship" markdown="1" style="font-size:1.2em; line-height:1.4;">
 ## Grants
 
 | No. | P-I/Co-I | Topic | Funding Organisation | Amount (HK$)|
@@ -113,7 +116,9 @@ redirect_from:
 | 3.  | TeamMember  | Assessment of primary anthropogenic stressors to Chinese White Dolphins in heavily urbanized estuary | Ocean Park Conservation Foundation Hong Kong | $201,500 (4030001570) |
 | 2.  | Deputy PI   | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications | Ocean Park Conservation Foundation Hong Kong | $387,800 (MM04.1920)   |
 | 1.  | Co-PI       | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters | Ocean Park Conservation Foundation Hong Kong | $683,770 (MM02.1718)  |
+</div>
 
+<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Conferences
 
 - [10] Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
