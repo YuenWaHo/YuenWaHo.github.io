@@ -63,7 +63,7 @@ redirect_from:
 
 <div style="display: flex; gap: 10px; align-items: center;">
     <img src="/images/Bayesian-weaning.png" alt="Bayesian Weaning" style="width: 300px;">
-    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 100px;">
+    <img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="height: 150px;">
 </div>
 
 Published in _Ecological and Evolutionary Physiology_ [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
