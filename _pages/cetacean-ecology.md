@@ -39,7 +39,6 @@ redirect_from:
 </div>
 
 <div style="display: flex; gap: 5px; align-items: flex-start;">
-
   <a href="https://doi.org/10.3389/fmars.2024.1252661" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg"
@@ -47,11 +46,17 @@ redirect_from:
       style="height: 300px; width: auto;"
     >
   </a>
-  
+  <a href="https://doi.org/10.1021/acs.est.4c14481" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2025 ES&T.JPG"
+      alt="Liu et al. 2025 cover"
+      style="height: 300px; width: auto;"
+    >
+  </a>
   <a href="https://doi.org/10.1021/acs.est.4c14481" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2025 liu-et-al dissecting-the-role-of-natural-toxins-and-anthropogenic-contaminants-in-mixture-effects-of-seawater.jpg"
-      alt="Lin et al. 2024 cover"
+      alt="Liu et al. 2025 cover"
       style="height: 300px; width: auto;"
     >
   </a>
@@ -59,11 +64,13 @@ redirect_from:
 
 ---
 
-## Hierarchical Bayesian ontogenetic dietary shift analysis. _Ecological and Evolutionary Physiology_ [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge) [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+## Hierarchical Bayesian ontogenetic dietary shift analysis
+
+[![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge) [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
 
 <img src="/images/Bayesian-weaning.png" alt="Bayesian Weaning" style="width: 300px;">
 <br>
-<img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="float: left; margin-left: 5px; margin-right: 15px; width: 150px;" />
+<img src="/images/Sousa_tooth_GLG.png" alt="Sousa Tooth GLG" style="float: left; margin-left: 5px; margin-right: 15px; width: 120px;" />
 
 <div class="abstract" markdown="1" style="font-size:0.8em; line-height:1.4;">
 **Abstract**: Weaning represents a pivotal ontogenetic process for mammals, marking the transition from parental provisioning to independent foraging. In monophyodont species, distinct growth layer groups that are deposited in their teeth as the animals age represent a permanent chronological archive of physiological events across the animals’ lifetimes. Thus, biochemical analysis of annual dentine increments provides a means to explore animal physiological history. We examined the age-specific pattern, individuallevel variations, and sex-related differences in dentine nitrogen isotopic values in the Indo-Pacific humpback dolphin (_Sousa chinensis_) using tooth samples collected from 38 carcasses that stranded ashore in the Pearl River Delta region, southeast China, between 2007 and 2018. The longitudinal isotopic records archived in dolphin teeth offered insights into their foraging ecology and individual ontogenetic dietary life history. The overall pattern of d15N isotopic values in the incremental layers, analyzed under a hierarchical Bayesian framework, indicates that humpback dolphins typically undergo an ontogenetic dietary shift (i.e., wean) before reaching the age of 3 yr (mean: 2.394 ± 0.143 yr), albeit there is considerable individual heterogeneity (range: 1.548 – 4.180 yr), with males consistently weaning ~3.5 mo earlier than females. Our study underscores the importance of quantifying ontogenetic parameters at the individual level, as overlooking individual variations in life history events (such as the age of weaning) may introduce biases in the broader population-level life history metrics. The application of hierarchical Bayesian modeling proved effective in quantifying individual heterogeneity and factoring it into the estimates of ontogenetic dietary shifts—an important component in analyses of broader population-level processes.
@@ -71,7 +78,9 @@ redirect_from:
 
 ---
 
-## Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
+## Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions
+
+[![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690)
 
 <img src="/images/manuscript-introduction/Chan-Ho-Karczmarski-BioCon-image.png" alt="Reproductive Dynamics" style="float: center; width: 900px;" />
 
@@ -81,24 +90,22 @@ redirect_from:
 
 ---
 
-## Dissecting the Role of Natural Toxins and Anthropogenic Contaminants in Mixture Effects of Seawater Chemical Cocktails on Cetacean Skin Fibroblasts. _Environmental Science & Technology_ [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
+## Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts
+
+[![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
 
 <a href="https://doi.org/10.1021/acs.est.4c14481">
-    <img src="/images/manuscript_covers/2025 ES&T.JPG" alt="Reproductive Dynamics" style="float: left; margin-left: 5px; margin-right: 15px; width: 300px;" />
+    <img src="/images/manuscript_covers/2025 ES&T.JPG" alt="Fibroblast toxin" style="float: left; margin-left: 5px; margin-right: 15px; width: 300px;" />
 </a>
 
 <div class="abstract" markdown="1" style="font-size:0.8em; line-height:1.4;">
-**Abstract**: Marine mammal skin, in contact with seawater containing diverse chemicals, reflects species health and environ- mental quality. The contributions of natural toxins and anthropogenic contaminants to the effects of such chemical mixtures remain poorly quantified. Using skin fibroblast cells from the Indo-Pacific finless porpoise and humpback dolphin, we assessed the toxic potential of seawater extracts, focusing on cytotoxicity and intracellular reactive oxygen species (ROS) formation. Among the 38 studied chemicals prevalent in seawater, four algal toxins were 1−6 orders of magnitude more potent than 30 anthropogenic chemicals, including antibiotics, ultraviolet filters, per- and polyfluoroalkyl substances (PFASs), and polyaromatic hydrocarbons. Pectenotoxin-2 accounted for 92% of the cytotox- icity triggered by the mixture of all studied chemicals, which collectively explained 34% of seawater-induced cytotoxicity in porpoise cells. For ROS induction, although all studied chemicals collectively explained a small fraction (< 1%) of the effects elicited by seawater extracts in both cell lines, okadaic acid and gymnodimine accounted for∼80% of the mixture effects of all chemicals, with additional contributions from PFASs. Extending the approach to other coastal habitats where concentration data are available revealed algal toxins as dominant contributors among the known contaminant mixtures eliciting dermal toxic potential. This study provides novel insights to guide the identification of toxicity contributors across dermal health end points, with a balanced perspective on natural toxins and anthropogenic contaminants in addressing their mixture effects on sentinel species health.
+**Abstract**: Marine mammal skin, in contact with seawater containing diverse chemicals, reflects species health and environmental quality. The contributions of natural toxins and anthropogenic contaminants to the effects of such chemical mixtures remain poorly quantified. Using skin fibroblast cells from the Indo-Pacific finless porpoise and humpback dolphin, we assessed the toxic potential of seawater extracts, focusing on cytotoxicity and intracellular reactive oxygen species (ROS) formation. Among the 38 studied chemicals prevalent in seawater, four algal toxins were 1−6 orders of magnitude more potent than 30 anthropogenic chemicals, including antibiotics, ultraviolet filters, per- and polyfluoroalkyl substances (PFASs), and polyaromatic hydrocarbons. Pectenotoxin-2 accounted for 92% of the cytotox- icity triggered by the mixture of all studied chemicals, which collectively explained 34% of seawater-induced cytotoxicity in porpoise cells. For ROS induction, although all studied chemicals collectively explained a small fraction (< 1%) of the effects elicited by seawater extracts in both cell lines, okadaic acid and gymnodimine accounted for∼80% of the mixture effects of all chemicals, with additional contributions from PFASs. Extending the approach to other coastal habitats where concentration data are available revealed algal toxins as dominant contributors among the known contaminant mixtures eliciting dermal toxic potential. This study provides novel insights to guide the identification of toxicity contributors across dermal health end points, with a balanced perspective on natural toxins and anthropogenic contaminants in addressing their mixture effects on sentinel species health.
 
 </div>
 
-<div class="abstract" markdown="1" style="font-size:0.8em; line-height:1.4;">
-
 ---
 
-## Resources Partitioning using Stable Isotope Analysis
-
-_Manuscript in Preparation_
+## Resources Partitioning using Stable Isotope Analysis (_Manuscript in Preparation_)
 
 The longitudinal isotopic records archived in dolphin teeth and analysed in this study demonstrate that fine-scale dentine isotopic values vary between sexes and regions, signifying the intra-specific foraging patterns. The results indate that male humpback dolphins occupied a larger isotopic niche area and consumed prey items from a more depleted carbon sources. Isotopic niche area were shown to decrease towards the western side of the PRD region, with a considerable overlap in niche space between adjacent regions. The isotopic niche area were shown to decrease as the total fishery production increase, likely suggesting the effect of anthropogenic pressure on resource consumption pattern of humpback dolphins throughout the study period.
 
