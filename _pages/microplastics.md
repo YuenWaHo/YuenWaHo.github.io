@@ -77,6 +77,15 @@ My research further examines the environmental dynamics of microplastics, mappin
   </a>
 </div>
 
+<div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
+  <a href="https://doi.org/10.1080/09593330.2025.2521762" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2025 Saidu PET degradation.png"
+      alt="Saidu et al. 2025 – PET degradation"
+      style="height: 300px; width: auto;"
+    >
+  </a>
+</div>
 ---
 
 ## Projects:
@@ -98,7 +107,7 @@ My research further examines the environmental dynamics of microplastics, mappin
 
 <img src="/images/microplastics-mapping.png" alt="mapping" style="float: center; width: 500px;" />
 
-This study investigates the issue of microplastic ingestion in coastal cetaceans, focusing on humpback dolphins stranded in Hong Kong between 2014 and 2023. We aim at understanding the extent of small-sized plastic particle retained in stomach content. Using μ-Raman spectroscopy with automated mapping analysis, we characterized the size and quantity of all microplastics ingestd without subsampling. 
+This study investigates the issue of microplastic ingestion in coastal cetaceans, focusing on humpback dolphins stranded in Hong Kong between 2014 and 2023. We aim at understanding the extent of small-sized plastic particle retained in stomach content. Using μ-Raman spectroscopy with automated mapping analysis, we characterized the size and quantity of all microplastics ingestd without subsampling.
 
 Among the various polymers detected, low-density polymers such as polystyrene (PS), polypropylene (PP), and polyethylene (PE) accounted for 92.1% of all identified plastics. We also applied a hierarchical Bayesian model on the size-dependent abundance, which showed that the number of microplastic particles with a size smaller than 113.6μm may have been substantially underestimated. Although significant inter-individual variations were observed, our study’s advanced methodologies and application of Bayesian modeling techniques provide evidence that previous estimates of microplastic ingestion in coastal cetaceans worldwide are likely to have been underestimated.
 
