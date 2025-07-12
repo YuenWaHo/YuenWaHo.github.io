@@ -88,7 +88,7 @@ My research further examines the environmental dynamics of microplastics, mappin
 </div>
 ---
 
-## Projects:
+## Collaborated Projects:
 
 1. [**Completed**] Contract Study: Comprehensive study of microplastics in Hong Kong’s river and streams - Environmental Protection Department, Hong Kong SAR.
 2. [**Completed**] Contract Study: China's Third Marine Pollution Baseline Survey - Environmental Protection Department, Hong Kong SAR.
