@@ -20,7 +20,6 @@ redirect_from:
     alt="RTHK_filming_2"
     style="height: 300px; width: auto;"
   >
-  </a>
 </div>
 
 ## Coastal Cetaceans and Marine Soundscape in Hong Kong
