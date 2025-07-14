@@ -35,5 +35,5 @@ main:
   - title: "Publicity & Talks"
     url: /publicity_talks/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
