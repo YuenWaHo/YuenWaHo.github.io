@@ -7,11 +7,18 @@ redirect_from:
   # - /microplastics
 ---
 
-<img src="/images/microplastics-header.png" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/microplastics-header.png" alt="microplastic-studiess" style="float: center; width: 900px;" />
 
 I investigates the pervasive issue of microplastic pollution in aquatic ecosystems, including detection method, characterization, and ecological risk assessment. My work cover diverse systems, from human samples (faecal, urine, sperm samples), where I investigated the potential health risks, to marine organisms such as Indo-Pacific humpback dolphins, green-lipped mussels, and edible oysters, using advanced spectroscopic techniques (e.g., Raman microspectroscopy and optical photothermal infrared O-PTIR) to quantify microplastic ingestion. We also help develop high-throughput polarization holographic imaging for rapid microplastic identification.
 
 My research further examines the environmental dynamics of microplastics, mapping their distribution in remote regions (e.g., the Tibetan Plateau) and in urban waterways, including rivers and stormwater runoff in Hong Kong. These studies underscore the widespread nature of microplastic contamination, its implications for human and ecosystem health, and inform mitigation strategies. Current projects continue to advance detection methodologies and deepen understanding of microplastic pathways and impacts.
+
+| Topic | Representative Publications |
+| ----- | ----- |
+| Method Development | - Digestion method [![DOI](https://img.shields.io/badge/10.1016/j.envpol.2021.117648-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.envpol.2021.117648) <br>- Holoraphic Imaging [![DOI](https://img.shields.io/badge/10.1038/s41598.024.52762.5-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41598-024-52762-5) <br>- Nano-bubble for removal of MPs [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--53304--3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3) <br>- Computational 4D imaging of nanoplastic pollution (_in prep._)|
+| Microplastic contamination in human | - Faecal sample [![DOI](https://img.shields.io/badge/DOI-10.3390%2Ftoxics10080414-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.3390/toxics10080414)<br>- Sperm sample (_in prep._)<br>- Pediatric urine |
+| Distribution of MPs in organisms | - Green-lipped mussel (_Perna viridis_) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541) <br>- Indo-Pacific humpback dolphin (_Sousa chinensis_) (_in prep._) <br>-Jellyfish <br>- Sponge in Deep Artic <br>- Oysters|
+| Environmental samples | - Hong Kong's rivers and streams (in submission) <br>- Urban road runoff [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959) <br>- Tibetan salt lake [![DOI](https://img.shields.io/badge/10.1016/j.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959) <br>- Microbiome community on MP and natural particles in river water (major revision) <br>- Microbiome community on MPs in marine water (_in prep._)|
 
 ---
 
@@ -112,19 +119,19 @@ This study investigates the issue of microplastic ingestion in coastal cetaceans
 Among the various polymers detected, low-density polymers such as polystyrene (PS), polypropylene (PP), and polyethylene (PE) accounted for 92.1% of all identified plastics. We also applied a hierarchical Bayesian model on the size-dependent abundance, which showed that the number of microplastic particles with a size smaller than 113.6μm may have been substantially underestimated. Although significant inter-individual variations were observed, our study’s advanced methodologies and application of Bayesian modeling techniques provide evidence that previous estimates of microplastic ingestion in coastal cetaceans worldwide are likely to have been underestimated.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/images/microplastics-sampling-1.png" alt="mapping" style="width: 250px;">
-  <img src="/images/microplastics-sampling-2.png" alt="mapping" style="width: 250px;">
-  <img src="/images/microplastics-sampling-3.png" alt="mapping" style="width: 250px;">
-  <img src="/images/microplastics-sampling-4.png" alt="mapping" style="width: 250px;">
+  <img src="/images/microplastics-sampling-1.png" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-2.png" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-3.png" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-4.png" alt="sampling" style="width: 250px;">
 </div>
 
 <footer style="margin-top: 20px;">
     <div class="footer-logos" style="display: flex; gap: 20px;">
-        <img src="/images/sdg_logos/goal3a.png" alt="Logo 1" style="width: auto; height: 140px;">
-        <img src="/images/sdg_logos/goal6a.png" alt="Logo 2" style="width: auto; height: 140px;">
-        <img src="/images/sdg_logos/goal12a.png" alt="Logo 3" style="width: auto; height: 140px;">
-        <img src="/images/sdg_logos/goal13a.png" alt="Logo 4" style="width: auto; height: 140px;">
-        <img src="/images/sdg_logos/goal14a.png" alt="Logo 5" style="width: auto; height: 140px;">
-        <img src="/images/sdg_logos/goal15a.png" alt="Logo 6" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal3a.png" alt="Logo 3" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal6a.png" alt="Logo 6" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal12a.png" alt="Logo 12" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal13a.png" alt="Logo 13" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal14a.png" alt="Logo 14" style="width: auto; height: 140px;">
+        <img src="/images/sdg_logos/goal15a.png" alt="Logo 15" style="width: auto; height: 140px;">
     </div>
 </footer>
