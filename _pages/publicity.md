@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 ## Coastal Cetaceans and Marine Soundscape in Hong Kong
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ig7iggqlNU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/ig7iggqlNU0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Dolphin Foraging Ecology Through Stable Isotope Analyses
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RfV5yjoObvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube.com/embed/RfV5yjoObvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
