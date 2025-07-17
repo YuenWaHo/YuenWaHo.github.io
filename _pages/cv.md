@@ -66,7 +66,7 @@ redirect_from:
 - Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D imaging of nanoplastic pollution impacts in marine rotifers for aquatic health monitoring.
 - [19] Wang Y, Li C, Zhou ASK, Pan X, Zhang X, Chen T, Xiong A, **Ho Y-W**, Wu L, Zhou Z, Liu J, Adyel TM, Fang JKH, Bank MS, Rilling MC, Jin LN (in submission) Unravelling archaeal community ecology and evolution in the expanding coastal plastisphere. _Water Research_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
-- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (major revision) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
+- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (minor revision) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
@@ -131,3 +131,9 @@ redirect_from:
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
 </div>
+
+## PEER REVIEWER
+
+**Journals**: Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research
+
+**Funding Organizations**: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
