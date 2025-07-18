@@ -103,9 +103,10 @@ redirect_from:
 - [R02] **Ho, Y-W** (2025) PhotoID-Image-Process: PhotoID image processing toolkit using YOLO model on dolphin dorsal fin images [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870375.svg)](https://doi.org/10.5281/zenodo.15870375) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID)
 - [R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
 
-</div>
+
 
 ## Grants
+</div>
 
 | No. | P-I/Co-I    | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                     | Amount (HK$) |
 | --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------ |
@@ -130,10 +131,10 @@ redirect_from:
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
-</div>
-
 ## PEER REVIEWER
 
-**Journals**: Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research
+**Journals**: _Integrative Zoology_; _Estuarine, Coastal and Shelf Science_; _Environmental Geochemistry and Health_; _Marine Pollution Bulletin_; _Scientific Reports_; _Environmental Monitoring and Assessment_; _Journal of Mammalogy_; _Journal of Biogeography_; _Marine Environmental Research_
 
 **Funding Organizations**: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
+
+</div>
