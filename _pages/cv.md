@@ -63,7 +63,8 @@ redirect_from:
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers. _Water Research_
 - **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong. _Proceedings B_
 - Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
-- Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D imaging of nanoplastic pollution impacts in marine rotifers for aquatic health monitoring.
+- [20] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_
+  polarization holographic profiling of rotifers.
 - [19] Wang Y, Li C, Zhou ASK, Pan X, Zhang X, Chen T, Xiong A, **Ho Y-W**, Wu L, Zhou Z, Liu J, Adyel TM, Fang JKH, Bank MS, Rilling MC, Jin LN (in submission) Unravelling archaeal community ecology and evolution in the expanding coastal plastisphere. _Water Research_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 - [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (minor revision) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
