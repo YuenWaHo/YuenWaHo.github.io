@@ -135,6 +135,6 @@ redirect_from:
 
 ## PEER REVIEWER
 
-**Journals**: Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research
+**Journals**: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research_
 
 **Funding Organizations**: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
