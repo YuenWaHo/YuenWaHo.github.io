@@ -63,18 +63,19 @@ redirect_from:
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers. _Water Research_
 - **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong. _Proceedings B_
 - Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
-- Li Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Computational 4D imaging of nanoplastic pollution impacts in marine rotifers for aquatic health monitoring.
+- [20] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_
+  polarization holographic profiling of rotifers.
 - [19] Wang Y, Li C, Zhou ASK, Pan X, Zhang X, Chen T, Xiong A, **Ho Y-W**, Wu L, Zhou Z, Liu J, Adyel TM, Fang JKH, Bank MS, Rilling MC, Jin LN (in submission) Unravelling archaeal community ecology and evolution in the expanding coastal plastisphere. _Water Research_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
-- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (minor revision) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
 ### 2025 / in press
 
+- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ In Press
 - [16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, 1-23 [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
 - [15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213 [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
-- [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025). Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
+- [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
 ### 2024
@@ -103,10 +104,9 @@ redirect_from:
 - [R02] **Ho, Y-W** (2025) PhotoID-Image-Process: PhotoID image processing toolkit using YOLO model on dolphin dorsal fin images [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870375.svg)](https://doi.org/10.5281/zenodo.15870375) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID)
 - [R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
 
-
+</div>
 
 ## Grants
-</div>
 
 | No. | P-I/Co-I    | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                     | Amount (HK$) |
 | --- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ------------ |
@@ -131,10 +131,10 @@ redirect_from:
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
+</div>
+
 ## PEER REVIEWER
 
-**Journals**: _Integrative Zoology_; _Estuarine, Coastal and Shelf Science_; _Environmental Geochemistry and Health_; _Marine Pollution Bulletin_; _Scientific Reports_; _Environmental Monitoring and Assessment_; _Journal of Mammalogy_; _Journal of Biogeography_; _Marine Environmental Research_
+**Journals**: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research_
 
 **Funding Organizations**: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
-
-</div>
