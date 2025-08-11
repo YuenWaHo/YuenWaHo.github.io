@@ -92,7 +92,16 @@ My research further examines the environmental dynamics of microplastics, mappin
       style="height: 300px; width: auto;"
     >
   </a>
+    <a href="https://doi.org/10.1021/acs.est.5c06538" target="_blank" rel="noopener">
+    <img
+      src="/images/manuscript_covers/2025 bao-et-al-2025.png"
+      alt="Bao et al. 2025 – River MP Plastisphere"
+      style="height: 300px; width: auto;"
+    >
+  </a>
 </div>
+
+
 ---
 
 ## Collaborated Projects:
