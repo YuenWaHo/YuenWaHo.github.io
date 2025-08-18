@@ -40,7 +40,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) Google Scholar Citations: <strong>391</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
+[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) Google Scholar Citations: <strong>412</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -57,12 +57,12 @@ redirect_from:
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Manuscripts under review / in submission:
 
+- **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 - Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, Lee PKH (_in prep._) Seasonal ecological roles of microbes in plasticsphere and natural particle in urban rivers.
 - Lin, Y, Wang, Y, **Ho Y-W**, et al. (_in prep._) Characterization, interrelationships, and ecological risks of multiple stormwater pollutants in urban road runoff.
-- **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
+- Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers. _Water Research_
 - **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong. _Proceedings B_
-- Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
 - [20] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_
   polarization holographic profiling of rotifers.
 - [19] Wang Y, Li C, Zhou ASK, Pan X, Zhang X, Chen T, Xiong A, **Ho Y-W**, Wu L, Zhou Z, Liu J, Adyel TM, Fang JKH, Bank MS, Rilling MC, Jin LN (in submission) Unravelling archaeal community ecology and evolution in the expanding coastal plastisphere. _Water Research_
