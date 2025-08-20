@@ -40,7 +40,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) Google Scholar Citations: <strong>412</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
+[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) Google Scholar Citations: <strong>414</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -72,14 +72,14 @@ redirect_from:
 
 ### 2025 / in press
 
-- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ In Press 
-[![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
+- [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ 59, 32, 17298–17309
+  [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
 
-- [16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, 1-23 
-[![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
+- [16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, 1-23
+  [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
 
-- [15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213 
-[![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
+- [15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213
+  [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
 
 - [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
@@ -125,6 +125,7 @@ redirect_from:
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Conferences
 
+- [11] **Ho Y-W**, & Fang JKH (2025) Physicochemical Characterization and Abundance of Microplastics in Hong Kong’s Rivers. In: Symposium on Microplastics in the Environment and Water: Challenges, Research, and Mitigation Strategies, National University of Singapore, Singapore
 - [10] Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
 - [9] Leung MML, **Ho Y-W**, et al. (2021) Determination of microplastics in the edible green-lipped mussel Perna viridis using an automated mapping technique of Raman microspectroscopy. In: BECoME 2022, Hong Kong, China
 - [8] Karczmarski L, Chan SCY, **Ho Y-W**, Lin W, Or CKM, Guo L, & Wu Y (2019) Oral presentation. Socio-spatial dynamics of a coastal delphinid in a heavily anthropogenically impacted estuarine seascape. In: 2nd World Marine Mammal Conference, Barcelona, Spain
