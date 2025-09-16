@@ -58,25 +58,24 @@ redirect_from:
 ## Manuscripts under review / in submission:
 
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
-- Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, Lee PKH (_in prep._) Seasonal ecological roles of microbes in plasticsphere and natural particle in urban rivers.
 - Zhu Y, ..., **Ho Y-W**, Fang JKH, & Lam EY (_in prep._) Holographic identification of high density PMMA in seawater.
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers. _Water Research_
 - **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong. _Proceedings B_
-- [21] Lin Y, Wang Y, **Ho Y-W** & Fang JFK. (_in prep._) Characteristics, Interactions, and Ecological Risks of Multi-Pollutant Road Runoff in a High-Density Urban Environment.
-- [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, **Ho Y-W**, Liu J, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (in submission) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
+- [22] Lin Y, Wang Y, **Ho Y-W** & Fang JFK. (_in prep._) Characteristics, Interactions, and Ecological Risks of Multi-Pollutant Road Runoff in a High-Density Urban Environment.
+- [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (in submission) Water temperature drives seasonal divergence of microbiomes on microplastics and natural particles in urban rivers. _Environmental Science & Technology_
+- [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, **Ho Y-W**, Liu J, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (in submission) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Waters_
 - [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
 ## Published journal articles:
 
-### 2025 / in press
+### 2025 / in presss
 
 - [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, & Lee PKH (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ 59, 32, 17298–17309
   [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
 - [16] Saidu, MB, Moreira IS, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, 1-23
   [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
-- [15] Liu X, Yao S, Xiong A, Zhang L, Zhang X, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch F, Schlenk D, Liu W, Leung KMY, & Jin L (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213
-  [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
+- [15] Liu X, Liang B, Yao S, Xiong A, Zhang X, Li X, Sun Y, Zhang L, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch FDL, Schlenk D, Liu W, Leung KMY, & Jin LN (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213 [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
 - [14] **Ho Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2025) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ 98(1), 1-16 [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14559061.svg)](https://doi.org/10.5281/zenodo.14559061)
 
