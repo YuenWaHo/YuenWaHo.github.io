@@ -118,8 +118,10 @@ redirect_from:
 | 1.  | Co-PI       | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong (MM02.1718)                                 | $683,770     |
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
+
 ## Conferences
 
+- [12] **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (2025) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait. 12th Annual meeting of the Society for Bioacoustics, Waseda University, Shinjuku, Japan
 - [11] **Ho Y-W**, & Fang JKH (2025) Physicochemical Characterization and Abundance of Microplastics in Hong Kong’s Rivers. In: Symposium on Microplastics in the Environment and Water: Challenges, Research, and Mitigation Strategies, National University of Singapore, Singapore
 - [10] Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
 - [9] Leung MML, **Ho Y-W**, et al. (2021) Determination of microplastics in the edible green-lipped mussel Perna viridis using an automated mapping technique of Raman microspectroscopy. In: BECoME 2022, Hong Kong, China
