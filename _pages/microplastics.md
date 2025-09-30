@@ -2,7 +2,7 @@
 layout: archive
 title: "Microplastic Distribution & Risk Assessments"
 permalink: /microplastics/
-author_profile: false
+author_profile: true
 redirect_from:
   # - /microplastics
 ---
