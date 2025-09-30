@@ -32,6 +32,9 @@ main:
   - title: "Microplastics"
     url: /microplastics/
 
+  - title: "Data Science in Ecology"
+    url: /data_science_in_ecology/
+
   - title: "Publicity & Talks"
     url: /publicity_talks/
 
