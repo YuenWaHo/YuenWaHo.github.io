@@ -54,17 +54,20 @@ redirect_from:
 - Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Ng WC, Ho AYT, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
+- Lin W, Karczmarski L, Chan SCY, Zheng R, **Ho Y-W**, & Mo Y (in prep.) Demographic assessment of Indo-Pacific humpback dolphins (_Sousa chinensis_) in the middle Pearl River Delta: insights from nine years of mark–recapture modeling
+- **Ho Y-W**, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA, Hung SKY, Karczmarski L, Lo MCY, Leung MML, Wong SJL, Chan CTN, Chan SSW, & Leung EKC (in prep.) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. _Marine Mammal Science_
+- **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (in prep.) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait
 -->
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 ## Manuscripts under review / in submission:
 
-- [25] Lin Y, Wang Y, **Ho Y-W** & Fang JFK. (_in prep._) Characteristics, Interactions, and Ecological Risks of Multi-Pollutant Road Runoff in a High-Density Urban Environment.
-- [24] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
-- [23] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-- [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography.
-- [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (in submission) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
+- [25] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
+- [24] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
+- [23] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (in submission) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
+- [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Science_
+- [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (under review) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 - [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
-- [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers.
+- [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Water_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
 ## Published journal articles:
