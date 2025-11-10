@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/10tMVAib4btyZksHpkNjQSv9YeTbZnC_S/view) Google Scholar Citations: <strong>443</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>443</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -137,10 +137,10 @@ redirect_from:
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
+## Peer Review Service
+
+Journal Review: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research; Marine Life Science & Technology; Journal of Hazardous Materials; Transportation Research Part D_
+
+Proposal Review: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
+
 </div>
-
-## PEER REVIEWER
-
-**Journals**: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research; Marine Life Science & Technology; Journal of Hazardous Materials; Transportation Research Part D_
-
-**Funding Organizations**: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
