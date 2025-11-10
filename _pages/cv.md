@@ -15,15 +15,14 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
+<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
+
 ## Current Positions
 
 - Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
-- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - _present_
-
-<!---
-- 2024 Jun - _present_:Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica
---->
-
+- Postdoctoral Fellow @[State Key Laboratory of Marine Environmental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. 2025 - _present_
+- Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. Jul 2025 - _present_
+- Founder and Director @[OceanEcho Innovation Ltd.]()
 ## Academic Record
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
@@ -32,9 +31,8 @@ redirect_from:
 ## Previous Positions
 
 <!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
-
 - Visiting Researcher, Biodiversity Research Center, Academia Sinica. 2023
-- Lab Manager, Marine Ecology & Aquaculture Lab, Hong Kong Polytechnic University. 2021 – 2025
+- Postdoctoral Fellow & Lab Manager, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2021 - 2025
 - Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
 - Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
 
@@ -58,16 +56,16 @@ redirect_from:
 - **Ho Y-W**, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA, Hung SKY, Karczmarski L, Lo MCY, Leung MML, Wong SJL, Chan CTN, Chan SSW, & Leung EKC (in prep.) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. _Marine Mammal Science_
 - **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (in prep.) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait
 -->
-<div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
+
 ## Manuscripts under review / in submission:
 
 - [25] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - [24] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 - [23] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (under review) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
-- [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Science_
+- [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography.
 - [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (under review) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 - [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
-- [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (in submission) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
+- [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
 ## Published journal articles:
