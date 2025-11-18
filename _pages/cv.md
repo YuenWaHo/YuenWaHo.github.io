@@ -20,9 +20,10 @@ redirect_from:
 ## Current Positions
 
 - Research Scientist @[Cetacea Research Institute](https://www.hku-cetacean-ecology.net/cri), Hong Kong. 2018 - _present_
-- Postdoctoral Fellow @[State Key Laboratory of Marine Environmental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. 2025 - _present_
+- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University & [State Key Laboratory of Marine Environmental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. 2021 - _present_
 - Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. Jul 2025 - _present_
 - Founder and Director @[OceanEcho Innovation Ltd.]()
+
 ## Academic Record
 
 - Ph.D in Cetacean Ecology, The University of Hong Kong, 2021
@@ -31,6 +32,7 @@ redirect_from:
 ## Previous Positions
 
 <!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
+
 - Visiting Researcher, Biodiversity Research Center, Academia Sinica. 2023
 - Postdoctoral Fellow & Lab Manager, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2021 - 2025
 - Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
@@ -38,7 +40,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>443</strong> / h-index: <strong>10</strong> / i10-index: <strong>10</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>465</strong> / h-index: <strong>10</strong> / i10-index: <strong>11</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -61,7 +63,7 @@ redirect_from:
 
 - [25] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - [24] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-- [23] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (under review) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
+- [23] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (major revision) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
 - [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography.
 - [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (under review) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 - [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
