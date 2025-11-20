@@ -139,6 +139,16 @@ redirect_from:
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
 - [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
 
+## Talks / Guest Lectures
+
+- 2025-11-28: University of Gibraltar. Guest Lecture. "Listening to the Ocean: Decoding Underwater Soundscape"
+- 2025-11-19: University of Gibraltar. Guest Lecture. "Invisible Invaders: Microplastics in Our Waters and Wildlife".
+- 2025-10-30: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
+- 2025-10-27: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
+- 2022-2024: Lecturer, Critical Analysis & Reasoning in Discipline-based Studies (CCST4200; HKU SPACE)
+- 2021-2024: Guest Lecturer, Ecology and Ecosystems (ABCT3391; Hong Kong Polytechnic University)
+
+
 ## Peer Review Service
 
 Journal Review: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research; Marine Life Science & Technology; Journal of Hazardous Materials; Transportation Research Part D_
