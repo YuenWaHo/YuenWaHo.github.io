@@ -31,8 +31,6 @@ redirect_from:
 
 ## Previous Positions
 
-<!-- - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University. 2021 - 2024 -->
-
 - Visiting Researcher, Biodiversity Research Center, Academia Sinica. 2023
 - Postdoctoral Fellow & Lab Manager, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2021 - 2025
 - Research Assistant, Hong Kong Polytechnic University. 2019 - 2021
@@ -40,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>465</strong> / h-index: <strong>10</strong> / i10-index: <strong>11</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>478</strong> / h-index: <strong>10</strong> / i10-index: <strong>11</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -51,11 +49,12 @@ redirect_from:
 - Ho Y-W & Karczmarski L (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - Ushio - DNA methylation
 - Hawaii spatial use
-- Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Ng WC, Ho AYT, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
+- Ho Y-W, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
 - **Ho Y-W**, Karczmarski L, Lin W, Lo, CMY, Wu Y, & Baker DM (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 - Lin W, Karczmarski L, Chan SCY, Zheng R, **Ho Y-W**, & Mo Y (in prep.) Demographic assessment of Indo-Pacific humpback dolphins (_Sousa chinensis_) in the middle Pearl River Delta: insights from nine years of mark–recapture modeling
-- **Ho Y-W**, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA, Hung SKY, Karczmarski L, Lo MCY, Leung MML, Wong SJL, Chan CTN, Chan SSW, & Leung EKC (in prep.) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. _Marine Mammal Science_
+-
+- **Ho Y-W**, Bradley M, Martelli P, Perkins C (in prep.) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. _Marine Mammal Science_
 - **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (in prep.) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait
 -->
 
@@ -63,11 +62,11 @@ redirect_from:
 
 - [25] **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - [24] **Ho Y-W**, Karczmarski L, Lin W, Leung MML, & Fang JKH (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-- [23] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (major revision) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
-- [22] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography.
-- [21] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (under review) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
-- [20] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
-- [19] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
+- [23] Zhu Y, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY (under review) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography.
+- [22] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH, Leung KMY, Lee PKH (under review) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
+- [21] Wang Y, Li C, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH, Bank MS, Rilling MC & Jin LN (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
+- [20] Li Y, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
+- [19] Lin Y, Helmreich B, **Ho Y-W**, Fang JFK, Luo C & Wang Y (major revision) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
 - [18] Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
 
 ## Published journal articles:
@@ -112,14 +111,15 @@ redirect_from:
 
 ## Grants
 
-| No. | P-I/Co-I              | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                         | Amount (HKD$) |
-| --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------- |
-| 6.  | Deputy Project Leader | Environment and Conservation Fund "Sea" Through Cetacean: STEAM Student Ambassador Programme & Cetacean Conservation Exhibition                                                                                          | Environment and Conservation Fund <br>(P&E 3738)                                             | $1,733,940    |
-| 5.  | Team Member           | Provision of services for “Baseline survey on microplastics in Hong Kong’s River water” and “3rd National Marine Pollution Baseline Survey (Microplastics)                                                               | Environmental Protection Department, HKSAR <br>(21-04636)                                    | $1,359,970    |
-| 4.  | Co-PI                 | The unknown facets of conservation ecology of Hong Kong cetaceans: Night-time habitat use, diurnal acoustic environment, and impacts of anthropogenic noise on Chinese white dolphins and Indo-Pacific finless porpoises | Hong Kong Offshore LNG Terminal Project Marine Conservation Enhancement Fund <br>(MCEF20026) | $1,988,860    |
-| 3.  | Team Member           | Assessment of primary anthropogenic stressors to Chinese White Dolphins in heavily urbanized estuary                                                                                                                     | Ocean Park Conservation Foundation Hong Kong <br>(4030001570)                                | $201,500      |
-| 2.  | Deputy PI             | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications                                                                                       | Ocean Park Conservation Foundation Hong Kong <br>(MM04.1920)                                 | $387,800      |
-| 1.  | Co-PI                 | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong <br>(MM02.1718)                                 | $683,770      |
+| No. | P-I/Co-I                      | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                         | Amount (HKD$) |
+| --- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------- |
+| 7.  | Principal Investigator        | Preparation of Bryde's whale skeleton                                                                                                                                                                                    | Ocean Park Corporation <br>                                                                  | ---           |
+| 6.  | Deputy Project Leader         | Environment and Conservation Fund "Sea" Through Cetacean: STEAM Student Ambassador Programme & Cetacean Conservation Exhibition                                                                                          | Environment and Conservation Fund <br>(P&E 3738)                                             | $1,733,940    |
+| 5.  | Team Member                   | Provision of services for “Baseline survey on microplastics in Hong Kong’s River water” and “3rd National Marine Pollution Baseline Survey (Microplastics)                                                               | Environmental Protection Department, HKSAR <br>(21-04636)                                    | $1,359,970    |
+| 4.  | Co-Principal Investigator     | The unknown facets of conservation ecology of Hong Kong cetaceans: Night-time habitat use, diurnal acoustic environment, and impacts of anthropogenic noise on Chinese white dolphins and Indo-Pacific finless porpoises | Hong Kong Offshore LNG Terminal Project Marine Conservation Enhancement Fund <br>(MCEF20026) | $1,988,860    |
+| 3.  | Team Member                   | Assessment of primary anthropogenic stressors to Chinese White Dolphins in heavily urbanized estuary                                                                                                                     | Ocean Park Conservation Foundation Hong Kong <br>(4030001570)                                | $201,500      |
+| 2.  | Deputy Principal Investigator | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications                                                                                       | Ocean Park Conservation Foundation Hong Kong <br>(MM04.1920)                                 | $387,800      |
+| 1.  | Co-Principal Investigator     | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong <br>(MM02.1718)                                 | $683,770      |
 
 <div class="authorship" markdown="1" style="font-size:0.8em; line-height:1.4;">
 
@@ -147,7 +147,6 @@ redirect_from:
 - 2025-10-27: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
 - 2022-2024: Lecturer, Critical Analysis & Reasoning in Discipline-based Studies (CCST4200; HKU SPACE)
 - 2021-2024: Guest Lecturer, Ecology and Ecosystems (ABCT3391; Hong Kong Polytechnic University)
-
 
 ## Peer Review Service
 
