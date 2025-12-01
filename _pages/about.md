@@ -49,7 +49,7 @@ I am committed to transparent, robust science. My work has been published in lea
 
 **Key Publications:**
 - Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ (2025) [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
-- Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ (2024) [![DOI](https://img.shields.io/badge/10.1038/s41467-024-53304-3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
+- Advanced nanobubble flotation for enhanced removal of sub-10 µm microplastics from wastewater. _Nature Communications_ (2024) [![DOI](https://img.shields.io/badge/10.1038/s41467.024.53304.3-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1038/s41467-024-53304-3)
 - Characterization and ecological risks of microplastics in urban road runoff. _Science of the Total Environment_ (2024) [![DOI](https://img.shields.io/badge/10.1016/j.scitotenv.2024.176590-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.scitotenv.2024.176590)
 
 **Studied Environments & Organisms:**
