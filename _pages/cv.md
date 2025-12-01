@@ -145,12 +145,40 @@ redirect_from:
 - 2025-11-19: University of Gibraltar. Guest Lecture. "Invisible Invaders: Microplastics in Our Waters and Wildlife".
 - 2025-10-30: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
 - 2025-10-27: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
+- 2024-06-11: The University of Hong Kong. Workshop on Optical and Computational Technologies. "Microplastics Across Mediums: A Comprehensive Survey of Ecosystems and Organisms" 
+- 2023-07-05: Academia Sinica, Taiwan. "Anthropogenic Impact on Foraging Ecology of Indo-Pacific Humpback Dolphins: A Multifaceted Microplastics and Acoustic Approach" 
+- 2023-04-19: Ocean Park Conservation Foundation Hong Kong. "Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins and Finless Porpoises in Hong Kong Waters" 
 - 2022-2024: Lecturer, Critical Analysis & Reasoning in Discipline-based Studies (CCST4200; HKU SPACE)
+- 2022-04-07: State Key Laboratory of Marine Pollution (SCRF Meeting). "Microplastics in edible oysters and their significance in the Greater Bay Area" 
 - 2021-2024: Guest Lecturer, Ecology and Ecosystems (ABCT3391; Hong Kong Polytechnic University)
+- 2021-03-07: State Key Laboratory of Marine Pollution (SCRF Meeting). "Microplastics in edible oysters and their significance in the Greater Bay Area" 
+- 2018-04-16: Sun Yat-sen University, Zhuhai. "Ontogenetic dietary shift in the Indo-Pacific humpback dolphins" 
+- 2017-06-12: Tai Po Environmental Association. Invited Talk. "Education Talk for Fishermen" 
+- 2015-03-28: WWF–HK. Invited Talk. "Education Talk for Fishermen at Tai O fishing village"
+
 
 ## Peer Review Service
 
-Journal Review: _Integrative Zoology; Estuarine, Coastal and Shelf Science; Environmental Geochemistry and Health; Marine Pollution Bulletin; Scientific Reports; Environmental Monitoring and Assessment; Journal of Mammalogy; Journal of Biogeography; Marine Environmental Research; Marine Life Science & Technology; Journal of Hazardous Materials; Transportation Research Part D_
+Journal Review: 
+_Journal of Hazardous Materials_
+; _Ecology and Evolution_
+; _Transportation Research Part D: Transport and Environment_
+; _Marine Pollution Bulletin_
+; _Marine Life Science & Technology_
+; _Environmental Geochemistry and Health_
+; _Integrative Zoology_
+; _Environmental Monitoring and Assessment_
+; _Scientific Reports_
+; _Journal of Biogeography_
+; _Marine Environmental Research_
+; _Estuarine, Coastal and Shelf Science_
+; _Journal of Mammalogy_
+; _Water Biology and Security_
+; _Regional Studies in Marine Science_
+; _Emerging Contaminants_
+; _Aquatic Conservation_
+; _Resources, Environment and Sustainability_
+; _Regional Studies in Marine Science_
 
 Proposal Review: Conservation Funding 2024 - 2025; Biodiversity Funding 2024 – Ocean Park Conservation Foundation Hong Kong.
 
