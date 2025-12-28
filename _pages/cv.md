@@ -70,11 +70,10 @@ redirect_from:
 
 ## Published journal articles:
 
-### 2026 / in press
-
-- [18] Lin Y, Helmreich B\*, **Ho Y-W**, Fang JFK, Luo C & Wang Y\* (2026, In Press) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_
+<!-- ### 2026 / in press -->
 
 ### 2025
+- [18] Lin Y, Helmreich B\*, **Ho Y-W**, Fang JFK, Luo C & Wang Y\* (2025, In Press) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_ [![DOI](https://img.shields.io/badge/10.1016/j.watres.2025.125260-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.watres.2025.125260)
 
 - [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, & Lee PKH\* (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ 59, 32, 17298–17309
   [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
