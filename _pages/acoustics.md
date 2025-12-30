@@ -22,7 +22,7 @@ redirect_from:
 
 <img src="/images/manuscript-introduction/Ho-spatial-soundscape.png" alt="Spatial Soundscape" style="float: center; height: 200px;" />
 
-<div class="abstract" markdown="1" style="font-size:0.8em; line-height:1.4;">
+<div class="abstract" markdown="1" style="font-size:0.9em; line-height:1.4;">
 **Abstract**: Acoustic properties of the underwater environment are important in maintaining biological processes of various marine organisms. However, with the increasing level of underwater noise in the global ocean, there is a growing need to better understand how marine animals use soundscape cues in their habitat selection. Indo-Pacific humpback dolphins (Sousa chinensis) inhabiting the Pearl River Estuary, southeast China, live in one of world’s most developed and noisiest coastal environment and are subjected to many sources of anthropogenic noise. To investigate whether spatial variability of underwater soundscape corresponds with their habitat utilization, we collected daytime underwater recordings in western Hong Kong waters from mid-2016 to mid-2018, and quantified the spatial pattern of marine acoustic environment and its differing characteristics in a fine spatial scale. We developed a framework of soundscape information retrieval to investigate spectral features that may facilitate identification of dolphins’ core habitats. Our findings reveal that a spectral feature, which peaks at 2 kHz, is a reliable predictor of humpback dolphin core habitat. Further modelling of spatial and seasonal variations of underwater soundscape demonstrates that the relative strength of this spectral feature is positively correlated with the sighting rates of humpback dolphins throughout the year. Although the source of the 2 kHz feature remains unknown, it is likely associated with humpback dolphins’ prey. We suggest that underwater acoustic environment represents an important component in evaluating the quality and suitability of coastal habitats for the daily needs of this threatened dolphin species. Local and regional conservation authorities should include habitat-specific baseline soundscape data when developing conservation management strategies.
 </div>
 
@@ -31,9 +31,9 @@ redirect_from:
 ## Passive Acoustic Monitoring
 
 <img src="/images/acoustics-pam-longterm.png" alt="acoustics" style="float: right; margin-left: 10px; width: 300px;" />
-
+<div class="abstract" markdown="1" style="font-size:0.9em; line-height:1.4;">
 In this study, we collected high-temporal underwater recordings from 8 stations in the western and southern waters of Hong Kong. Spanning from March 2019 to August 2023, these recordings were made using the SoundTrap 300HF recorder and captured the rich soundscape of the marine environment. Professional scuba divers retrieved and deployed the hydrophones monthly for data download and maintenance, ensuring a continuous stream of valuable information. We examined the spectral variations within the long-term recording data, focusing on frequencies between 20 Hz and 144 kHz. By unraveling the intricate underwater acoustics, our project aims to enhance our understanding of marine ecosystems and contribute to the conservation of marine life.
-
+</div>
 <img src="/images/acoustics-diver.png" alt="acoustics" style="float: center; width: 300px;" />
 
 ## Night-time Acoustic Line Transect Study
