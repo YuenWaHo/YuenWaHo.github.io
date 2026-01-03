@@ -113,6 +113,7 @@ redirect_from:
 ## Grants
 
 <div style="font-size: 0.8em;">
+
 | No. | P-I/Co-I                      | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                         | Amount (HKD$) |
 | --- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------- |
 | 7.  | Principal Investigator        | Preparation of Bryde's whale skeleton                                                                                                                                                                                    | Ocean Park Corporation <br> (PR:1030003050)                                                  | $770,000      |
@@ -121,13 +122,13 @@ redirect_from:
 | 4.  | Co-Principal Investigator     | The unknown facets of conservation ecology of Hong Kong cetaceans: Night-time habitat use, diurnal acoustic environment, and impacts of anthropogenic noise on Chinese white dolphins and Indo-Pacific finless porpoises | Hong Kong Offshore LNG Terminal Project Marine Conservation Enhancement Fund <br>(MCEF20026) | $1,988,860    |
 | 3.  | Team Member                   | Assessment of primary anthropogenic stressors to Chinese White Dolphins in heavily urbanized estuary                                                                                                                     | Ocean Park Conservation Foundation Hong Kong <br>(4030001570)                                | $201,500      |
 | 2.  | Deputy Principal Investigator | Night-time distribution and abundance of Chinese white dolphins (_Sousa chinensis_) in Hong Kong waters: Conservation implications                                                                                       | Ocean Park Conservation Foundation Hong Kong <br>(MM04.1920)                                 | $387,800      |
-| 1.  | Co-Principal Investigator     | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong <br>(MM02.1718)                                 | $683,770      |
+| 1.  | Co-Principal Investigator     | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong <br>(MM02.1718)                                 | $683,770      | 
+
 </div>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 
 ---
-
 ## Conferences
 
 - [12] **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (2025) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait. 12th Annual meeting of the Society for Bioacoustics, Waseda University, Tokyo, Japan
