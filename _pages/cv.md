@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>500</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>514</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -47,8 +47,8 @@ redirect_from:
 
 <!--
 - Charlie 2025 Dec - plastic identification
-- Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - Ushio - DNA methylation
+- Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - Hawaii spatial use
 - **Ho Y-W**\*, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 - Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L\* (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
@@ -61,7 +61,7 @@ redirect_from:
 
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH\* (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
-- **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (in submission) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Journal of Cetacean Resource Management_
+- **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (in submission) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
 - Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. Target Journal: _Science Advances_
 - Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
 - Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
@@ -123,7 +123,6 @@ redirect_from:
 | 1.  | Co-Principal Investigator     | Diurnal Pattern of Habitat Use vs. Anthropogenic Noise in Core Areas of Chinese White Dolphins (_Sousa chinensis_) and Finless Porpoises (_Neophocaena phocaenoides_) in Hong Kong waters                                | Ocean Park Conservation Foundation Hong Kong <br>(MM02.1718)                                 | $683,770      | 
 
 
-
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 
 ---
@@ -141,7 +140,7 @@ redirect_from:
 - [4] Lin W, Karczmarski L, Zheng R, Guo L, Mo Y, Chan SCY, **Ho Y-W**, Or CKM, Chui SYS, & Wu Y (2017) The extinction risk has been seriously underestimated for the Indo-Pacific humpback dolphins in the Pearl River Estuary. Poster presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
 - [3] **Ho Y-W**, Baker DM, Wu Y, Lin W, & Karczmarski L (2017) Ontogenetic dietary shifts in the Indo-Pacific humpback dolphin (_Sousa chinensis_). Oral presentation. In: 22nd Biennial Conference on the Biology of Marine Mammals. Halifax, Nova Scotia, Canada
 - [2] Chui SYS, Chan SCY, Wong WH, Tiongson AJC, Or CKM, **Ho Y-W**, Huang SL, Lee ATL, Kwok HW, Stokes G, Gailey G, & Karczmarski L (2015) A case of failed rescue and animal suffering in Hong Kong: An example never to be followed. In: 21st Biennial Conference on the Biology of Marine Mammals, San Francisco, USA
-- [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.
+- [1] **Ho Y-W**, Chan SCY, & Karczmarski L (2015) Skin disorders and traumatic mutilations of Indo-Pacific humpback dolphins (_Sousa chinensis_) in Hong Kong. Poster presentation. In: 21st Biennial Conference on the Biology of Marine Mammals. San Francisco, U.S.A.∆
 
 ## Talks / Guest Lectures
 
