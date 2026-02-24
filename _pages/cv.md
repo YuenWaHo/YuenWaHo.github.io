@@ -154,7 +154,7 @@ Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 
 ## Talks / Guest Lectures
 
-- 2026-02-27: City University of Hong Kong. Guest Lecture. "Preparation of Longman’s beaked whale skeletal remains using Black Soldier Fly larvae".
+- 2026-02-27: City University of Hong Kong. Guest Lecture. "Preparation of Longman’s beaked whale skeletal remains using Black Soldier Fly larvae". 
 - 2025-11-28: University of Gibraltar. Guest Lecture. "Listening to the Ocean: Decoding Underwater Soundscape"
 - 2025-11-19: University of Gibraltar. Guest Lecture. "Invisible Invaders: Microplastics in Our Waters and Wildlife".
 - 2025-10-30: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
