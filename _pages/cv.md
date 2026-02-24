@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>514</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>535</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -46,12 +46,10 @@ redirect_from:
 ---
 
 <!--
-- Charlie 2025 Dec - plastic identification
 - Ushio - DNA methylation
 - Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
 - Hawaii spatial use
 - **Ho Y-W**\*, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
-- Xiong A, ..., **Ho Y-W**, Fang JKH, Jin L\* (_in prep._) Toxins extraction in microplastics collected along the shoreline of Hong Kong.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Lo, CMY, Wu Y, & Baker DM\* (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 - Lin W, Karczmarski L, Chan SCY, Zheng R, **Ho Y-W**, & Mo Y (in prep.) Demographic assessment of Indo-Pacific humpback dolphins (_Sousa chinensis_) in the middle Pearl River Delta: insights from nine years of mark–recapture modeling
 - **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (in prep.) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait
@@ -75,7 +73,7 @@ redirect_from:
 
 ### 2025
 
-- [18] Lin Y, Helmreich B\*, **Ho Y-W**, Fang JFK, Luo C & Wang Y\* (2025, In Press) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_ 125260 [![DOI](https://img.shields.io/badge/10.1016/j.watres.2025.125260-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.watres.2025.125260)
+- [18] Lin Y, Helmreich B\*, **Ho Y-W**, Fang JFK, Luo C & Wang Y\* (2025) Multi-contaminants in Road Runoff of a Compact City: Characteristics, Interactions, and Ecological Risks. _Water Research_ 125260 [![DOI](https://img.shields.io/badge/10.1016/j.watres.2025.125260-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.watres.2025.125260)
 - [17] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, & Lee PKH\* (2025) Ecological roles and shared microbes differentiate the plastisphere from natural particle-associated microbiomes in urban rivers. _Environmental Science & Technology_ 59, 32, 17298–17309 [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c06538-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c06538)
 - [16] Saidu, MB, Moreira IS<sup>\*</sup>, Amorim CL, Wu R, **Ho Y-W**, Fang JKH, Castro PML, Gonçalves D (2025) Exploring the biodegration of PET in mangrove soil and its intermediates by enriched bacterial consortia. _Environmental Technology_, 1-23 [![DOI](https://img.shields.io/badge/10.1080/09593330.2025.2521762-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1080/09593330.2025.2521762)
 - [15] Liu X, Liang B, Yao S, Xiong A, Zhang X, Li X, Sun Y, Zhang L, Li C, Ruan Y, Yan M, **Ho Y-W**, Fang JKH, Wang B, Leusch FDL, Schlenk D, Liu W\*, Leung KMY\*, & Jin LN<sup>\*</sup> (2025) Dissecting the role of natural toxins and anthropogenic contaminants in mixture effects of seawater chemical cocktails on cetacean skin fibroblasts. _Environmental Science & Technology_, 59, 28, 14203–14213 [![DOI](https://img.shields.io/badge/10.1021/acs.est.4c14481-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.4c14481)
