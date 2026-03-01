@@ -61,7 +61,7 @@ redirect_from:
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 - **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (in submission) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
 - Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
-- Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Science Advances_
+- Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Nature_
 - Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
 - Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
 - Zhang L, Xu Z, Li C, Pan X, Wang Y, Zhang X, Liu X, Xiong A, **Ho Y-W**, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, Fang JKH, & Jin L\* (major revision) Microalgae and associated ecological risks in coastal plastispheres. _Water Research X_
@@ -111,7 +111,7 @@ redirect_from:
 
 ## Grants
 
-Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million 
+Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 (_PI_ = Principal Investigator; _Co-I_ = Co-Investigator)
 
 <!--
@@ -154,7 +154,7 @@ Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 
 ## Talks / Guest Lectures
 
-- 2026-02-27: City University of Hong Kong. Guest Lecture. "Preparation of Longman’s beaked whale skeletal remains using Black Soldier Fly larvae". 
+- 2026-02-27: City University of Hong Kong (SSE4203). Guest Lecture. "Preparation of Longman’s beaked whale skeletal remains using Black Soldier Fly larvae".
 - 2025-11-28: University of Gibraltar. Guest Lecture. "Listening to the Ocean: Decoding Underwater Soundscape"
 - 2025-11-19: University of Gibraltar. Guest Lecture. "Invisible Invaders: Microplastics in Our Waters and Wildlife".
 - 2025-10-30: Hong Kong Metropolitan University - LiPACE. Guest Lecture. "Dialogue with Experts: Animal Welfare and Public Education".
