@@ -46,25 +46,31 @@ redirect_from:
 ---
 
 <!--
+- CityU - PET degradation
 - Ushio - DNA methylation
-- Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+- ALTS
+- Sousa diurnal pattern / click train characteristics
+- HK southern soundscape
+- HK western soundscape
 - Hawaii spatial use
+- Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
+- Social weaning
 - **Ho Y-W**\*, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
 - **Ho Y-W**, Karczmarski L\*, Lin W, Lo, CMY, Wu Y, & Baker DM\* (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
 - Lin W, Karczmarski L, Chan SCY, Zheng R, **Ho Y-W**, & Mo Y (in prep.) Demographic assessment of Indo-Pacific humpback dolphins (_Sousa chinensis_) in the middle Pearl River Delta: insights from nine years of mark–recapture modeling
-- **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (in prep.) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait
 -->
 
 ## Manuscripts under review / in submission:
 
+- **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, Lin T-H (_in prep._) Multi-year and multi-site assessment of fish chorus dynamics in response to offshore wind farm development in the Eastern Taiwan Strait.
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH\* (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 - **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (_in prep._) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
+- Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Nature_
+- Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
 - Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
 - Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
 - Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
-- Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Nature_
-- Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (under review) Assessing nanoplastic toxicity through _in situ_ polarization holographic profiling of rotifers. _Nature Communications_
 - Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (major revision) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
