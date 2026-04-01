@@ -66,12 +66,12 @@ redirect_from:
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH\* (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 - **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (_in prep._) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
-- Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Nature_
-- Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
-- Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
-- Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
-- Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
-- Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (major revision) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
+- [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Unveiling multi-dimensional nanoparticle signatures via deep speckle holography. _Nature_
+- [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
+- [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
+- [21] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
+- [20] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
+- [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (major revision) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
 
