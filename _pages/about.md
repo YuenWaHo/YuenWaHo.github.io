@@ -27,7 +27,7 @@ My work is built on three core themes:
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
-<img src="/images/DH 505_3468.jpg" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/DH_505_3468.jpg" alt="acoustics" style="float: center; width: 900px;" />
 
 - Modeling life history parameters: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ (2025) [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ (2024) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
@@ -36,7 +36,7 @@ My work is built on three core themes:
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/acoustics/">Underwater Soundscape & AI</a> </p>
 
-<img src="/images/DH 505_3664.jpg" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/DH_505_3664.jpg" alt="acoustics" style="float: center; width: 900px;" />
 
 - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins. _Ecological Indicators_ (2024) [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
 - Unsupervised classification of marine soundscapes using Non-negative Matrix Factorization (NMF) and Deep Learning
