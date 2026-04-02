@@ -7,7 +7,9 @@ redirect_from:
 #   - /cetacean-ecology
 ---
 
-<div style="display: flex; gap: 5px; align-items: flex-start;">
+I study the ecology and conservation of coastal cetaceans in the Pearl River Estuary, focusing particularly on the Indo-Pacific humpback dolphin (_Sousa chinensis_). My research integrates field data, stable isotope biogeochemistry, Bayesian hierarchical modelling, and long-term stranding records to understand foraging ecology, life-history parameters, and population responses to anthropogenic pressures.
+
+<div style="display: flex; gap: 4px; align-items: flex-start;">
   <a href="https://doi.org/10.1086/734631" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2025 Ho, Karczmarski et al - Modeling life history parameters in marine mammals - Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins.jpg"
@@ -38,7 +40,7 @@ redirect_from:
   </a>
 </div>
 
-<div style="display: flex; gap: 5px; align-items: flex-start;">
+<div style="display: flex; gap: 4px; align-items: flex-start;">
   <a href="https://doi.org/10.3389/fmars.2024.1252661" target="_blank" rel="noopener">
     <img
       src="/images/manuscript_covers/2024 Lin et al. EPRE pop para.jpg"
