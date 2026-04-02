@@ -22,7 +22,7 @@ redirect_from:
 - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University & [State Key Laboratory of Marine Environmental Health](https://www.cityu.edu.hk/sklmeh/), City University of Hong Kong. 2021 - _present_
 - Research Scientist @[Cetacea Research Institute](https://www.cetacea-institute.org/cri), Hong Kong. 2018 - _present_
 - Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. 2025 Jul - _present_
-- Founder and Director @[OceanEcho Innovation Ltd.](https://www.oceanecho-innovation.com) Est. since 2025 Oct
+- Founder and Director - OceanEcho Innovation Ltd. Est. since 2025 Oct
 
 ## Academic Record
 
@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>559</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1oGM0PQEW0YxEKgEc-KLqS6s5TxZb1560/view) Google Scholar Citations: <strong>570</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
