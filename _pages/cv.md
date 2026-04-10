@@ -38,27 +38,12 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>559</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>583</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
 </div>
 ---
-
-<!--
-- CityU - PET degradation
-- Ushio - DNA methylation
-- ALTS
-- Sousa diurnal pattern / click train characteristics
-- HK southern soundscape
-- HK western soundscape
-- Hawaii spatial use
-- Ho Y-W & Karczmarski L\* (_in prep._) Change-point model: A methodological duel between frequentist and Bayesian approaches on weaning ages
-- Social weaning
-- **Ho Y-W**\*, Leung EKC, Chui SYS, Chan SCY, Bradley M, Perkins C, Tsui BPY, Yuen CH, Fang JKH, Karczmarski L (_in prep._) Osteology of a stranded Longman’s beaked whale (Indopacetus pacificus) from Hong Kong: Cranial, postcranial, and developmental characteristics
-- **Ho Y-W**, Karczmarski L\*, Lin W, Lo, CMY, Wu Y, & Baker DM\* (_in prep._) Sexual differential in resource use and isotope dynamics among Indo-Pacific humpback dolphins amid environmental changes in the Pearl River Estuary.
-- Lin W, Karczmarski L, Chan SCY, Zheng R, **Ho Y-W**, & Mo Y (in prep.) Demographic assessment of Indo-Pacific humpback dolphins (_Sousa chinensis_) in the middle Pearl River Delta: insights from nine years of mark–recapture modeling
--->
 
 ## Manuscripts under review / in submission:
 
@@ -70,7 +55,7 @@ redirect_from:
 - [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
 - [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
 - [21] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
-- [20] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (under review) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
+- [20] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (major revision) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
 - [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (major revision) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_
 
 ## Published journal articles:
@@ -108,8 +93,6 @@ redirect_from:
 
 ## Repository
 
-<!-- [R02] Chan SCY<sup>#</sup>, **Ho Y-W** <sup>#</sup>, & Karczmarski L<sup>#</sup> (2024). Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions -->
-
 - [R02] **Ho, Y-W** (2025) PhotoID-Image-Process: PhotoID image processing toolkit using YOLO model on dolphin dorsal fin images [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15870375.svg)](https://doi.org/10.5281/zenodo.15870375) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/Image-Process-PhotoID)
 - [R01] **Ho, Y-W**, Karczmarski L, Lin W, Lo MCY, Wu Y, & Baker DM (2024) Modeling life history parameters in marine mammals: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins [![DOI](https://zenodo.org/badge/842756735.svg)](https://doi.org/10.5281/zenodo.14544487)
 
@@ -119,14 +102,6 @@ redirect_from:
 
 Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 (_PI_ = Principal Investigator; _Co-I_ = Co-Investigator)
-
-<!--
-- RGC - Scott
-- OPCF BCF - Co-I - Roger
-- MEEF - Co-I - Jack
-- MEEF - PI - HSC
-- MEEF - Co-I - Scott
--  -->
 
 | No. | P-I/Co-I              | Topic                                                                                                                                                                                                                    | Funding Organisation                                                                         | Amount (HKD$) |
 | --- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------- |
