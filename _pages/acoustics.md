@@ -7,6 +7,8 @@ redirect_from:
 #   - /acoustics
 ---
 
+I use passive acoustic monitoring (PAM) and advanced signal processing to study underwater soundscapes and their relationship with cetacean habitat use in heavily urbanized coastal environments. My work focuses on developing quantitative frameworks to disentangle biological signals from complex anthropogenic noise in the Pearl River Estuary.
+
 <div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
   <a href="https://doi.org/10.1016/j.ecolind.2023.111228" target="_blank" rel="noopener">
     <img
