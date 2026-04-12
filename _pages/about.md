@@ -65,6 +65,10 @@ My work is built on three core themes:
 
 <!-- 1. Humpback Dolphin -->
 <div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Indo-Pacific Humpback Dolphin 
+  <em style="font-style: italic;">(Sousa chinensis)</em>
+  </p>
   <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
     
     <!-- 3D Model -->
@@ -90,18 +94,19 @@ My work is built on three core themes:
     <!-- NOAA Drawing -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
       <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-taiwanese-humpback-dolphin.png?itok=O-dTK0Eq"
-           alt="Taiwanese White Dolphin"
+           alt="Humpback Dolphin"
            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
 
   </div>
-  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
-    Taiwanese White Dolphin (Humpback Dolphin)
-  </p>
 </div>
 
 <!-- 2. Pilot Whale -->
 <div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Short-finned Pilot Whale
+  <em style="font-style: italic;">(Globicephala macrorhynchus)</em>
+  </p>
   <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
     
     <!-- 3D Model -->
@@ -126,19 +131,20 @@ My work is built on three core themes:
 
     <!-- NOAA Drawing -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-long-finned-pilot-whale.png?itok=U2IP6FfU"
-           alt="Long-finned Pilot Whale"
+      <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-melon-headed-whale.png?itok=JhOVqg_y"
+           alt="Short-finned Pilot Whale"
            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     </div>
 
   </div>
-  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
-    Long-finned Pilot Whale
-  </p>
 </div>
 
 <!-- 3. Indo-Pacific Finless Porpoise -->
 <div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Indo-Pacific Finless Porpoise
+  <em style="font-style: italic;">(Neophoceana phoceanoides)</em>
+  </p>
   <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
     
     <!-- 3D Model -->
@@ -169,9 +175,6 @@ My work is built on three core themes:
     </div>
 
   </div>
-  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
-    Indo-Pacific Finless Porpoise
-  </p>
 </div>
 
 <!--
