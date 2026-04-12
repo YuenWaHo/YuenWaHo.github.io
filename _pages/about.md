@@ -73,7 +73,7 @@ My work is built on three core themes:
     
     <!-- 3D Model -->
     <div style="flex: 1; min-width: 300px;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
         <iframe
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           title="Indo-Pacific Humpback Dolphin Skull"
@@ -111,7 +111,7 @@ My work is built on three core themes:
     
     <!-- 3D Model -->
     <div style="flex: 1; min-width: 300px;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
         <iframe
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           title="Pilot whale skull"
@@ -149,7 +149,7 @@ My work is built on three core themes:
     
     <!-- 3D Model -->
     <div style="flex: 1; min-width: 300px;">
-      <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
         <iframe
           style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
           title="Indo-Pacific Finless Porpoise Skull"
