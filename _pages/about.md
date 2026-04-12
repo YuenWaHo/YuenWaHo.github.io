@@ -63,6 +63,23 @@ My work is built on three core themes:
 - **"Sea Through Cetacean":** Leading a HKD 1.7M STEAM education programme to engage students in cetacean biology and skeletal preparation.
 - **OceanEcho Innovation:** Developing immersive educational applications based on marine acoustic and 3D photgrametry data.
 
+<div class="sketchfab-embed-wrapper" style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    title="Pilot whale skull" 
+    frameborder="0" 
+    allowfullscreen 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    allow="autoplay; fullscreen; xr-spatial-tracking" 
+    xr-spatial-tracking 
+    execution-while-out-of-viewport 
+    execution-while-not-rendered 
+    web-share 
+    src="https://sketchfab.com/models/440d58c5ca454aa7b99389c503e0dd39/embed">
+  </iframe>
+</div>
+
 <!--
 #### Longman’s Beaked Whale Skeleton (3D Model)
 <div class="sketchfab-embed-wrapper">
