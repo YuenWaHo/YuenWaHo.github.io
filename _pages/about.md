@@ -80,6 +80,23 @@ My work is built on three core themes:
   </iframe>
 </div>
 
+<div class="sketchfab-embed-wrapper" style="position: relative; padding-bottom: 30%; height: 0; overflow: hidden;">
+  <iframe 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+    title="Indo-Pacific Finless Porpoise Skull" 
+    frameborder="0" 
+    allowfullscreen 
+    mozallowfullscreen="true" 
+    webkitallowfullscreen="true" 
+    allow="autoplay; fullscreen; xr-spatial-tracking" 
+    xr-spatial-tracking 
+    execution-while-out-of-viewport 
+    execution-while-not-rendered 
+    web-share 
+    src="https://sketchfab.com/models/3f0fc21de88743698b844d6ca2a8d5e9/embed">
+  </iframe>
+</div>
+
 <!--
 #### Longman’s Beaked Whale Skeleton (3D Model)
 <div class="sketchfab-embed-wrapper">
