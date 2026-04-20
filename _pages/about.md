@@ -63,42 +63,121 @@ My work is built on three core themes:
 - **"Sea Through Cetacean":** Leading a HKD 1.7M STEAM education programme to engage students in cetacean biology and skeletal preparation.
 - **OceanEcho Innovation:** Developing immersive educational applications based on marine acoustic and 3D photgrametry data.
 
-<!--
-#### Longman’s Beaked Whale Skeleton (3D Model)
-<div class="sketchfab-embed-wrapper">
-  <iframe title="Longman’s Beaked Whale Skeleton"
-    frameborder="0"
-    allowfullscreen
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true"
-    allow="autoplay; fullscreen; xr-spatial-tracking"
-    xr-spatial-tracking
-    execution-while-out-of-viewport
-    execution-while-not-rendered
-    web-share
-    width="100%"
-    height="500"
-    src="https://sketchfab.com/models/YOUR_LONGBEARD_MODEL_ID/embed">
-  </iframe>
+<!-- 1. Humpback Dolphin -->
+<div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Indo-Pacific Humpback Dolphin 
+  <em style="font-style: italic;">(Sousa chinensis)</em>
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+    
+    <!-- 3D Model -->
+    <div style="flex: 1; min-width: 300px;">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Indo-Pacific Humpback Dolphin Skull"
+          frameborder="0"
+          allowfullscreen
+          mozallowfullscreen="true"
+          webkitallowfullscreen="true"
+          allow="autoplay; fullscreen; xr-spatial-tracking"
+          xr-spatial-tracking
+          execution-while-out-of-viewport
+          execution-while-not-rendered
+          web-share
+          src="https://sketchfab.com/models/33c8296241524e4089576b9c5fbf53ff/embed">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- NOAA Drawing -->
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-taiwanese-humpback-dolphin.png?itok=O-dTK0Eq"
+           alt="Humpback Dolphin"
+           style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+
+  </div>
 </div>
 
-#### Bryde’s Whale Skeleton (3D Model)
-<div class="sketchfab-embed-wrapper">
-  <iframe title="Bryde’s Whale Skeleton"
-    frameborder="0"
-    allowfullscreen
-    mozallowfullscreen="true"
-    webkitallowfullscreen="true"
-    allow="autoplay; fullscreen; xr-spatial-tracking"
-    xr-spatial-tracking
-    execution-while-out-of-viewport
-    execution-while-not-rendered
-    web-share
-    width="100%"
-    height="500"
-    src="https://sketchfab.com/models/YOUR_BRYDE_MODEL_ID/embed">
-  </iframe>
+<!-- 2. Pilot Whale -->
+<div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Short-finned Pilot Whale
+  <em style="font-style: italic;">(Globicephala macrorhynchus)</em>
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+    
+    <!-- 3D Model -->
+    <div style="flex: 1; min-width: 300px;">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Pilot whale skull"
+          frameborder="0"
+          allowfullscreen
+          mozallowfullscreen="true"
+          webkitallowfullscreen="true"
+          allow="autoplay; fullscreen; xr-spatial-tracking"
+          xr-spatial-tracking
+          execution-while-out-of-viewport
+          execution-while-not-rendered
+          web-share
+          src="https://sketchfab.com/models/440d58c5ca454aa7b99389c503e0dd39/embed">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- NOAA Drawing -->
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-melon-headed-whale.png?itok=JhOVqg_y"
+           alt="Short-finned Pilot Whale"
+           style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+
+  </div>
 </div>
+
+<!-- 3. Indo-Pacific Finless Porpoise -->
+<div style="max-width: 900px; margin: 0 auto 60px auto;">
+  <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
+    Indo-Pacific Finless Porpoise
+  <em style="font-style: italic;">(Neophoceana phoceanoides)</em>
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
+    
+    <!-- 3D Model -->
+    <div style="flex: 1; min-width: 300px;">
+      <div style="position: relative; padding-bottom: 66.25%; height: 0; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.12);">
+        <iframe
+          style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+          title="Indo-Pacific Finless Porpoise Skull"
+          frameborder="0"
+          allowfullscreen
+          mozallowfullscreen="true"
+          webkitallowfullscreen="true"
+          allow="autoplay; fullscreen; xr-spatial-tracking"
+          xr-spatial-tracking
+          execution-while-out-of-viewport
+          execution-while-not-rendered
+          web-share
+          src="https://sketchfab.com/models/3f0fc21de88743698b844d6ca2a8d5e9/embed">
+        </iframe>
+      </div>
+    </div>
+
+    <!-- Drawing -->
+    <div style="flex: 1; min-width: 300px; text-align: center;">
+      <img src="https://www.markcarwardine.com/whale_images/MC-FG-00930/thumb1.jpg"
+           alt="Indo-Pacific Finless Porpoise"
+           style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    </div>
+
+  </div>
+</div>
+
+<!--
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/data_science_in_ecology/">Conservation Technology & STEAM</a> </p>
  -->
 
