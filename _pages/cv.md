@@ -61,7 +61,7 @@ redirect_from:
 
 ### 2026 / in press
 
-- [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (2026) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_, In Press
+- [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, Lee PKH\* (2026) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_, In Press [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c13903-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c13903)
 
 ### 2025
 
