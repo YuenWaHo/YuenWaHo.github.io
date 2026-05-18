@@ -54,7 +54,7 @@ redirect_from:
 - [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) Deep Speckle Holography Redefines Label-free Nanoparticle Phenotyping. _Science_ [_Preprint_](https://doi.org/10.48550/arXiv.2605.01982) (DOI:10.48550/arXiv.2605.01982)
 - [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
 - [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
-- [21] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (in submission) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
+- [21] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, Jin LN\* (major revision) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_
 - [20] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC & Jin LN\* (major revision) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_
 
 ## Published journal articles:
