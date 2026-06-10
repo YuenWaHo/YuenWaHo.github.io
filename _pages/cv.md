@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>614</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>634</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -51,6 +51,7 @@ redirect_from:
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH\* (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
 - **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA (_in prep._) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
+- [26] Chui SYS <sup>#</sup> \*, Karczmarski L <sup>#</sup> \*, Wong SWH, Ho Y-W, Chan SCY (in submission) Top-down and bottom-up ecological processes that govern the habitat use pattern of Indo-Pacific humpback dolphins in a seasonally dynamic estuarine system. _Ecological Modelling_
 - [25] Zhu Y\*, Chen J, Li Y, Li S, **Ho Y-W**, Lu B, Fang JFK, Lam EY (in submission) Label-free photonic phenotyping of composition and dynamics in heterogeneous systems. _Nature_
 - [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, Lam EY\* (in submission) In Situ Single-particle Phenotyping in Complex Fluids via Physics-informed Deep Speckle Holography. _Nature Nanotechnology_ [_Preprint_](https://doi.org/10.48550/arXiv.2605.01982) (DOI:10.48550/arXiv.2605.01982)
 - [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
