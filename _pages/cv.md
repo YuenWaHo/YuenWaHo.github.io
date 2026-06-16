@@ -38,7 +38,7 @@ redirect_from:
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>634</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>639</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -46,6 +46,7 @@ redirect_from:
 ---
 
 ## Manuscripts under review / in submission:
+
 - **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, & Lin T-H (_in prep._) Multi-year and multi-site assessment of fish chorus dynamics in response to offshore wind farm development in the Eastern Taiwan Strait.
 - **Ho Y-W**, Cheng MCY, Thoe W, & Fang JKH\* (_in prep._) Characterising microplastics in a subtropical megacity: A multi-seasonal study of distribution and polymer types in Hong Kong rivers.
 - **Ho Y-W**, Karczmarski L\*, Lin W, Leung MML, & Fang JKH\* (_in prep._) Assessing the scale of underestimation: microplastic ingestion in marine megafauna with a case study of Indo-Pacific humpback dolphins in Hong Kong.
@@ -61,7 +62,7 @@ redirect_from:
 ### 2026 / in press
 
 - [21] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC, & Jin LN\* (2026) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_ In Principal Accepted
-- [20] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, & Jin LN\* (2026) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_ In Press
+- [20] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, & Jin LN\* (2026) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_ In Press [![DOI](https://img.shields.io/badge/10.1021/acs.estlett.6c00486-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.estlett.6c00486)
 - [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, & Lee PKH\* (2026) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_, 60, 20, 14712–14725 [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c13903-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c13903)
 
 ### 2025
