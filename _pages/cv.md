@@ -55,12 +55,11 @@ redirect_from:
 - [25] Zhu Y\*, Chen J, Li Y, Li S, **Ho Y-W**, Lu B, Fang JFK, & Lam EY (in submission) Label-free Single-Nanoparticle Deep Speckle Holography. _Nature Photon_
 - [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, & Lam EY\* (in submission) In Situ Single-particle Phenotyping in Complex Fluids via Physics-informed Deep Speckle Holography. _Nature Nanotechnology_ [_Preprint_](https://doi.org/10.48550/arXiv.2605.01982) (DOI:10.48550/arXiv.2605.01982)
 - [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K, & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
-- [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (in submission) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_
 
 ## Published journal articles:
 
 ### 2026 / in press
-
+- [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (2026) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_ Accepted
 - [21] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC, & Jin LN\* (2026) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_ In Principal Accepted
 - [20] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, & Jin LN\* (2026) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_ In Press [![DOI](https://img.shields.io/badge/10.1021/acs.estlett.6c00486-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.estlett.6c00486)
 - [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, & Lee PKH\* (2026) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_, 60, 20, 14712–14725 [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c13903-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c13903)
