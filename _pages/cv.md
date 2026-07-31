@@ -53,7 +53,7 @@ redirect_from:
 - **Ho Y-W**\*, Bradley M, Martelli P, Perkins C, Mauroo N, Parsons ECM, Porter L, Jefferson TA, & Karczmarski L (_in prep._) A half-century of cetacean mortality in Hong Kong (1973-2024): a stranding-based analysis of spatiotemporal trends and conservation implications. Target Journal: _Marine Mammal Science_
 - [26] Chui SYS <sup>#</sup> \*, Karczmarski L <sup>#</sup> \*, Wong SWH, Ho Y-W, & Chan SCY (in submission) Top-down and bottom-up ecological processes that govern the habitat use pattern of Indo-Pacific humpback dolphins in a seasonally dynamic estuarine system. _Ecological Modelling_
 - [25] Zhu Y\*, Chen J, Li Y, Li S, **Ho Y-W**, Lu B, Fang JFK, & Lam EY (in submission) Label-free Single-Nanoparticle Deep Speckle Holography. _Nature Photon_
-- [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, & Lam EY\* (in submission) In Situ Single-particle Phenotyping in Complex Fluids via Physics-informed Deep Speckle Holography. _Nature Nanotechnology_ [_Preprint_](https://doi.org/10.48550/arXiv.2605.01982) (DOI:10.48550/arXiv.2605.01982)
+- [24] Zhu Y\*, Li Y, Chen J, **Ho Y-W**, Wang C, Zhang Y, Wang X-Q, Lu B, Fang JKH, Ling FCC, Tadesse LF, & Lam EY\* (under review) In Situ Single-particle Phenotyping in Complex Fluids via Physics-informed Deep Speckle Holography. _Nature Photonics_ [_Preprint_](https://doi.org/10.48550/arXiv.2605.01982) (DOI:10.48550/arXiv.2605.01982)
 - [23] Li Y\*, Zhu Y, Chen J, Chen R, **Ho Y-W**, Wang C, Fang JKH, Tsia K, & Lam EY\* (in submission) Polarization holographic 4D phenotyping reveals nanoplastic-induced dysfunction in zooplankton. _Advanced Science_
 
 ## Published journal articles:
@@ -121,7 +121,7 @@ Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 ---
 
 ## Conferences
-
+- Liu C, **Ho Y-W**, Yagi G, Matra E, Ushio M\* (2026) DNA Methylation-Based Age Estimation for the Indo-Pacific finless porpoise in Hong Kong waters Using Methylation-Sensitive High-Resolution Melting Analysis. 9th Annual Meeting of The eDNA Society, Sendai, Japan
 - [12] **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, & Lin T-H (2025) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait. 12th Annual meeting of the Society for Bioacoustics, Waseda University, Tokyo, Japan
 - [11] **Ho Y-W**, & Fang JKH (2025) Physicochemical Characterization and Abundance of Microplastics in Hong Kong’s Rivers. In: Symposium on Microplastics in the Environment and Water: Challenges, Research, and Mitigation Strategies, National University of Singapore, Singapore
 - [10] Bao Y, **Ho Y-W**, Shen Z, Fang JKH, Leung KMY, & Lee PKH (2024) Deciphering the ecological roles of the plastisphere in urban rivers in Hong Kong. In: 19th International Symposium on Microbial Ecology, Cape Town, South Africa
