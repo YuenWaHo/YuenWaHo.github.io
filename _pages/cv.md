@@ -20,7 +20,10 @@ redirect_from:
 ## Current Positions
 
 - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University 2021 - _present_
+- Postdoctoral Fellow, State Key Laboratory of Marine Environmental Health, City University of Hong Kong 2026 - _present_
 - Research Scientist @[Cetacea Research Institute](https://www.cetacea-institute.org/cri), Hong Kong. 2018 - _present_
+- Parttime Lecturer, Division of Science and Wu Jieh Yee School of Interdisciplinary Studies, Lingnan University. 2026 - _present_
+- Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education. 2026 - _present_
 - Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. 2025 Jul - _present_
 - Founder and Director - OceanEcho Innovation Ltd. Est. since 2025 Oct
 
@@ -33,12 +36,13 @@ redirect_from:
 
 - Visiting Researcher, Biodiversity Research Center, Academia Sinica. 2023 Jul
 - Postdoctoral Fellow & Lab Manager, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2021 - 2025
+- Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education Community Collecge. 2022, 2023
 - Lab Manager & Research Assistant, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2019 - 2021
 - Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>639</strong> / h-index: <strong>10</strong> / i10-index: <strong>12</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>726</strong> / h-index: <strong>11</strong> / i10-index: <strong>13</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
@@ -59,9 +63,10 @@ redirect_from:
 ## Published journal articles:
 
 ### 2026 / in press
-- [22] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (2026) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_ Accepted
-- [21] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC, & Jin LN\* (2026) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_ In Principal Accepted
-- [20] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, & Jin LN\* (2026) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_ In Press [![DOI](https://img.shields.io/badge/10.1021/acs.estlett.6c00486-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.estlett.6c00486)
+
+- [22] Wang Y, Li C\*, Zhou ASK, Pan X, Zhu Y, Zhang X, Chen T, Xiong A, **Ho Y-W**, Liu J, Zhou Z, Wang J, Adyel TM, Fang JKH\*, Bank MS, Rilling MC, & Jin LN\* (2026) Unravelling ecological strategies and implications of coastal plastisphere archaeomee. _Nature Communications_ In Principal Accepted
+- [21] Zhang L, Li C\*, Xu Z, Pan X, Wang Y, Zhang X, Liu X, Xiong A, Wang Y, Zhang X, Zhao Y, Ji S, Liu J, Yan M, **Ho Y-W**, Fang JKH, Li S, & Jin L\* (2026) Microalgae and associated ecological risks in the coastal plastisphere. _Water Research X_ 100572 [![DOI](https://img.shields.io/badge/10.1016/j.wroa.2026.100572-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.wroa.2026.100572)
+- [20] Zhou ASK <sup>#</sup>, Fan C<sup>#</sup>, Li C\*, **Ho Y-W**, Fang JKH, & Jin LN\* (2026) Aquatic plastisphere vectoring pathogenic and antifungal-resistant fungi. _Environmental Science & Technology Letters_ 13 (7): 988–994 [![DOI](https://img.shields.io/badge/10.1021/acs.estlett.6c00486-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.estlett.6c00486)
 - [19] Bao Y, **Ho Y-W**, Shen Z, Lam EY, Fang JKH\*, Leung KMY, & Lee PKH\* (2026) Seasonal divergence between microbiomes on microplastics and natural particles increases with rising water temperatures in urban rivers. _Environmental Science & Technology_, 60, 20, 14712–14725 [![DOI](https://img.shields.io/badge/10.1021/acs.est.5c13903-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1021/acs.est.5c13903)
 
 ### 2025
@@ -121,6 +126,7 @@ Total Funding Secured (PI/Co-PI/Deputy PI Roles): ~HK$7 Million
 ---
 
 ## Conferences
+
 - Liu C, **Ho Y-W**, Yagi G, Matra E, Ushio M\* (2026) DNA Methylation-Based Age Estimation for the Indo-Pacific finless porpoise in Hong Kong waters Using Methylation-Sensitive High-Resolution Melting Analysis. 9th Annual Meeting of The eDNA Society, Sendai, Japan
 - [12] **Ho Y-W**, Wang C-W, Chang C-M, Huang K-C, & Lin T-H (2025) Multi-Year and Multi-Site Assessment of Fish Chorus Dynamics in Response to Offshore Wind Development in the Eastern Taiwan Strait. 12th Annual meeting of the Society for Bioacoustics, Waseda University, Tokyo, Japan
 - [11] **Ho Y-W**, & Fang JKH (2025) Physicochemical Characterization and Abundance of Microplastics in Hong Kong’s Rivers. In: Symposium on Microplastics in the Environment and Water: Challenges, Research, and Mitigation Strategies, National University of Singapore, Singapore
