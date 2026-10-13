@@ -14,5 +14,8 @@ package-lock.json
 _data/comments/.DS_Store
 
 # Ignore .DS_Store files created by macOS
+
+# macOS / R junk
 .DS_Store
-.DS_Store
+**/.DS_Store
+.Rhistory
