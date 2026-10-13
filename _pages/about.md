@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "BIO"
+title: "Derek Ho | Marine Ecologist"
 author_profile: true
 redirect_from:
   - /about/
@@ -27,7 +27,7 @@ My work is built on three core themes:
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/cetacean-ecology/">Marine Mammal Ecology</a> </p>
 
-<img src="/images/DH_505_3468.jpg" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/DH_505_3468.jpg" alt="acoustics" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />
 
 - Modeling life history parameters: Bayesian hierarchical analysis of ontogenetic dietary shifts in Indo-Pacific humpback dolphins. _Ecological and Evolutionary Physiology_ (2025) [![DOI](https://img.shields.io/badge/10.1086/734631-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1086/734631) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/EEP-Sousa-WeaningAge)
 - Reproductive dynamics of an inshore delphinid reflect demographic consequences of large-scale coastal constructions. _Biological Conservation_ (2024) [![DOI](https://img.shields.io/badge/10.1016%2Fj.biocon.2024.110690-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.biocon.2024.110690) [![Code](https://img.shields.io/badge/Code-logo?style=flat-square&logo=Github&color=000000)](https://github.com/YuenWaHo/BC-sousa-repro)
@@ -36,7 +36,7 @@ My work is built on three core themes:
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/acoustics/">Underwater Soundscape & AI</a> </p>
 
-<img src="/images/DH_505_3664.jpg" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/DH_505_3664.jpg" alt="acoustics" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />
 
 - Fine-scale spatial variability of marine soundscape corresponds with habitat utilization of Indo-Pacific humpback dolphins. _Ecological Indicators_ (2024) [![DOI](https://img.shields.io/badge/10.1016%2Fj.ecolind.2023.111228-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.ecolind.2023.111228)
 - Unsupervised classification of marine soundscapes using Non-negative Matrix Factorization (NMF) and Deep Learning
@@ -44,7 +44,7 @@ My work is built on three core themes:
 
 <p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/microplastics/">Microplastic Pollution & One Health</a> </p>
 
-<img src="/images/microplastics-mapping-header.png" alt="acoustics" style="float: center; width: 900px;" />
+<img src="/images/microplastics-mapping-header.jpg" alt="acoustics" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />
 
 **Selected Publications:**
 
@@ -57,11 +57,11 @@ My work is built on three core themes:
 - **Invertebrates:** Green-lipped mussel [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2021.126541-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2021.126541); Brine shrimp (Tibet) [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhazmat.2024.134959-logo?style=flat-square&label=DOI&labelColor=a9bcc2&color=edf1f0)](https://doi.org/10.1016/j.jhazmat.2024.134959); Deep Arctic Sponges
 - **Systems:** Urban Rivers; Stormwater Runoff; Marine Water Column
 
-<p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/data_science_in_ecology/">Conservation Technology & STEAM</a> </p>
+<p style="text-align:center; font-weight:bold; font-size:24px">Conservation Technology &amp; STEAM</p>
 
 - **Digital Twins:** Utilizing 3D photogrammetry to digitize marine biological specimens for research and virtual exhibitions.
 - **"Sea Through Cetacean":** Leading a HKD 1.7M STEAM education programme to engage students in cetacean biology and skeletal preparation.
-- **OceanEcho Innovation:** Developing immersive educational applications based on marine acoustic and 3D photgrametry data.
+- **OceanEcho Innovation:** Developing immersive educational applications based on marine acoustic and 3D photogrammetry data.
 
 <!-- 1. Humpback Dolphin -->
 <div style="max-width: 900px; margin: 0 auto 60px auto;">
@@ -129,11 +129,13 @@ My work is built on three core themes:
       </div>
     </div>
 
-    <!-- NOAA Drawing -->
+    <!-- Local species photo (replaced wrong NOAA melon-headed whale illustration) -->
+    <!-- Credit: NOAA, public domain — see images/species/CREDITS.md -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://www.fisheries.noaa.gov/s3//styles/original/s3/dam-migration/640x427-melon-headed-whale.png?itok=JhOVqg_y"
-           alt="Short-finned Pilot Whale"
+      <img src="/images/species/short-finned-pilot-whale.jpg"
+           alt="Short-finned Pilot Whale (Globicephala macrorhynchus)"
            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <p style="font-size: 0.75em; color: #666; margin-top: 6px;">Photo: NOAA (public domain)</p>
     </div>
 
   </div>
@@ -143,7 +145,7 @@ My work is built on three core themes:
 <div style="max-width: 900px; margin: 0 auto 60px auto;">
   <p style="text-align: center; font-size: 1.15em; margin: 18px 0 0 0; font-weight: bold;">
     Indo-Pacific Finless Porpoise
-  <em style="font-style: italic;">(Neophoceana phoceanoides)</em>
+  <em style="font-style: italic;">(Neophocaena phocaenoides)</em>
   </p>
   <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
     
@@ -167,52 +169,14 @@ My work is built on three core themes:
       </div>
     </div>
 
-    <!-- Drawing -->
+    <!-- Local species photo (replaced dead markcarwardine.com hotlink) -->
+    <!-- Credit: ori2uru / CC BY 2.0 — see images/species/CREDITS.md -->
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://www.markcarwardine.com/whale_images/MC-FG-00930/thumb1.jpg"
-           alt="Indo-Pacific Finless Porpoise"
+      <img src="/images/species/indo-pacific-finless-porpoise.jpg"
+           alt="Indo-Pacific Finless Porpoise (Neophocaena phocaenoides)"
            style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+      <p style="font-size: 0.75em; color: #666; margin-top: 6px;">Photo: ori2uru (CC BY 2.0)</p>
     </div>
 
   </div>
 </div>
-
-<!--
-<p style="text-align:center; font-weight:bold; font-size:24px"> <a href="https://yuenwaho.github.io/data_science_in_ecology/">Conservation Technology & STEAM</a> </p>
- -->
-
-<!-- <footer>
-    <div class="footer-logos">
-        <img src="/images/microplastics-sampling-4.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/acoustics-diver.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/porpoise_earbone.gif" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/Sousa_earbone.gif" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-    </div>
-</footer>
-
-<footer>
-    <div class="footer-logos" style="display: flex; gap: 10px; justify-content: center;">
-        <img src="/iimages/microplastics-sampling-2.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 7D2_0499.jpg" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 412_0025.JPG" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 505_3468.jpg" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-    </div>
-</footer> -->
-
-<!-- <footer>
-    <div class="footer-logos">
-        <img src="/images/microplastics-sampling-4.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/acoustics-diver.png" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/porpoise_earbone.gif" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/Sousa_earbone.gif" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-    </div>
-</footer>
-
-<footer>
-    <div class="footer-logos" style="display: flex; gap: 10px; justify-content: center;">
-        <img src="/iimages/microplastics-sampling-2.png" alt="Logo 1" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 7D2_0499.jpg" alt="Logo 2" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 412_0025.JPG" alt="Logo 3" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-        <img src="/images/DH 505_3468.jpg" alt="Logo 4" style="display: inline; margin-right: 10px; width: auto; height: 120px;">
-    </div>
-</footer> -->

@@ -21,7 +21,7 @@ redirect_from:
 
 - Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University 2021 - _present_
 - Postdoctoral Fellow, State Key Laboratory of Marine Environmental Health, City University of Hong Kong 2026 - _present_
-- Research Scientist @[Cetacea Research Institute](https://www.cetacea-institute.org/cri), Hong Kong. 2018 - _present_
+- Research Scientist @[Cetacea Research Institute](https://www.cetacea-institute.org/), Hong Kong. 2018 - _present_
 - Parttime Lecturer, Division of Science and Wu Jieh Yee School of Interdisciplinary Studies, Lingnan University. 2026 - _present_
 - Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education. 2026 - _present_
 - Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. 2025 Jul - _present_

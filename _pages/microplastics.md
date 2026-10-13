@@ -7,7 +7,7 @@ redirect_from:
   # - /microplastics
 ---
 
-<img src="/images/microplastics-header.png" alt="microplastic-studiess" style="float: center; width: 900px;" />
+<img src="/images/microplastics-header.jpg" alt="microplastic-studiess" style="display: block; max-width: 100%; height: auto; margin: 0 auto;" />
 
 I investigates the pervasive issue of microplastic pollution in aquatic ecosystems, including detection method, characterization, and ecological risk assessment. My work cover diverse systems, from human samples (faecal, urine, sperm samples), where I investigated the potential health risks, to marine organisms such as Indo-Pacific humpback dolphins, green-lipped mussels, and edible oysters, using advanced spectroscopic techniques (e.g., Raman microspectroscopy and optical photothermal infrared O-PTIR) to quantify microplastic ingestion. We also help develop high-throughput polarization holographic imaging for rapid microplastic identification.
 
@@ -87,14 +87,14 @@ My research further examines the environmental dynamics of microplastics, mappin
 <div style="display: flex; gap: 5px; align-items: flex-start; margin-bottom: 5px;">
   <a href="https://doi.org/10.1080/09593330.2025.2521762" target="_blank" rel="noopener">
     <img
-      src="/images/manuscript_covers/2025 Saidu PET degradation.png"
+      src="/images/manuscript_covers/2025 Saidu PET degradation.jpg"
       alt="Saidu et al. 2025 – PET degradation"
       style="height: 300px; width: auto;"
     >
   </a>
     <a href="https://doi.org/10.1021/acs.est.5c06538" target="_blank" rel="noopener">
     <img
-      src="/images/manuscript_covers/2025 bao-et-al-2025.png"
+      src="/images/manuscript_covers/2025 bao-et-al-2025.jpg"
       alt="Bao et al. 2025 – River MP Plastisphere"
       style="height: 300px; width: auto;"
     >
@@ -120,17 +120,17 @@ My research further examines the environmental dynamics of microplastics, mappin
 
 ## Microplastics Ingestion in humpback dolphins
 
-<img src="/images/microplastics-mapping.png" alt="mapping" style="float: center; width: 500px;" />
+<img src="/images/microplastics-mapping.jpg" alt="mapping" style="float: center; width: 500px;" />
 
 This study investigates the issue of microplastic ingestion in coastal cetaceans, focusing on humpback dolphins stranded in Hong Kong between 2014 and 2023. We aim at understanding the extent of small-sized plastic particle retained in stomach content. Using μ-Raman spectroscopy with automated mapping analysis, we characterized the size and quantity of all microplastics ingestd without subsampling.
 
 Among the various polymers detected, low-density polymers such as polystyrene (PS), polypropylene (PP), and polyethylene (PE) accounted for 92.1% of all identified plastics. We also applied a hierarchical Bayesian model on the size-dependent abundance, which showed that the number of microplastic particles with a size smaller than 113.6μm may have been substantially underestimated. Although significant inter-individual variations were observed, our study’s advanced methodologies and application of Bayesian modeling techniques provide evidence that previous estimates of microplastic ingestion in coastal cetaceans worldwide are likely to have been underestimated.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/images/microplastics-sampling-1.png" alt="sampling" style="width: 250px;">
-  <img src="/images/microplastics-sampling-2.png" alt="sampling" style="width: 250px;">
-  <img src="/images/microplastics-sampling-3.png" alt="sampling" style="width: 250px;">
-  <img src="/images/microplastics-sampling-4.png" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-1.jpg" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-2.jpg" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-3.jpg" alt="sampling" style="width: 250px;">
+  <img src="/images/microplastics-sampling-4.jpg" alt="sampling" style="width: 250px;">
 </div>
 
 <footer style="margin-top: 20px;">

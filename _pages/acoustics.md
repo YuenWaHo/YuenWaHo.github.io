@@ -36,7 +36,7 @@ I use passive acoustic monitoring (PAM) and advanced signal processing to study 
 <div class="abstract" markdown="1" style="font-size:0.9em; line-height:1.4;">
 In this study, we collected high-temporal underwater recordings from 8 stations in the western and southern waters of Hong Kong. Spanning from March 2019 to August 2023, these recordings were made using the SoundTrap 300HF recorder and captured the rich soundscape of the marine environment. Professional scuba divers retrieved and deployed the hydrophones monthly for data download and maintenance, ensuring a continuous stream of valuable information. We examined the spectral variations within the long-term recording data, focusing on frequencies between 20 Hz and 144 kHz. By unraveling the intricate underwater acoustics, our project aims to enhance our understanding of marine ecosystems and contribute to the conservation of marine life.
 </div>
-<img src="/images/acoustics-diver.png" alt="acoustics" style="float: center; width: 300px;" />
+<img src="/images/acoustics-diver.jpg" alt="acoustics" style="float: center; width: 300px;" />
 
 ## Night-time Acoustic Line Transect Study
 
