@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Data Science in Ecology"
+title: "Conservation Technology & STEAM"
 permalink: /data_science_in_ecology/
 author_profile: true
-redirect_from:
-  # - /resume
 ---
 
-To be updated.
+This page is a placeholder. Content on digital twins, STEAM education, and conservation technology will be added soon.
+
+In the meantime, related highlights are on the [homepage](/).
