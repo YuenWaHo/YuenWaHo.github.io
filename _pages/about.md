@@ -13,7 +13,7 @@ redirect_from:
 [![ResearchGate](https://img.shields.io/badge/RG-badge?style=for-the-badge&logo=ResearchGate&logoColor=ffffff&labelColor=000000&color=000000)](https://www.researchgate.net/profile/Yuen-Wa-Ho)
 [![Google Scholar](https://img.shields.io/badge/GScholar-badge?style=for-the-badge&logo=GoogleScholar&color=ffffff)](https://scholar.google.com.hk/citations?user=rCZFcA4AAAAJ&hl=en)
 
-Hello, I'm **Dr. Derek Ho**, a marine ecologist and conservation scientist. My research investigates the cumulative impacts of anthropogenic stressors — particularly microplastic pollution and underwater noise — on coastal biodiversity in rapidly urbanizing regions such as the Pearl River Estuary and Greater Bay Area. I integrate field ecology with advanced computational approaches, including Bayesian hierarchical modelling, passive acoustic monitoring, and machine learning.
+I'm **Derek Ho**, a marine ecologist and conservation scientist. My research investigates the cumulative impacts of anthropogenic stressors — particularly microplastic pollution and underwater noise — on coastal biodiversity in rapidly urbanizing regions such as the Pearl River Estuary and Greater Bay Area. I integrate field ecology with advanced computational approaches, including Bayesian hierarchical modelling, passive acoustic monitoring, and machine learning.
 
 My work is built on three core themes:
 
