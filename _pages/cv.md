@@ -19,11 +19,10 @@ redirect_from:
 
 ## Current Positions
 
-- Postdoctoral Fellow @[Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University 2021 - _present_
+- Postdoctoral Fellow [Marine Ecology & Aquaculture Laboratory](https://www.seafoodmeal.today/), Hong Kong Polytechnic University 2021 - _present_
 - Postdoctoral Fellow, State Key Laboratory of Marine Environmental Health, City University of Hong Kong 2026 - _present_
-- Research Scientist @[Cetacea Research Institute](https://www.cetacea-institute.org/), Hong Kong. 2018 - _present_
-- Parttime Lecturer, Division of Science and Wu Jieh Yee School of Interdisciplinary Studies, Lingnan University. 2026 - _present_
-- Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education. 2026 - _present_
+- Research Scientist [Cetacea Research Institute](https://www.cetacea-institute.org/), Hong Kong. 2018 - _present_
+- Parttime Lecturer, [Division of Science](https://www.ln.edu.hk/dos), Lingnan University. 2026 - _present_
 - Visiting Postdoctoral Fellow @[Marine Ecoacoustics and Informatics Lab](https://meil.biodiv.tw/home), Academia Sinica. 2025 Jul - _present_
 - Founder and Director - OceanEcho Innovation Ltd. Est. since 2025 Oct
 
@@ -33,16 +32,16 @@ redirect_from:
 - B.Sc. in Ecology and Biodiversity, The University of Hong Kong, 2013
 
 ## Previous Positions
-
+- Parttime Lecturer, [Wu Jieh Yee School of Interdisciplinary Studies](https://www.ln.edu.hk/academics/wu-jieh-yee-school-of-interdisciplinary-studies), Lingnan University. 2026 - _present_
 - Visiting Researcher, Biodiversity Research Center, Academia Sinica. 2023 Jul
 - Postdoctoral Fellow & Lab Manager, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2021 - 2025
-- Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education Community Collecge. 2022, 2023
+- Parttime Instructor, The University of Hong Kong School of Professional and Continuing Education Community Collecge. 2022, 2023, 2026
 - Lab Manager & Research Assistant, Marine Ecology & Aquaculture Laboratory, Hong Kong Polytechnic University. 2019 - 2021
 - Research Assistant, Cetacean Ecology Lab., The University of Hong Kong. 2013 - 2015
 
 ## Publications
 
-[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>726</strong> / h-index: <strong>11</strong> / i10-index: <strong>13</strong>
+[Full CV](https://drive.google.com/file/d/1t-wq0bvPKNbjccj_m9CtmdHB8Su4nFYv/view) Google Scholar Citations: <strong>809</strong> / h-index: <strong>12</strong> / i10-index: <strong>14</strong>
 
 <div class="authorship" markdown="1" style="font-size:0.9em; line-height:1.4;">
 <sup>#</sup> Equal contribution \* Corresponding author
