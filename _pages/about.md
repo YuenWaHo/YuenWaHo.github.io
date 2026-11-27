@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Derek Ho | Marine Ecologist"
+title: "Derek Ho"
 author_profile: true
 redirect_from:
   - /about/

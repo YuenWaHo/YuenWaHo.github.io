@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale: "en-US"
-# title: "Derek Ho"
-# title_separator: "-"
+title: "Derek Ho"
+title_separator: "-"
 name: &name "Derek Ho"
 description: &description "Marine ecologist studying microplastics, underwater noise, and coastal cetaceans in the Pearl River Estuary and Greater Bay Area."
 url: https://YuenWaHo.github.io
